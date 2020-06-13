@@ -6,7 +6,7 @@ share : false
 #layout : docs
 ---
 
-## Quantum Mechanics (TP4 IPSP, Leipzig)
+### Quantum Mechanics (TP4 IPSP, Leipzig)
 
 - Mock exam 2017 solutions
   - [Problem 1](/files/tp4_qho_summary.pdf) (Creation - Annhiliation operators ) <br>
