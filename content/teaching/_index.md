@@ -10,7 +10,7 @@ layout : docs
 
 </center>
 
-1. [Winter Semester 19/20]({{ref "ws1920/sem3.md"}})
+1. [Winter Semester 19/20]({{< ref "ws1920/sem3.md" >}})
    - IPSP semester III tutorial
      - Theoretical Physics III :  Classical mechanics II, Electrodynamics II & Special relativity
    - IPSP semester I tutorial
