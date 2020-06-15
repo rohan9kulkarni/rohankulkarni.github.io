@@ -10,10 +10,10 @@ layout : docs
 
 </center>
 
-1. [Winter Semester 19/20]({{< ref "ws1920/sem3.md" >}})
-   - IPSP semester III tutorial
+1. Winter Semester 19/20
+   - [IPSP semester III tutorial]({{< ref "ws1920/sem3.md" >}})
      - Theoretical Physics III :  Classical mechanics II, Electrodynamics II & Special relativity
-   - IPSP semester I tutorial
+   - [IPSP semester I tutorial]({{< ref "ws1920/sem1.md">}})
      - Theoretical Physics I : Classical Mechanics I
      - Experimental Physics I : Mechanics, Elasticity & Fluids
      - Mathematics I : Real analysis for physicists

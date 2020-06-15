@@ -1,15 +1,28 @@
 ---
-title : Notes
-subtitle : Maybe this is the lifeboat you are looking for?
-summary : Hello
+title :
+subtitle : <center>  <h3> Is this the lifeboat you were looking for?  </h3></center>
+summary : Notes
 share : false
-#layout : docs
+layout : docs
 ---
 
-### Quantum Mechanics (TP4 IPSP, Leipzig)
-
-- Mock exam 2017 solutions
-  - [Problem 1](/files/tp4_qho_summary.pdf) (Creation - Annhiliation operators ) <br>
+## <span style="color:red"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
+### <span style="color:#3db19b"> <center> Mock exam 2017 solutions </center> </span>
+  - [Problem 1](/files/tp4/tp4_qho_summary.pdf) : Creation - Annhiliation operators  <br>
     Not the complete solution but most of the things here are necessary.
-  - [Problem 2] (Finite potential barrier/wells)
-  - [Problem 3](/files/tp4_mock17_prob3) (Spin) <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added
+  - [Problem 2]() : Finite potential barrier/wells (To be added)
+  - [Problem 3](/files/tp4/tp4_mock17_prob3.pdf) : Spin <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added
+<br>
+### <center> <span style="color:#3db19b"> Miscellaneous notes on important topics </span> </center>
+  - [Schrodinger vs Heisenberg picture (With example)](/files/tp4/heisenberg_schrodinger_picture.pdf)
+
+
+## <span style="color:red"> Old exams for self test for IPSP students </span>
+- [Self-test : Semester I exam](/files/extra_exams/sem1_mock_rohan.pdf) <br>
+  - [Syllabus](/files/extra_exams/sem1_mock_syllabus.pdf)
+- [Self-test : Theoretical Physics II exam](/files/extra_exams/tp2_extramock_rohan.pdf)
+
+## <span style="color:red"> Miscellaneous Notes <span>
+- [Intuition behind Jacobians](/files/extra_exams/jacobians_rohan.pdf)
+- [A nice lagrangian problem with solution](/files/misc_notes/lagrangian_problem.pdf)
+- [A very very basic intro to ODEs](/files/misc_notes/odes.pdf)

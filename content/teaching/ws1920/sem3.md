@@ -28,22 +28,22 @@ date : false
    - Understanding Lagrangians
    - Two stick problem (PDF)
    - Derivation of the Hamiltonian and the corresponding equations of motion.
-1. *Tuesday, **5 Nov 2019***, (5 PM - 7 PM) 
+1. *Tuesday, **5 Nov 2019***, (5 PM - 7 PM)
    Start of Special theory of relativity
    - Invariance of Maxwell's equation with respect to Galilean transformation
    - Inertial frames of reference
    - Introduction to Spacetime diagrams
-1. *Tuesday, **12 Nov 2019***, (5 PM - 7 PM) 
+1. *Tuesday, **12 Nov 2019***, (5 PM - 7 PM)
    - Relativity of simultaneity
    - Derivation of the Lorentz boost factor using Spacetime diagrams
    - General Lorentz transformations (Lorentz transformation for motion in more than 1 dimension)
-1. *Tuesday, **19 Nov 2019***, (5 PM - 7 PM) 
+1. *Tuesday, **19 Nov 2019***, (5 PM - 7 PM)
    - Length contraction and time dilation
    - Invariants in Special relativity
    - Geometry of Euclidean space v/s Minkowski space
-1. *Friday, **29 Nov 2019***, (5 PM - 7 PM) 
+1. *Friday, **29 Nov 2019***, (5 PM - 7 PM)
    - Derivation of the Minkowski metric using a moving light(photon) clock
    - Light cone and causal structure in special relativity
    - Physical interpretation of proper time and spacetime interval (Invarients in SR)
    - Relativistic addition of velocities
-1. *Tuesday, **5 Nov 2019***, (5 PM - 7 PM) 
+1. *Tuesday, **5 Nov 2019***, (5 PM - 7 PM)
