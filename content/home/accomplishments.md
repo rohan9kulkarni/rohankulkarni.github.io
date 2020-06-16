@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Certifications (To be updated)"
-subtitle = ""
+title = "Certifications (Currently Updating)"
+subtitle = "Online certifications from edX and coursera"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -26,8 +26,18 @@ date_format = "Jan 2006"
   url = "https://www.edx.org/course/vibrations-and-waves"
   certificate_url = ""
   date_start = "2020-03-01"
-  date_end = ""
-  description = "MIT 8.03 course. Currently going on"
+  date_end = "2020-07-31"
+  description = """ Syllabus :
+  - Simple, damped & driven harmonic motion, resonance
+  - Coupled oscillators, normal modes and matrix formulation of equations of motion
+  - Vibration of continuous systems leading to derivation of the wave equation and it's solutions
+  - Various properties of sound and electromagnetic waves
+  - Polarization, waves at interfaces & in media
+  - Interference phenomena
+
+   """
+
+
 #MIT CS
 [[item]]
   organization = "MIT - edX"
