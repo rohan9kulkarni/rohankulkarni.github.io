@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   certificate_url = "https://credentials.edx.org/records/programs/2c2bcae16a984788bd9c3b338650c84d/"
   date_start = "2019-12-01"
   date_end = ""
-  description = """  A series of four courses dealing with Astrophysics fundamentals from algorithms, algorithmic complexities, object oriented programming, data structures, stochastic programming, monte carlo simulations and machine learning fundamentals.<br>
+  description = """  A series of four courses dealing with Astrophysics fundamentals from algorithms, algorithmic complexities, object oriented programming, data structures, stochastic programming,  Monte Carlo simulations and machine learning fundamentals.<br>
 1. Astro1x - [Greatest Unsolved Mysteries of the Universe](https://s3.amazonaws.com/verify.edx.org/downloads/ebb5809833db4659ae2a7c37a5eca882/Certificate.pdf)
 2. Astro2x - [Exoplanets](https://s3.amazonaws.com/verify.edx.org/downloads/0f0bd31014234c9c9c5287e5f1c04223/Certificate.pdf)
 3. Astro3x [The Violent Universe](https://s3.amazonaws.com/verify.edx.org/downloads/f515099ad29244d186757e85a1a6aaae/Certificate.pdf)
