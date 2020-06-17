@@ -16,6 +16,8 @@ date : 2020-06-17
 
 <center>
 
+
+
 | Priority I                                                   | Priority II                                       |
 | :----------------------------------------------------------- | :------------------------------------------------ |
 | (2.3) Gauss law                                              | !(3.3) Charge density around an atom              |
@@ -30,7 +32,11 @@ date : 2020-06-17
 | (10.1) Magnetic induction at high symmetry points            |                                                   |
 | (11.1) Magnetized cylinder                                   |                                                   |
 
+</center>
+
 * Being a physics exam, you won't have purely mathematical problems, but you definitely will need results from many of the mathematical exams straight away. Basically, you should know what is the divergence theorem, stokes theorem, etc and how to take line/surface/volume integrals (at least for good symmetric surfaces)
+
+<center>
 
 | **Mathematical concepts needed from these problems** |
 | :--------------------------------------------------: |
