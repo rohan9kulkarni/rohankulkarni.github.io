@@ -8,8 +8,8 @@ layout : docs
 
 ## <span style="color:orange"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
 ###  <center> <span style = "color:#3db18b">Mock exam 2017 solutions </span> </center>
-  - [Problem 1](/files/tp4/tp4_qho_summary.pdf) : Creation - Annhiliation operators  <br>
-    Not the complete solution but most of the things here are necessary.
+  - [Problem 1](/files/tp4/tp4_mock17_prob1.pdf) : Creation - Annhiliation operators  <br>
+    [Extra notes](/files/tp4/tp4_qho_summary.pdf) :
   - [Problem 2]() : Finite potential barrier/wells (To be added)
   - [Problem 3](/files/tp4/tp4_mock17_prob3.pdf) : Spin <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added
 <br>
