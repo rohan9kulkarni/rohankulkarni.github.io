@@ -9,8 +9,11 @@ layout : docs
 ## <span style="color:orange"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
 ###  <center> <span style = "color:#3db18b">Mock exam 2017 solutions </span> </center>
   - [Problem 1](/files/tp4/tp4_mock17_prob1.pdf) : Creation - Annhiliation operators (Detailed solution to part(a) added) <br>
-    [Extra notes](/files/tp4/tp4_qho_summary.pdf) 
-  - [Problem 2]() : Finite potential barrier/wells (To be added)
+    [Extra notes](/files/tp4/tp4_qho_summary.pdf)
+  - Problem 2 : Finite potential barrier/wells (Check the links below)
+    - [Rectangular barrier](http://tediousderivations.blogspot.com/2013/08/rectangular-potential-barrier.html)
+    - [Potential step](tediousderivations.blogspot.com/2013/08/potential-step.html)
+    - [Infinite square well](http://tediousderivations.blogspot.com/2013/07/infinite-square-box-potential-wells.html)
   - [Problem 3](/files/tp4/tp4_mock17_prob3.pdf) : Spin <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added
 <br>
 ### <center> <span style="color:#3db18b"> Miscellaneous notes on important topics </span> </center>
