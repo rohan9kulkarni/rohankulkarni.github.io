@@ -11,7 +11,7 @@ layout : docs
 </center>
 
 1. Winter Semester 19/20
-   - [IPSP semester III tutorial]({{< ref "ws1920/sem3.md" >}})
+   - [IPSP semester III tutorial](https://www.rohankulkarni.me/teaching/ws1920/sem3 "Google's Homepage")
      - Theoretical Physics III :  Classical mechanics II, Electrodynamics II & Special relativity
    - [IPSP semester I tutorial]({{< ref "ws1920/sem1.md">}})
      - Theoretical Physics I : Classical Mechanics I
@@ -22,3 +22,5 @@ layout : docs
 3. Winter semester 2018/19
 4. Summer break 2018
 5. Winter semester 2017/18
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
