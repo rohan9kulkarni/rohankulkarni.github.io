@@ -21,16 +21,18 @@ organizations:
 bio: Just a simple man who tries to make a difference.
 
 interests:
-- String theory
+
+- Cosmology
+- String Theory
 - Quantum gravity
-- Early universe cosmology
 - Black hole mechanics
+- Mathematical and Numerical Relativity
 
 education:
   courses:
-  - course : M.Sc. Physics
+  - course : Accepted for M.Sc. Physics for Nov 2020 start
     institution : Heidelberg University, Germany
-    year : "(Starting Nov 2020)"
+    year : "(Status : Still deciding)"
   - course: B.Sc. Physics IPSP (International Physics Studies Program - IPSP)
     institution: Leipzig University, Germany
     year: July 2019
