@@ -73,7 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I will be starting my M.Sc. Physics program at Heidelberg from November 2020. During my undergraduate years, I worked as a Teaching Assistant for 3 years for various subjects in Theoretical Physics, Mathematics, and even Experimental Physics.
+I graduated with a BSc in Physics from the University of Leipzig. During my undergraduate years, I worked as a Teaching Assistant for 3 years for various subjects in Theoretical Physics, Mathematics, and even Experimental Physics.
 My final bachelor’s thesis had the topic “Black holes, Singularity theorems and the Global Structure of Spacetime”.
 
 <!--- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
