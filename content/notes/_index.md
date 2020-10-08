@@ -6,6 +6,9 @@ share : false
 layout : docs
 ---
 
+## <span style="color:orange"> Statistical Mechanics (TP5 IPSP, Leipzig) </span>
+- [Problem 1](/files/notes/tp5/prob1.pdf) : Statistical mechanics of Quantum harmonic oscillator
+
 ## <span style="color:orange"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
 ###  <center> <span style = "color:#3db18b">Mock exam 2017 solutions </span> </center>
   - [Problem 1](/files/tp4/tp4_mock17_prob1.pdf) : Creation - Annhiliation operators (Detailed solution to part(a) added) <br>
