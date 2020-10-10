@@ -30,11 +30,10 @@ date_format = "Jan 2006"
 
 
 
-1. [**TA for Theoretical Physics III**](https://www.rohankulkarni.me/teaching/ws1920/sem3) : <br> Theoretical Physics III is a third semester core module. The topics of the module are _**Classical mechanics II, Electrodynamics II & Special relativity**_ <br>
+1. [**TA for Theoretical Physics III**](https://www.rohankulkarni.me/teach/ws1920/sem3) : <br> Theoretical Physics III is a third semester core module. The topics of the module are _**Classical mechanics II, Electrodynamics II & Special relativity**_ <br>
    - Delivered two hour lectures once a week. Lecture duties included a
    variety of topics considered difficult by the students, and occasionally demonstrating assignment solutions.
-   - ​Assisted in formulating assignment sheets with solutions. Also, assisted in formulating the exam and solutions.
-
+   - Assisted in formulating assignment sheets with solutions. Also, assisted in formulating the exam and solutions.
 2. [**Tutor for semester I students**](https://www.rohankulkarni.me/teaching/ws1920/sem1)<br>
 
 
