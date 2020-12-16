@@ -6,22 +6,12 @@
 [[main]]
   name = "Home"
   url = "#about"
+  weight = 5
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
   weight = 10
-
-[[main]]
-  name = "Notes"
-  url = "notes/"
-  weight = 25
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
-[[main]]
-  name = "Teaching"
-  url = "teach/"
-  weight = 20
 
 [[main]]
   name = "Certifications"
@@ -29,9 +19,29 @@
   weight= 15
 
 [[main]]
+  name = "Teaching"
+  url = "teach/"
+  weight = 20
+
+[[main]]
+  name = "Notes"
+  url = "notes/"
+  weight = 25
+
+[[main]]
   name = "IPSP Blog"
   url = "ipsp_blog/"
   weight = 55
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
+
+
+
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

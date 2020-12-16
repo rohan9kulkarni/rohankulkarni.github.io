@@ -2,7 +2,7 @@
 title : Semester III tutorial for winter semester 2019/20
 share : true
 layout : docs
-date : Last updated (10 Oct 2020)
+date : "Oct 2020"
 ---
 
 
@@ -75,14 +75,13 @@ Some of the lectures have a link to videos. They were recorded by students for t
 
     <br>
 
-1. *Thursday, **6 Dec 2019***, (5 PM - 7 PM) [Part 1](https://www.youtube.com/watch?v=FmS0Z5Ge4kA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=6), [Part 2](https://www.youtube.com/watch?v=FmS0Z5Ge4kA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=7)
+1. *Thursday, **6 Dec 2019***, (5 PM - 7 PM) [Part 1](https://www.youtube.com/watch?v=n2MYq7euHYc&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=6), [Part 2](https://www.youtube.com/watch?v=eXMm3Tj8JUU&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=7)
     - Vectors vs Co-vectors (Dual vectors)
     - Metric tensors in general $g_{\mu\nu}$ and Minkowski metric $\eta_{\mu\nu}$
     - Help for HW7
 
-    <br>
 
-1. *Monday, **10 Dec 2019***, (5 PM - 7 PM) [Part 1](https://www.youtube.com/watch?v=FmS0Z5Ge4kA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=8), [Part 2](https://www.youtube.com/watch?v=FmS0Z5Ge4kA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=9) <br>
+1. *Monday, **10 Dec 2019***, (5 PM - 7 PM) [Part 1](https://www.youtube.com/watch?v=-wPrmkJzxDA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=8), [Part 2](https://www.youtube.com/watch?v=Lw5MKxqBWPY&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=9) <br>
     Start of some Classical field theory
     - Action principle for fields
     - Field theory : Lagrangian fields, Euler-Lagrange equation for fields
@@ -90,5 +89,16 @@ Some of the lectures have a link to videos. They were recorded by students for t
     - Relativistic / 4-vector fields
 
     <br>
+    Data missing from 2-3 lectures in between
+    <br>
+    <br>
 
-1. *Monday, **10 Dec 2019***, (5 PM - 7 PM) [Part 1](https://www.youtube.com/watch?v=FmS0Z5Ge4kA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=8), [Part 2](https://www.youtube.com/watch?v=FmS0Z5Ge4kA&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=9)
+1. *Friday, **31 Jan 2020***, (5 PM - 7 PM) [Part 1](https://www.youtube.com/watch?v=g24OmdduSvc&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=10), [Part 2](https://www.youtube.com/watch?v=uYylVt8t5Yw&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=11)
+    - Defining 4-current : $ J^{\mu} = (\rho,J^{i}) $
+    - Maxwell's equations in tensor notation : $ \partial_\mu F^{\mu\nu} = \mu_0 J^\mu \quad $, $\partial_\lambda F_{\mu\nu}+\partial_\mu F_{\nu \lambda} + \partial_\nu F_{\lambda \mu} = 0 $
+
+    <br>
+
+1. *Tuesday, **04 Feb 2020***, (5 PM - 7 PM) [Video](https://www.youtube.com/watch?v=g24OmdduSvc&list=PLie_Zxd9P-wGwW0skppjWbJUy7ifBbZPY&index=12)
+    - Finding a relation between $ \vec{E} $ and $\vec{B}$ using Maxwell's equations and Wave equations.
+    - Different polarizations of the electromagnetic wave
