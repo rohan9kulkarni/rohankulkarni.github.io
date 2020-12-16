@@ -1,6 +1,6 @@
 ---
 title: Causal structure of spacetime
-summary: An example of using the in-built project page.
+summary: Talk for a Master's level seminar in Leipzig
 tags:
 - gr
 date: "2016-04-27T00:00:00Z"
