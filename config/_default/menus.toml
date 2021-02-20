@@ -31,12 +31,17 @@
 [[main]]
   name = "IPSP Blog"
   url = "ipsp_blog/"
+  weight = 60
+
+[[main]]
+  name = "Literature"
+  url = "physics_literature"
   weight = 55
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 65
 
 
 
