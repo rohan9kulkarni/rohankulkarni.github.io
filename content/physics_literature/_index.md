@@ -11,7 +11,7 @@ layout : docs
 - First year physics 
 - Classical mechanics
 - Analytical mechanics
-- Electrodynamics
+- [Electrodynamics]({{<ref"ug/ed">}})
 - Special relativity
 - Quantum mechanics
 - Statistical physics
