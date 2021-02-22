@@ -7,27 +7,34 @@ layout : docs
 ---
 
 ## <span style="color:orange">Undergraduate physics courses </span>
-
 - First year physics 
 - Classical mechanics
 - Analytical mechanics
 - [Electrodynamics]({{<ref"ug/ed">}})
 - Special relativity
+- Vibrations and Waves
 - Quantum mechanics
+- Thermodynamics
 - Statistical physics
 - Solid state physics 
+- Astrophysics 
 
 ## <span style="color:orange"> Graduate physics courses </span>
-
 - Advanced Quantum theory
 - [Cosmology]({{<ref"grad/cosmology">}})
 - General relativity
 - Quantum field theory
 
-## <span style="color:orange"> Mathematics </span>
-
+## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
 - Mathematics for Physicists books (Both- Basic and Advanced)
 - [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}})
 - Linear algebra
-- Functional anaylsis
-- Differential geometry
+- Complex analysis
+- Differential equations
+- Functional anaylsis (Advanced)
+- Differential geometry (Advanced)
+
+## <span style="color:orange"> Graduate Mathematics "for Physicists" </span>
+- Mathematical Physics
+- Group theory
+- Gauge theory
