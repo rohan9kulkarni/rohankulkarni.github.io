@@ -15,6 +15,7 @@ layout : docs
 - Special relativity
 - Quantum mechanics
 - Statistical physics
+- Solid state physics 
 
 ## <span style="color:orange"> Graduate physics courses </span>
 
@@ -24,8 +25,9 @@ layout : docs
 - Quantum field theory
 
 ## <span style="color:orange"> Mathematics </span>
-- Mathematics for Physicists books
-- Calculus (Single, multi-variate and vector)
+
+- Mathematics for Physicists books (Both- Basic and Advanced)
+- [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}})
 - Linear algebra
 - Functional anaylsis
 - Differential geometry
