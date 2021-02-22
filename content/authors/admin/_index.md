@@ -72,7 +72,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I graduated with a BSc in Physics from the University of Leipzig. During my undergraduate years, I worked as a Teaching Assistant for 3 years for various subjects in Theoretical Physics, Mathematics, and even Experimental Physics.
-My final bachelor’s thesis had the topic “Black holes, Singularity theorems and the Global Structure of Spacetime”.
+Currently, I am a Masters student at the University of Heidelberg doing advanced courses in Quantum field theories and Cosmology. I graduated with a BSc in Physics from the University of Leipzig. During my undergraduate years, I worked as a Teaching Assistant for 3 years for various subjects in Theoretical Physics, Mathematics, and Experimental Physics. My final bachelor’s thesis had the topic “Black holes, Singularity theorems and the Global Structure of Spacetime”.
+
+The main purpose of this website apart from "who I am and what I have done", is outreach. The past 5 years of my life have been revolving around one thing - _Theoretical Physics_. While on this amazing journey, there were many such instances where I felt "if only someone had told me that, I would have saved hours of work" or "that one statement made me understand xyz". I want to pass on the wisdom and tools I gained on this journey to my colleagues and anyone trying to decipher the breathtaking world of physics. I plan to continuosly keep updating the "notes" and "literature" tabs, one page at a time. Also, thinking of starting a regular blog about things like, my learning techniques, note taking algorithms, etc.
+
+I hope whoever found this website gains something useful from it. If not, you just got aquainted with another friendly face :)
 
 <!--- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
