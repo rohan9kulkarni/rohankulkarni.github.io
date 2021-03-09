@@ -6,6 +6,11 @@ share : false
 layout : docs
 ---
 
+## <span style="color:orange"> Quantum field theory I (MSc course Heidelberg) </span>
+- [Problem 10.1](/files/notes/heidelberg_qft/10_1.pdf) : Yukawa potential
+
+<hr>
+
 ## <span style="color:orange"> Statistical Mechanics (TP5 IPSP, Leipzig) </span>
 
 - [Problem 1](/files/notes/tp5/prob1.pdf) : Statistical mechanics of Quantum harmonic oscillator
@@ -15,15 +20,13 @@ layout : docs
 
 ## <span style="color:orange"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
 
-### <span style = "color:#3db18b">Mock exam 2017 solutions </span>
-
-- [Problem 1](/files/tp4/tp4_mock17_prob1.pdf) : Creation - Annhiliation operators (Detailed solution to part(a) added) <br>
+- [Mock 2017 - Problem 1](/files/tp4/tp4_mock17_prob1.pdf) : Creation - Annhiliation operators (Detailed solution to part(a) added) <br>
   [Extra notes](/files/tp4/tp4_qho_summary.pdf)
-- Problem 2 : Finite potential barrier/wells (Check the links below)  
+- Mock 2017 - Problem 2 : Finite potential barrier/wells (Check the links below)  
   - [Rectangular barrier](http://tediousderivations.blogspot.com/2013/08/rectangular-potential-barrier.html)
   - [Potential step](tediousderivations.blogspot.com/2013/08/potential-step.html)
   - [Infinite square well](http://tediousderivations.blogspot.com/2013/07/infinite-square-box-potential-wells.html)
-- [Problem 3](/files/tp4/tp4_mock17_prob3.pdf) : Spin <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added 
+- [Mock 2017 - Problem 3](/files/tp4/tp4_mock17_prob3.pdf) : Spin <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added 
 - [Schrodinger vs Heisenberg picture (With example)](/files/tp4/heisenberg_schrodinger_picture.pdf)
 
 ## <span style="color:orange"> Old exams for self test for IPSP students </span>

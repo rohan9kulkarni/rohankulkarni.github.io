@@ -7,6 +7,7 @@ layout : docs
 ---
 
 ## <span style="color:orange">Undergraduate physics courses </span>
+
 - First year physics 
 - Classical mechanics
 - Analytical mechanics
@@ -20,12 +21,15 @@ layout : docs
 - Astrophysics 
 
 ## <span style="color:orange"> Graduate physics courses </span>
+
 - Advanced Quantum theory
 - [Cosmology]({{<ref"grad/cosmology">}})
 - General relativity
 - Quantum field theory
+- [Black holes]({{<ref"grad/bh">}})
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
+
 - Mathematics for Physicists books (Both- Basic and Advanced)
 - [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}})
 - Linear algebra
@@ -35,6 +39,7 @@ layout : docs
 - Differential geometry (Advanced)
 
 ## <span style="color:orange"> Graduate Mathematics "for Physicists" </span>
+
 - Mathematical Physics
 - Group theory
 - Gauge theory
