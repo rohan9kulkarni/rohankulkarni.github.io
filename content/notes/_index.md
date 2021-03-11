@@ -8,6 +8,7 @@ layout : docs
 
 ## <span style="color:orange"> Quantum field theory I (MSc course Heidelberg) </span>
 - [Problem 10.1](/files/notes/heidelberg_qft/10_1.pdf) : Yukawa potential
+- [Problem 12.2](/files/notes/heidelberg_qft/12_1.pdf) : Diagrammatic representation of partition fucntion for the Yukawa theory
 
 <hr>
 
