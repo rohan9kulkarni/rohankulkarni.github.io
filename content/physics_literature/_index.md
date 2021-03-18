@@ -23,9 +23,9 @@ layout : docs
 ## <span style="color:orange"> Graduate physics courses </span>
 
 - Advanced Quantum theory
+- [Quantum field theory]({{<ref"grad/qft">}})
 - [Cosmology]({{<ref"grad/cosmology">}})
 - General relativity
-- Quantum field theory
 - [Black holes]({{<ref"grad/bh">}})
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>

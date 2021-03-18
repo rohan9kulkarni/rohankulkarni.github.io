@@ -1,5 +1,5 @@
 ---
-title :
+title : Cosmology literature
 subtitle :  _Most of of times everything is homogeneous and isotropic, until its not..._
 share : true
 layout : docs
