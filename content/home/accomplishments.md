@@ -70,7 +70,6 @@ date_format = "Jan 2006"
 1. 6.001x - [Introduction to Computer Science & Programming using  Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)<br>
  [See certificate](https://courses.edx.org/certificates/04260f8f3772463ca9825ce221c2bb11)
 
-
 2. 6.002x - [Introduction to Computational thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) <br>
   [See certificate](https://courses.edx.org/certificates/d4b4011fa5e84f9abbcad792d5bb8e9a)
 
@@ -95,7 +94,8 @@ date_format = "Jan 2006"
   certificate_url = "https://credentials.edx.org/records/programs/2c2bcae16a984788bd9c3b338650c84d/"
   date_start = "2019-12-01"
   date_end = ""
-  description = """  A series of four courses dealing with Astrophysics fundamentals from algorithms, algorithmic complexities, object oriented programming, data structures, stochastic programming,  Monte Carlo simulations and machine learning fundamentals.<br>
+  description = """ First year Astrophysics from Australian national university. 
+  <br>
 1. Astro1x - [Greatest Unsolved Mysteries of the Universe](https://s3.amazonaws.com/verify.edx.org/downloads/ebb5809833db4659ae2a7c37a5eca882/Certificate.pdf)
 2. Astro2x - [Exoplanets](https://s3.amazonaws.com/verify.edx.org/downloads/0f0bd31014234c9c9c5287e5f1c04223/Certificate.pdf)
 3. Astro3x - [The Violent Universe](https://s3.amazonaws.com/verify.edx.org/downloads/f515099ad29244d186757e85a1a6aaae/Certificate.pdf)

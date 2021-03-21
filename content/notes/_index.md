@@ -7,8 +7,11 @@ layout : docs
 ---
 
 ## <span style="color:orange"> Quantum field theory I (MSc course Heidelberg) </span>
+
+- [Problem 6.2](/files/notes/heidelberg_qft/6_2.pdf) : Noether's theorem, Symmeteries, Conserved charges
 - [Problem 10.1](/files/notes/heidelberg_qft/10_1.pdf) : Yukawa potential
 - [Problem 10.2](/files/notes/heidelberg_qft/10_2.pdf) : Trace identities
+- [Problem 12.1](/files/notes/heidelberg_qft/12_1.pdf) : Gauge fields
 - [Problem 12.2](/files/notes/heidelberg_qft/12_2.pdf) : Diagrammatic representation of partition fucntion for the Yukawa theory
 
 <hr>
@@ -33,8 +36,7 @@ layout : docs
 
 ## <span style="color:orange"> Old exams for self test for IPSP students </span>
 
-- [Self-test : Semester I exam](/files/extra_exams/sem1_mock_rohan.pdf) <br>
-  - [Syllabus](/files/extra_exams/sem1_mock_syllabus.pdf)
+- [Self-test : Semester I exam](/files/extra_exams/sem1_mock_rohan.pdf) , [Syllabus](/files/extra_exams/sem1_mock_syllabus.pdf) 
 - [Self-test : Theoretical Physics II exam](/files/extra_exams/tp2_extramock_rohan.pdf)
 
 ## <span style="color:orange"> Miscellaneous Notes </span>
