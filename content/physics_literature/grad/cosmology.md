@@ -8,8 +8,7 @@ date : 2021-02-12
 
 ## <span style="color:orange"> Books </span>
 
-- <span style = "color:#3db18b"> Modern Cosmology - S. Dodelson <br> </span>
-  Expert in the field. His comments, even the smallest ones are precious. Any topic you don't understand you can come to this book. The sections on Boltzmann equations (3 and 4) and Inflation (chapter 6) are worth a read.
+- <span style = "color:#3db18b"> Modern Cosmology - S. Dodelson</span> <br>Expert in the field. His comments, even the smallest ones are precious. Any topic you don't understand you can come to this book. The sections on Boltzmann equations (3 and 4) and Inflation (chapter 6) are worth a read.
 
 <hr>
 

@@ -8,7 +8,7 @@ layout : docs
 
 ## Interview and application tips
 
-- [Interview for MSc Physics at Heidelberg University]() 
+- [Interview for MSc Physics at Heidelberg University]({{<ref "heidelberg/interview">}}) 
 
 ## Exam preparation tips
 
