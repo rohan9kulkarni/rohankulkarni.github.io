@@ -4,7 +4,7 @@ subtitle : <center> <h3>Heidelberg Physics Interview tips </h3> </center>
 summary :
 share : false
 layout : docs
-
+date : 2021-04-29
 ---
 
 ## <span style = "color:orange"> Application to Heidelberg </span>
@@ -37,7 +37,7 @@ One of the most common questions I receive is, "How do I prepare for the intervi
    - *A student's guide to Maxwell equations (For Electrodynamics)* 
    - *A student's guide to Waves (For Vibrations and Waves)*
    - *A student's guide to Schrodinger equation (For Quantum mechanics)* 
-4. For the other subjects, Feynman lectures should be enough as I mentioned. But, there are a few things that Feynman lectures do not cover. Use these for them,
+4. For the other subjects, Feynman lectures should be enough as I mentioned. But, there are a few things that Feynman lectures do not cover in enough detail. Use these for them,
    - *Thermal Physics* by Blundell (Thermodynamics and Statistical mechanics)
    - *Classical Dynamics of Particles and Systems*  by Marion, Thornton (For Analytical mechanics)
    - *Special relativity and Classical field theory* by Leonard Susskind (First 3 chapters should be good enough for Special relativity)
@@ -49,48 +49,36 @@ The most important advice I can give is that, **keywords** are much powerful tha
 
 ### <span style = "color:#3db18b"> General questions </span>
 
-1. Why are you applying to Heidelberg?
+1. <span style = "color:#158FBF">Why are you applying to Heidelberg?</span>
    - There are 8-9 specializations at Heidelberg. Preferably talk about the one you are most interested in. Or if there are a few faculty members that you would specifically like to work with mention them. They just want to see that you have a reason to apply, both of the reasons mentioned above should suffice.
-2. What did you do for your BSc Thesis/ Project?
+2. <span style = "color:#158FBF"> What did you do for your BSc Thesis/ Project? </span>
    - This is for people who had a thesis I am presuming during the BSc. The task here would be to summarize what you did as quickly as possible.
 
 ### <span style = "color:#3db18b"> Physics questions </span>
 
-(Answer them as concisely as possible using the keywords, Ill put the keywords in italics) - I am trying to recall exactly what I answered, I am going to write the answers **exactly** as I answered them. 
+(Answer them as concisely as possible using the keywords, I'll put the keywords in italics) - I am trying to recall exactly what I answered, I am going to write the answers **exactly** as I answered them. 
 
-1. ***How would you solve quantum mechanical Hydrogen atom?***
-   
+1. ***<span style = "color:#158FBF">How would you solve quantum mechanical Hydrogen atom?</span>***
    - Take the *3D Schrodinger equation*, use *separation of variables* and then you will get a *radial* and an *angular* equation.
-
-2. ***What would be the next step?***
-   
+2. ***<span style = "color:#158FBF">What would be the next step?</span>***
    - For the radial equation we make a typical *ansatz* and for the *radial* equation we have the spherical harmonics as the solution.
      (Yeah, I literally just said that we make a typical ansatz. If they had asked me what it exactly is, I would have said it. I think answering quickly and pointing them in the right direction is better than taking a lot of time for a perfect answer. As I said, keywords can do magic).
-
-3. ***What are the boundary conditions?***
-   
-   - For the radial equation, the *wavefunction should go to zero* at the center. This ensures that it doesn't *blow up* for $r\to 0$. Also , it *should go to zero* at $r\to \infty $ , because, for anything else, it physically doesn't make sense. (Just like a for a finite charge, it makes sense for electric field to be $r\to\infty\implies\vec{E}=0$. If this is not the case, then a finite charge will affect particles on the other end of the universe).
-
-4. ***For such a system, why are the angular momentum quantities discrete?***
-   
-   - It is due to the* symmetry*. We have the *angles identified* as $\theta\in[0,\pi)$ and $\phi\in[0,2\pi]$. This will give rise to the boundary conditions giving us discretized values for the angular momentum numbers for $l,m$.
-
-5. ***How are the $l$ discretized?***
-   
-   - Me : Umm, $l(l\pm1)$
-     Interviewer : Seems like you don't care about $\hbar$? (The question was asked with a cheerful tone)
-     Me : Eh, its 1. (Cheeky smile audible in my voice)
-     Interviewer : Haha, I guessed so. Good, lets move on to a different topic.
-
-6. How would you define temperature for any system?
-   
-   - Me : Uh, any system?   Interviewer : Yeah, that is one of the physical quantities that can always be defined for literally any system.
-     Me : (Sudden response while being worried) "Maxwell Boltzmann distribution" ?! (At the same time, the interviewer was hinting by saying think "mean energy")
-     Interviewer : Super.
-
-7. How would you define temperature in general?
-   
-   1. Its the vibrational energy of the molecules or the particles.
+3. ***<span style = "color:#158FBF">What are the boundary conditions?</span>***
+   - For the radial equation, the *wavefunction should go to zero* at the center. This ensures that it doesn't *blow up* for $r\to 0$. Also , it *should go to zero* at $r\to \infty $ , because, for anything else, it physically doesn't make sense. (Just like a for a finite charge, it makes sense for electric field to be $\vec{E}=0$ for $r\to\infty$. If this is not the case, then a finite charge will affect particles on the other end of the universe).
+4. ***<span style = "color:#158FBF">For such a system, why are the angular momentum quantities discrete?</span>***
+   - It is due to the *symmetry*. We have the *angles identified* as $\theta\in(0,\pi)$ and $\phi\in(0,2\pi)$. This will give rise to the boundary conditions giving us discretized values for the angular momentum numbers for $l,m$.
+5. ***<span style = "color:#158FBF">How are the $l$ discretized?</span>***
+   - <u>*Me*</u> : Umm, $l(l\pm1)$ <br>
+     <u>*Interviewer*</u> : Seems like you don't care about $\hbar$? (The question was asked with a cheerful tone) <br>
+     <u>*Me*</u> : Eh, its 1. (Cheeky smile audible in my voice) <br>
+     *<u>Interviewer</u>* : Haha, I guessed so. Good, lets move on to a different topic.
+6. ***<span style = "color:#158FBF">How would you define temperature for any system?</span>***
+   - <u>*Me*</u> : Uh, any system?   <br>
+     <u>*Interviewer*</u> : Yeah, that is one of the physical quantities that can always be defined for literally any system. <br>
+     <u>*Me*</u> : (Sudden response while being worried) "*Maxwell Boltzmann distribution*" ?! (At the same time, the interviewer was hinting by saying think "mean energy") <br>
+     *<u>Interviewer</u>* : Super.
+7. ***<span style = "color:#158FBF">How would you define temperature in general?</span>***
+   - Its the *vibrational energy* of the molecules or the particles.
 
 And, that was it. I asked them how long does it take for the results to be out? They told me that it would be a couple of days.
 
