@@ -15,7 +15,7 @@ date : 2021-04-02
 
 #### <span style="color:#3db18b"> Personal recommendations </span>
 - <span style = "color:#158FBF"> ***Lecture notes on GR by David Tong*** </span>
-  - Like all of his notes, you can never go wrong. I have some parts of most of the lecture notes he has and they are an absolute gem. 
+  - Like all of his notes, you can never go wrong. I have some parts of most of the lecture notes he has and they are an absolute gem.
 - <span style = "color:#158FBF">***General relativity : An introduction for physicists*** - Hobson. </span>
   - Classic text. Uses modern notations and language. Exactly the right amount of treatment of differential geometry needed. Very lucid and smooth explanations ofconcepts. Does a complete treatment of SR before jumping into GR (Which is really important)
 - <span style = "color:#158FBF">***Relativity, Gravitation and Cosmology*** - Lambourne. </span>
@@ -23,13 +23,6 @@ date : 2021-04-02
 
 #### <span style="color:#3db18b"> Recommendation according to Prof. Amendola's notes </span>
 
--
-
-Analytical mechanics - Nolting
-
-Introduction to Electrodynamics - David Griffiths
-
-(Supplementary) Theoretical minimum : Special relativity and classical field theory - Leonard Susskind
 
 ## <span style="color:orange"> **Lectures** </span>
 
