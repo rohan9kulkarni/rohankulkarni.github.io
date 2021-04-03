@@ -9,6 +9,7 @@ date : 2020-06-17
 I was the TA for this course in 2018, when Dr. Kreisel took this course for the first time in Leipzig. Along with giving a seminar and a tutorial for the course, I also assisted him with _formulating the assignments, giving suggestions on literature and last but not the least, also formulating the exams._
 
 **Preparation for any exam generally has 4 parts according to me :**
+
 1. Understand the assignments and the mock exam. (In the subsequent parts, I will mark the problems according to priorities)
 2. Understand the content in the lectures relevant to assignments and mock exam
 3. Combine these two points to predict what kind of computations/concepts are more likely to be asked. Find and solve more problems from the literature, etc
@@ -21,6 +22,7 @@ Now, I will dissect these parts below!
 <hr>
 
 ### <span style = "color:#3db19b"  >1. Assignments and mock exam  </span>
+
 **The goal of the assignments were as follows :**
 
 1. To complement the lectures
@@ -88,5 +90,3 @@ This point is for people who want to be absolutely thorough. Doing point 1+2 sho
 <hr>
 
 All the best preparing for the exam. Electrodynamics is one of the most challenging subjects when you attempt it for the first time. But at the same time, the mathematical structure is just something so precise and beautiful. 
-
-

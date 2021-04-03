@@ -1,2 +1,0 @@
-After several wonderful undergraduate years at Leipzig, I felt confident about my Physics skills and decided to apply to one of the best Physics faculties on the planet, and definitely one of the most fairy-tale like cities - Heidelberg. 
-I had visited Heidelberg twice as a tourist before and had fallen for the city. (Ironically, I did my first Master's sem at Heidelberg remotely, and probably will do the second too - Well, people have had it worse during COVID, I can't really complain)

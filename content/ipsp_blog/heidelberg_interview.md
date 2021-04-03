@@ -1,9 +1,10 @@
 ---
-title : 'Heidelberg Physics Masters interview tips' 
-subtitle : 
-share : true
+title :
+subtitle : <center> <h3>Heidelberg Physics Interview tips </h3> </center>
+share : false
 layout : docs
-date : 2021-03-29
+date : 2021-04-29
+
 ---
 
 ## <span style = "color:orange"> Application to Heidelberg </span>

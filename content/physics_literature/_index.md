@@ -1,9 +1,9 @@
 ---
 title :
-subtitle : <center> <h3> Book reccomendations and collection of online resources for different topics </h3> </center>
+subtitle : '<center> <h3> Book reccomendations and collection of online resources for different topics </h3> </center>'
 summary : 
 share : false
-layout : docs
+layout : docs 
 ---
 
 ## <span style="color:orange">Undergraduate physics courses </span>
@@ -35,7 +35,7 @@ layout : docs
 - Linear algebra
 - Complex analysis
 - Differential equations
-- Functional anaylsis (Advanced)
+- Functional analysis (Advanced)
 - Differential geometry (Advanced)
 
 ## <span style="color:orange"> Graduate Mathematics "for Physicists" </span>
