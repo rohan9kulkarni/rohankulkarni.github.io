@@ -29,8 +29,8 @@
   weight = 25
 
 [[main]]
-  name = "IPSP Blog"
-  url = "ipsp_blog/"
+  name = "Blog"
+  url = "blog/"
   weight = 60
 
 [[main]]
