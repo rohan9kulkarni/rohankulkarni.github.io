@@ -35,7 +35,8 @@ date : 2021-04-02
 
 #### <span style="color:#3db18b">Handouts </span>
 
-[Handout 1 : Introduction to Group III  (6 April 2021)](/files/teaching_md/ss21_gr/handout1_intro_to_groupiii_6april.pdf)  <br>[Handout 2 : Preparation tips for GR (6 April 2021)](/files/teaching_md/handout2.pdf)
+[Handout 1 : Introduction to Group III  (6 April 2021)](/files/teaching_md/ss21_gr/handout1_intro_to_groupiii_6april.pdf)  <br>
+[Handout 2 : Preparation tips for GR (6 April 2021)](/files/teaching_md/ss21_gr/handout2.pdf)
 
 #### <span style="color:#3db18b">Lecture plan</span>
 
