@@ -46,7 +46,15 @@ date : 2021-04-02
 
 #### <span style="color:salmon">Lecture plan</span>
 
-1. *Tuesday, **13 April 2021***, (11:00 AM - 12:45 PM)
+1. *Friday,**16 April 2021***, (3:00 PM - 5:00 PM)
+   
+   - Organizational matters
+   
+   - Literature
+   
+   - GR in a nutshell
+   
+   - Crash course : Geodesic equation
    
    <br> <br>
 
