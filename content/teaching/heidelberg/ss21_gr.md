@@ -47,25 +47,89 @@ date : 2021-04-02
 #### <span style="color:salmon">Tutorial plan</span>
 
 1. *Friday, **16 April 2021***, (3:00 PM - 5:00 PM)
-	- Organizational matters
-    - Literature
-    - GR in a nutshell 
-    - Crash course : Geodesic equation
+   - Organizational matters
+   - Literature
+   - GR in a nutshell 
+   - Crash course : Geodesic equation
      
      [Slides-Annotated](/files/teaching_md/ss21_gr/slides0_new_annotated-16_4_21.pdf), [Slides-Handout](/files/teaching_md/ss21_gr/slides0_new_handout-16_4_21.pdf), [Slides-Article](/files/teaching_md/ss21_gr/slides0_new_article-16_4_21.pdf)
      <br> 
 
 2. *Tuesday, **20 April 2021***,  (11:00 AM - 12:45 PM)<br>
-	- Minkowski metric and light clock gedanken experiment
-    - Lorentz transformation
-    - 4-vectors
-	
-    [Slides-Handout](/files/teaching_md/ss21_gr/slides1_handout-20_4_21.pdf)
-	<br> 
+   - Minkowski metric and light clock gedanken experiment
+   - Lorentz transformation
+   - 4-vectors
+     
+     [Slides-Handout](/files/teaching_md/ss21_gr/slides1_handout-20_4_21.pdf), [Slides-Article](/files/teaching_md/ss21_gr/slides1_article-20_4_21.pdf)
+     <br> 
 
 3. *Tuesday, **27 April 2021***, (11:00 AM - 12:45 PM)<br>
    
-  	<br> <br>
+      <br> <br>
+
+4. *Tuesday, **4 May 2021***, (11:00 AM - 12:45 PM) <br>
+   
+   <br><br>
+
+5. *Tuesday, **11 May 2021***, (11:00 AM - 12:45 PM)
+   
+    <br><br>
+
+6. *Tuesday, **18 May 2021***, (11:00 AM - 12:45 PM)
+   
+    <br><br>
+
+7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)  
+   
+    <br><br>
+
+8. *Tuesday, **1 June 2021***, (11:00 AM - 12:45 PM)
+   
+    <br><br>
+
+9. *Tuesday, **8 June 2021***, (11:00 AM - 12:45 PM)
+   
+    <br><br>
+
+10. *Tuesday, **15 June 2021***, (11:00 AM - 12:45 PM)
+    
+     <br><br>
+
+11. *Tuesday, **22 June 2021***, (11:00 AM - 12:45 PM)
+    
+     <br><br>
+
+12. *Tuesday, **29 June 2021***, (11:00 AM - 12:45 PM)
+    
+     <br><br>
+
+1. *Friday, **16 April 2021***, (3:00 PM - 5:00 PM)
+   
+   - Organizational matters
+   
+   - Literature
+   
+   - GR in a nutshell 
+   
+   - Crash course : Geodesic equation
+     
+     [Slides-Annotated](/files/teaching_md/ss21_gr/slides0_new_annotated-16_4_21.pdf), [Slides-Handout](/files/teaching_md/ss21_gr/slides0_new_handout-16_4_21.pdf), [Slides-Article](/files/teaching_md/ss21_gr/slides0_new_article-16_4_21.pdf)
+     <br> 
+
+2. *Tuesday, **20 April 2021***,  (11:00 AM - 12:45 PM)<br>
+   
+   - Minkowski metric and light clock gedanken experiment
+   
+   - Lorentz transformation
+   
+   - 4-vectors
+     
+     [Slides-Handout](/files/teaching_md/ss21_gr/slides1_handout-20_4_21.pdf), [Slides-Article](/files/teaching_md/ss21_gr/slides1_article-20_4_21.pdf)
+     <br> 
+
+3. *Tuesday, **27 April 2021***, (11:00 AM - 12:45 PM)<br>
+   
+      <br> <br>
 
 4. *Tuesday, **4 May 2021***, (11:00 AM - 12:45 PM) <br>
    
