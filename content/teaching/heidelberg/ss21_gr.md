@@ -47,10 +47,10 @@ date : 2021-04-02
 #### <span style="color:salmon">Tutorial plan</span>
 
 1. *Friday, **16 April 2021***, (3:00 PM - 5:00 PM)
-  - Organizational matters
-  - Literature
-  - GR in a nutshell
-  - Crash course : Geodesic equation
+    - Organizational matters
+    - Literature
+    - GR in a nutshell
+    - Crash course : Geodesic equation
 
     [Slides-Annotated](/files/teaching_md/ss21_gr/slides0_new_annotated-16_4_21.pdf), [Slides-Handout](/files/teaching_md/ss21_gr/slides0_new_handout-16_4_21.pdf), [Slides-Article](/files/teaching_md/ss21_gr/slides0_new_article-16_4_21.pdf)
 
