@@ -70,7 +70,12 @@ date : 2021-04-02
       <br> <br>
 
 4. *Tuesday, **4 May 2021***, (11:00 AM - 12:45 PM) <br>
+    - Solved exercise 2.1 (Constant acceleration in SR)
+    - Solved exercise 2.2 (Rindler coordinates in Minkowski spacetime - Diagram, calculation and interpretation)
+    - Solved exercise 2.3 (Compton effect - (i) Using explicit conservation laws, (ii) Using 4-vectors - conservation laws come built in them)
+    - Solved exercise 2.4 (One forms I)
 
+    [Slides-Annotated](/files/teaching_md/ss21_gr/slides3_exercise2-4_5_21/pdf)
    <br><br>
 
 5. *Tuesday, **11 May 2021***, (11:00 AM - 12:45 PM)
