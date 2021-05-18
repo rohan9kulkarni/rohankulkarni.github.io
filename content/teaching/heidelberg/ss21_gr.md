@@ -79,8 +79,10 @@ date : 2021-04-02
    <br><br>
 
 5. *Tuesday, **11 May 2021***, (11:00 AM - 12:45 PM)
-    - Solved exercise 3.1 ()
-    - Solved exercise 3.2 ()
+    - Solved exercise 3.1 (One forms III)
+    - Solved exercise 3.2 (Energy momentum tensor of dust)
+
+    [Slides-Annotated](/files/teaching_md/ss21_gr/ex_sheet_3.pdf)
     <br><br>
 
 6. *Tuesday, **18 May 2021***, (11:00 AM - 12:45 PM)
