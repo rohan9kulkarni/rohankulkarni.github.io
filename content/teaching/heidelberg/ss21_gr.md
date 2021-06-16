@@ -88,8 +88,8 @@ date : 2021-04-02
 6. *Tuesday, **18 May 2021***, (11:00 AM - 12:45 PM)
     - Solved exercise 3.1 (Curved nature of spherical coordinates in Euclidean 3D space)
 
-    [Slides-Annotated](/files/teaching_md/ss21_gr/ex_sheet_4_annotated.pdf),
-    [Slides-Unannotated](/files/teaching_md/ss21_gr/ex_sheet_4_unannotated.pdf)
+    [Slides-Annotated](/files/teaching_md/ss21_gr/GR_EX4.pdf),
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX4-annotated.pdf)
     <br><br>
 
 7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)  
