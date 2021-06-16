@@ -86,7 +86,7 @@ date : 2021-04-02
     <br><br>
 
 6. *Tuesday, **18 May 2021***, (11:00 AM - 12:45 PM)
-    - Solved exercise 3.1 (Curved nature of spherical coordinates in Euclidean 3D space)
+    - Solved exercise 4.3 (Curved nature of spherical coordinates in Euclidean 3D space)
 
     [Slides-Annotated](/files/teaching_md/ss21_gr/GR_EX4.pdf),
     [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX4-annotated.pdf)
@@ -94,33 +94,29 @@ date : 2021-04-02
 
 7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)  
 
-    -  Solved exercise 4.2
-    -  Solved exercise 4.4 (Bonus)
-    -  Solved exercise 4.5 (Bonus)
+    -  Solved exercise 5.2
+    -  Solved exercise 5.4 (Bonus)
+    -  Solved exercise 5.5 (Bonus)
 
-    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX5.pdf),
-    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX5-annotated.pdf)
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX5.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX5-annotated.pdf)
 
     <br><br>
 
 8. *Tuesday, **1 June 2021***, (11:00 AM - 12:45 PM)
 
-    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX6.pdf),
-    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX6-annotated.pdf)
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX6.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX6-annotated.pdf)
 
     <br><br>
 
 9. *Tuesday, **8 June 2021***, (11:00 AM - 12:45 PM)
 
-    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf),
-    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
 
     <br><br>
 
 10. *Tuesday, **15 June 2021***, (11:00 AM - 12:45 PM)
 
-    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf),
-    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
 
      <br><br>
 
