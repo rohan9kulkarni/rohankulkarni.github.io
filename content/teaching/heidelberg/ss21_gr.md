@@ -98,27 +98,36 @@ date : 2021-04-02
     -  Solved exercise 4.4 (Bonus)
     -  Solved exercise 4.5 (Bonus)
 
-    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX4.pdf),
-    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX4-annotated.pdf)
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX5.pdf),
+    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX5-annotated.pdf)
 
     <br><br>
 
 8. *Tuesday, **1 June 2021***, (11:00 AM - 12:45 PM)
 
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX6.pdf),
+    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX6-annotated.pdf)
+
     <br><br>
 
 9. *Tuesday, **8 June 2021***, (11:00 AM - 12:45 PM)
+
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf),
+    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
 
     <br><br>
 
 10. *Tuesday, **15 June 2021***, (11:00 AM - 12:45 PM)
 
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf),
+    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
+
      <br><br>
 
 11. *Tuesday, **22 June 2021***, (11:00 AM - 12:45 PM)
 
-      <br><br>
+       <br><br>
 
 12. *Tuesday, **29 June 2021***, (11:00 AM - 12:45 PM)
 
-      <br><br>
+       <br><br>
