@@ -94,6 +94,13 @@ date : 2021-04-02
 
 7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)  
 
+    -  Solved exercise 4.2
+    -  Solved exercise 4.4 (Bonus)
+    -  Solved exercise 4.5 (Bonus)
+
+    [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX4.pdf),
+    [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX4-annotated.pdf)
+
     <br><br>
 
 8. *Tuesday, **1 June 2021***, (11:00 AM - 12:45 PM)
@@ -110,8 +117,8 @@ date : 2021-04-02
 
 11. *Tuesday, **22 June 2021***, (11:00 AM - 12:45 PM)
 
-     <br><br>
+      <br><br>
 
 12. *Tuesday, **29 June 2021***, (11:00 AM - 12:45 PM)
 
-     <br><br>
+      <br><br>
