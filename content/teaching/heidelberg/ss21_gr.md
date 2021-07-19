@@ -120,9 +120,14 @@ date : 2021-04-02
      <br><br>
 
 11. *Tuesday, **22 June 2021***, (11:00 AM - 12:45 PM)
+     [Solutions-Vito](/files/teaching_md/ss21_gr/9_Vito.pdf)
 
-       <br><br>
+        <br><br>
 
 12. *Tuesday, **29 June 2021***, (11:00 AM - 12:45 PM)
+     [Solutions-Vito](/files/teaching_md/ss21_gr/10_Vito.pdf)
 
-       <br><br>
+13. *Tuesday, **6 July 2021***, (11:00 AM - 12:45 PM)
+     [Solutions-Vito](/files/teaching_md/ss21_gr/11_Vito.pdf)
+
+        <br><br>
