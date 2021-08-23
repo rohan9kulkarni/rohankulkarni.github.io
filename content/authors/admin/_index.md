@@ -22,16 +22,19 @@ bio: Just a simple man who tries to make a difference.
 
 interests:
 
+- Dark matter
 - Early universe cosmology
-- String theory
-- Quantum gravity
+- Quantum gravity / String theory / Supersymmetry
 - Black hole mechanics
 
 education:
 courses:
+- course : Graduate Research Trainee (GRT) for M.Sc. Thesis
+  institution : McGill University
+  year : \"(September 2021 - September 2022)"\
 - course : M.Sc. Physics
   institution : Heidelberg University, Germany
-  year : \"(Current)\"
+  year : \"(October 2020 - September 2022 (Expected))\"
 - course: B.Sc. Physics IPSP (International Physics Studies Program - IPSP)
   institution: Leipzig University, Germany
   year: July 2019
@@ -76,17 +79,25 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am a Masters student at the University of Heidelberg. This is the following coursework I have completed till now: 
+Currently, I am a Masters student at the University of Heidelberg. I have been recently accepted as a Graduate Research Trainee at McGill University and will be working on my MSc Thesis with Prof. Katelin Schutz. The project that I am very much looking forward to and will be working on for a year will be "Theoretical predictions on detection of solar axions using plasma haloscopes"
 
-- Quantum field theory I  (8 ECTS) 
-- Cosmology (8 ECTS) 
-- Relativistic quantum mechanics (6 ECTS) 
-- Black holes in Physics and Astrophysics (2 ECTS - Block course) 
+ I finished my Masters coursework in Heidelberg on the following subjects:
+- **Core**
+  - Quantum Field Theory I  (8 ECTS)
+  - Cosmology (8 ECTS)
+  - General Relativity (8 ECTS - Transfer from Leipzig)
+- **Specialization courses**
+  - Advanced Quantum Field Theory (8 ECTS)
+  - Standard Model of Particle Physics (8 ECTS - Level II course in Particle Physics comprising of 50% Experimental and 50% Theoretical content)
+  - Relativistic quantum mechanics (6 ECTS)
+- **Seminars and Block courses**
+  - Dark matter theory (6 ECTS - Compulsory Masters seminar)
+  - Black holes in Physics and Astrophysics (2 ECTS - Block course)
 
 I graduated with a BSc in Physics from the University of Leipzig. During my undergraduate years, I worked as a Teaching Assistant for 3 years for various subjects in Theoretical Physics, Mathematics, and Experimental Physics totalling over 300 hours of undergraduate level classroom teaching. My final bachelor’s thesis had the topic *Black holes, Singularity theorems and the Global Structure of Spacetime*.
 
-The main purpose of this website apart from *who I am and what I have done*, is outreach. The past 5 years of my life have been revolving around one thing - _Theoretical Physics_. While on this amazing journey, there were many such instances where I felt "*if only someone had told me that, I would have saved hours of work*" or "that one statement made me understand xyz". I want to pass on the wisdom and tools I gained on this journey to my colleagues and anyone trying to decipher the breathtaking world of physics. I plan to continuosly keep updating the "notes" and "literature" tabs, one page at a time. Also, thinking of starting a regular blog about things like, my learning techniques, note taking algorithms, etc.
+The main purpose of this website apart from *who I am and what I have done*, is outreach. The past 5 years of my life have been revolving around one thing - _Theoretical Physics_. While on this amazing journey, there were many such instances where I felt "*if only someone had told me that, I would have saved hours of work*" or "that one statement made me understand xyz". I want to pass on the wisdom and tools I gained on this journey to my colleagues and anyone trying to decipher the breathtaking world of physics. I plan to continuously keep updating the "notes" and "literature" tabs, one page at a time. Also, I am thinking of starting a regular blog about things like, my learning techniques, note taking algorithms, etc.
 
-I hope whoever found this website gains something useful from it. If not, you just got aquainted with another friendly face :)
+I hope whoever found this website gains something useful from it. If not, you just got acquainted with another friendly face :)
 
 <!--- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
