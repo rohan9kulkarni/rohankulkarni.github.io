@@ -15,7 +15,7 @@ layout : docs
   - [ _Theoretical Physics II_ : Classical Electrodynamics I]({{<ref"tp2_exam_prep">}})
 
 ## <span style = "color:orange"> Miscellaneous  </span>
-- [Super helpful Youtube channels]({{ref"youtube_channels"}})
+- [Super helpful Youtube channels]({{<ref"youtube_channels">}})
 
 <!--
 2. _Theoretical Physics III_ :  Classical Mechanics II, Classical Electrodynamics II (With Special relativity and Relativistic electrodynamics)
