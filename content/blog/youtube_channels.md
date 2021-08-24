@@ -38,6 +38,3 @@ date : 2021-08-21
 - [Physics - Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen)
 - [Math - MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
 - [Math/Physics - Faculty of Khan](https://www.youtube.com/c/FacultyofKhan)
-
-
--
