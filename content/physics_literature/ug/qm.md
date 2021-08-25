@@ -9,6 +9,7 @@ date : 2021-08-24
 ### <span style="color:orange"> General advice </span>
 
 For the love of Schrodinger, do not start learning Quantum mechanics (QM) without the prerequisites. The prerequisites being at least one course in each of the following :
+
 - Classical mechanics (At least at the level of first 9 chapters of Morin)
 - Electrodynamics (At least at the level of first 7 chapters of Griffiths)
 - Vibrations and Waves (A student's guide to Waves - Daniel Fleisch. The entire booklet preferably)
@@ -24,8 +25,8 @@ For the love of Schrodinger, do not start learning Quantum mechanics (QM) withou
 
 ### <span style="color:orange">Beginner Books (Worth a linear read) </span>
 
-- <span style = "color:#3db18b"> **Introduction to Quantum Mechanics - David.J.Griffiths** </span> <br>The holy grail of all books for beginners in Quantum mechanics. He is reading a story to you. Chapter 1 dedicated to the math required for electrodynamics is super important. Solve most of the problems to get a feeling of the math that is going to be used.  The book is divided into two parts (in any logical course, you will do one part in a single semester course). 
-(Someone who has read the Electrodynamics literature, might have realized it is the same advice. Yeah, both the books do jobs very parallel fashion)
+- <span style = "color:#3db18b"> **Introduction to Quantum Mechanics - David.J.Griffiths** </span> <br>The holy grail of all books for beginners in Quantum mechanics. He is reading a story to you. Chapter 1 and 2 are dedicated to the very basic yet extremely important concepts of QM. Solve most of the problems in these chapters to make a concrete foundation.  The book is divided into two parts (in any logical course, you will do one part in a single semester course). 
+  (Someone who has read the Electrodynamics literature, might have realized it is the same advice. Yeah, both the books do jobs very parallel fashion - which makes sense as they are by the same author)
 - <span style = "color:#3db18b">**A student's guide to Schrodinger's equation - Daniel Fleisch**</span> <br>This 150 page booklet is in no manner a substitution to a proper text like Griffiths. But, it does a wonderful job in summarizing the most important results. This is an excellent resource to get an gist of what you will be learning.
 - <span style = "color:#3db18b"> **Electricity and Magnetism - Edward Purcell & David Morin** </span> <br>A small fun fact about this book : Griffiths in the preface of his book writes, "Practically everything I know about electrodynamics - certainly about teaching electrodynamics - I owe to Edward Purcell". On top of that, David Morin is the same guy whose lecture notes on Mechanics are practially used by every physics student atleast once in their life. 
   Now, getting to the book, this book is so much more dense than Griffith's textbook. Every mathematical step has been laid out in detail, so intricate detail at times that it might scare the reader. A lot of solved examples, and exercises with solutions at the back of the book. The amount of topics he covers is staggering. Atleast in Germany, not a student favourite unfortunately. 
