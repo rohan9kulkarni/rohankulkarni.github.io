@@ -7,13 +7,13 @@ date : 2021-02-12
 
 ---
 
-## <span style="color:orange"> General advice </span>
+### <span style="color:orange"> General advice </span>
 
 Electrodynamics is notoriously famous for being hard for beginners. It has earned that reputation because, most of the people are not comfortable with the math being used to understand the wonderful world of Maxwell's equations (It is like attempting to do Newtonian mechanics without knowing the basic properties of vectors). In a typical first course, your goal will be to understand the meaning of Maxwell's equations. Remember, these equations are motivated from empirical evidence. Why is $\nabla \cdot \vec{B} = 0$ ? Because, we have never found a magnetic monopole in nature.  Why is $\nabla \cdot \vec{E}=\frac{\rho}{\epsilon_0}$? Because, electric charges/densities produce electric fields.
 
 <hr>
 
-## <span style="color:orange">Beginner Books (Worth a linear read) </span>
+### <span style="color:orange">Beginner Books (Worth a linear read) </span>
 
 - <span style = "color:#3db18b"> **Introduction to Electrodynamics - David.J.Griffiths** </span> <br>The holy grail of all books for beginners in Electrodynamics. He is reading a story to you. Chapter 1 dedicated to the math required for electrodynamics is super important. Solve most of the problems to get a feeling of the math that is going to be used.  The book is divided into two parts (in any logical course, you will do one part in a single semester course). 
 
@@ -24,7 +24,7 @@ Electrodynamics is notoriously famous for being hard for beginners. It has earne
 
 - <span style = "color:#3db18b">**Theoretical Physics III : Electrodynamics - Nolting**  </span> <br>The book is advertised as for beginners, which is not wrong, but he really gives minimal physical intuition. Nevertheless, I have found myself going to this book to look for mathematical precision. It does and impecceable job while doing this. As an example, Griffiths (or any other book above for this matter) doesn't really use the dirac delta function (distribution if some mathematician is reading this) $\delta(x-x_0)$ or the Heaviside theta function $\theta(r-r_0)$ while defining charge/current densities. The integral boundaries are set from the worded part of the problem. This is where the book shines, attention to mathematical detail so see how every step comes from the previous one. All exercises have solved solutions on the back, and the problems are excellent. The solutions are definitely not bad, but sometimes you will catch yourself going, "What? Why? How?". I like to think that he did it on purpose, he gave the solutions but still makes you think on the steps. 
 
-## <span style="color:orange"> Advanced reference books </span>
+### <span style="color:orange"> Advanced reference books </span>
 
 - <span style = "color:#3db18b"> **Classical Electrodynamics - David Jackson** </span><br>[Solutions - Website 1](http://www-personal.umich.edu/~pran/jackson/), [Solutions -Website 2](http://www-personal.umich.edu/~jbourj/em.htm) <br>Do I really have to introduce this book? Fortunately or unfortunately, depends on whom you ask, my undergraduate education was completely from Jackson's book. Looking back, it was ridiculously intense doing modified Jackson problems for semester II assignments. After a few semesters when I had the opportunity to give tutorials for electrodynamics, I went back to the book and had hundreds or "Eureka" moments when I understood the real physical intuition behind several topics. This book is in no way for the weak hearted. I would highly reccomend it to students who have already studied Griffiths level electrodynamics and are looking for a challenge. 
 
@@ -36,9 +36,9 @@ Electrodynamics is notoriously famous for being hard for beginners. It has earne
 
 <hr>
 
-## <span style="color:orange">Freely available online sources </span>
+### <span style="color:orange">Freely available online sources </span>
 
-### <span style="color:orange">Lecture notes - Generally complement well in parallel to a formal course</span>
+#### <span style="color:orange">Lecture notes - Generally complement well in parallel to a formal course</span>
 
 - [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/em.html) 
 - [Feynman's lectures](https://www.feynmanlectures.caltech.edu/II_toc.html) - A typical first course would be from chapter 1 - 18
