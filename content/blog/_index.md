@@ -7,12 +7,6 @@ layout : docs
 
 ---
 
-## <span style = "color:orange"> IPSP FAQ </span>
-
-1. [IPSP application phase]({{<ref"ipsp/ipsp1_application_phase">}}) *<u>#draft-ready</u>*
-2. [IPSP preparation phase]() *<u>#in-progress</u>*
-3. [IPSP - During the degree]() *<u>#planned</u>*
-4. [IPSP - General life in Leipzig and Germany]() *<u>#planned</u>*
 
 ## <span style = "color:orange"> Helpful hints and tips </span>
 
@@ -21,7 +15,6 @@ layout : docs
   - [ _Theoretical Physics II_ : Classical Electrodynamics I]({{<ref"tp2_exam_prep">}})
 
 ## <span style = "color:orange"> Miscellaneous  </span>
-
 - [Super helpful Youtube channels]({{<ref"youtube_channels">}})
 
 <!--
