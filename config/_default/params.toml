@@ -222,20 +222,28 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "rohankulkarni"  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+  #  shortname = "rohankulkarni"  # Paste the shortname from your Disqus dashboard.
+  #  show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
     url = ""
+
+
+
+[params.staticman]
+  endpoint = "https://rohankulkarni-blog.herokuapp.com/v2/entry"
+  username = "rohan9kulkarni"
+  repository = "rohankulkarni.github.io"
+  branch = "master"
 
 ############################
 ## Search
@@ -290,10 +298,3 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
-
-
-[params.staticman]
-  endpoint = "https://rohankulkarni-blog.herokuapp.com/v2/entry"
-  username = "rohan9kulkarni"
-  repository = "rohankulkarni.github.io"
-  branch = "master"
