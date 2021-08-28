@@ -1,5 +1,5 @@
 ---
-title : IPSP - Administrative FAQ.
+title : IPSP Part 1- Application phase FAQ.
 subtitle :  _Paperwork, paperwork and paperwork_
 share : true
 layout : docs

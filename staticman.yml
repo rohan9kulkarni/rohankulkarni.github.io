@@ -1,0 +1,31 @@
+---
+comments:
+  name: "Rohan Kulkarni"
+  allowedFields:
+    - name
+    - email
+    - website
+    - comment
+    - reply_to
+  branch: master
+  commitMessage: "New comment in {options.slug}"
+  filename: "comment-{@timestamp}"
+  format: yaml
+  generatedFields:
+    date:
+      options:
+        format: iso8601
+      type: date
+  moderation: true
+  path: "data/comments/{options.slug}"
+  notifications:
+    enabled: true
+    apiKey: "Kf3+7eqt0zogWk2SSwvakbxkVVW15Ds6ax5LTUOjPDesxj/A8ukNzXzqqiWzpW8cHa4466H671kfVTNR05muuIWzyTkia/Em2XsT5dOMlSNO4llhRbyBmQLuc0jMtyKGIlFiGCR5/04XfJbWB4oxlsy4WMTDxx3AzaYB8SW+Y+wcpPFMZurmOuudqCkyyNfIf3mGHSn+poyJBCXrhs0NeTWGJyAEEArF0fvQLwirQQ94t8yLIq3gyqpnZOrnY8/0iNPiaTyZSeuARWX03i3QClX5YeXEAC9RyVzRGAUlQVYogmvxrK/oEy6LiXQc8izu9n9vG4AgdsYUWZNv173zOw=="
+    domain: "BL4Dq9fXgfsgpFCRgmUv9QSvv7CUkc50i42cIxqVIFnrH0kYUJBPsC6BbB4Za0nUUuEcj9kpv/8NXiAylNV1j2s5KUE0+MwoL5UhoKOqn1zLgr8qZBeusS9ZKkXShatUKAgvDh+r/ms8MP2DBMrtzV52WJ2DKDmcDDGgB9WFtw3N1CkwBHbD+zjPz7dxYYdX0vSenRTEvf52upa3N8TIDu6Vm0dG2P4QtdIuGP3rdxSAjOozRXsYs6nkhBN3kPfmj/Hi4Qy+PXK0KOSEFYEarOqwtIN4VbJz52TVr5KJXmYCqh1pwmCT1ikDgdUYwzCC57YtRlqnXBa4Sk+YWMqHsQ=="
+
+  requiredFields:
+    - name
+    - email
+    - comment
+  transforms:
+    email: md5
