@@ -6,40 +6,43 @@ share : false
 layout : docs 
 ---
 
+
+
 ## <span style="color:orange">Undergraduate physics courses </span>
 
-- First year physics 
-- Classical mechanics
-- Analytical mechanics
-- [Electrodynamics]({{<ref"ug/ed">}})
-- Special relativity
-- Vibrations and Waves
-- Quantum mechanics
-- Thermodynamics
-- Statistical physics
-- Solid state physics 
-- Astrophysics 
+- First year physics    $~~~$  *<u>#planned</u>*
+- Classical mechanics $~~~$      *<u>#in-progress</u>*
+- Analytical mechanics $~~~$      *<u>#planned</u>*
+- [Electrodynamics]({{<ref"ug/ed">}}) $~~~$     *<u>#ready-to-read</u>*
+- Special relativity $~~~$      *<u>#planned</u>*
+- Vibrations and Waves $~~~$      *<u>#planned</u>*
+- Quantum mechanics $~~~$      *<u>#in-progress</u>*
+- Thermodynamics $~~~$      *<u>#planned</u>*
+- Statistical physics $~~~$      *<u>#planned</u>*
+- Solid state physics $~~~$      *<u>#planned</u>* 
+- Astrophysics $~~~$      *<u>#planned</u>*
 
 ## <span style="color:orange"> Graduate physics courses </span>
 
-- Advanced Quantum theory
-- [Quantum field theory]({{<ref"grad/qft">}})
-- [Cosmology]({{<ref"grad/cosmology">}})
-- General relativity
-- [Black holes]({{<ref"grad/bh">}})
+- Advanced Quantum theory $~~~$     *<u>#planned</u>*
+- [Quantum field theory]({{<ref"grad/qft">}})  $~~~$    *<u>#ready-to-read</u>*
+- [Cosmology]({{<ref"grad/cosmology">}})  $~~~$    *<u>#draft-ready</u>*
+- General relativity $~~~$     *<u>#in-progress</u>*
+- [Black holes]({{<ref"grad/bh">}}) $~~~$     *<u>#ready-to-read</u>*
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
 
-- Mathematics for Physicists books (Both- Basic and Advanced)
-- [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}})
-- Linear algebra
-- Complex analysis
-- Differential equations
-- Functional analysis (Advanced)
-- Differential geometry (Advanced)
+- Mathematics for Physicists books (Both- Basic and Advanced) $~~~$     *<u>#planned</u>*
+- [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}}) $~~~$     *<u>#ready-to-read</u>*
+- Linear algebra $~~~$     *<u>#planned</u>*
+- Complex analysis $~~~$     *<u>#planned</u>*
+- Differential equations  $~~~$    *<u>#planned</u>*
+- Functional analysis (Advanced)  $~~~$    *<u>#planned</u>*
+- Differential geometry (Advanced) $~~~$      *<u>#planned</u>*
 
 ## <span style="color:orange"> Graduate Mathematics "for Physicists" </span>
 
-- Mathematical Physics
-- Group theory
-- Gauge theory
+- Mathematical Physics  $~~~$    *<u>#planned</u>*
+- Group theory  $~~~$    *<u>#planned</u>*
+- Gauge theory  $~~~$    *<u>#planned</u>*
+

@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am a Masters student at the University of Heidelberg. I have been recently accepted as a Graduate Research Trainee at McGill University and will be working on my MSc Thesis with Prof. Katelin Schutz. The project that I am very much looking forward to and will be working on for a year will be "Theoretical predictions on detection of solar axions using plasma haloscopes"
+Currently, I am a Masters student at the University of Heidelberg. I have been recently accepted as a Graduate Research Trainee at McGill University and will be working on my MSc Thesis with Prof. Katelin Schutz. The project that I am very much looking forward to and will be working on for a year will be "Theoretical predictions on detection of solar axions using plasma Helioscopes"
 
  I finished my Masters coursework in Heidelberg on the following subjects:
 - **Core**
