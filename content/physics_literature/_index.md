@@ -16,9 +16,9 @@ layout : docs
 - [Electrodynamics]({{<ref"ug/ed">}}) $~~~$     *<u>#ready-to-read</u>*
 - Special relativity $~~~$      *<u>#planned</u>*
 - Vibrations and Waves $~~~$      *<u>#planned</u>*
-- Quantum mechanics $~~~$      *<u>#in-progress</u>*
+- [Quantum mechanics]({{<ref"ug/qm">}}) $~~~$      *<u>#draft-ready</u>*
 - Thermodynamics $~~~$      *<u>#planned</u>*
-- Statistical physics $~~~$      *<u>#planned</u>*
+- Statistical physics $~~~$      *<u>#in-progress</u>*
 - Solid state physics $~~~$      *<u>#planned</u>* 
 - Astrophysics $~~~$      *<u>#planned</u>*
 

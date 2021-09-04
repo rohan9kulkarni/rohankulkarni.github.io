@@ -25,7 +25,7 @@ For the love of Schrodinger, do not start learning Quantum mechanics (QM) withou
 
 ### <span style="color:orange">Introductory Books </span>
 
-There are a LOT of introduction to QM books out there. These ones according to me are the ones with the highest impact/page ratio.
+There are a LOT of introduction to QM books out there. These ones according to me are the ones with the highest impact/page ratio. My top recommendation would be the lecture notes by Barton Zweibach for 8.04,8.05 (8.06 will be considered in the Adv.QM literature post) - see below in Video lectures.
 
 - <span style = "color:#3db18b"> **Introduction to Quantum Mechanics - David.J.Griffiths** </span> <br>The holy grail of all books for beginners in Quantum mechanics. He is reading a story to you. Chapter 1 and 2 are dedicated to the very basic yet extremely important concepts of QM. Solve most of the problems in these chapters to make a concrete foundation.  The book is divided into two parts (in any logical course, you will do one part in a single semester course). 
   The second part of the book can get fairly advanced at times. It definitely covers almost everything that one would need before transitioning to QFT.
@@ -35,7 +35,7 @@ There are a LOT of introduction to QM books out there. These ones according to m
 - <span style = "color:#3db18b"> **A Modern Approach to Quantum Mechanics - Townsend** </span> <br>
   He mentions in his preface that he uses Feynman's and Sakurai's books as his primary motivation. Although, the goal of both the books is drastically different, they are excellent individually. Feynman's books caters to the very beginner in QM and Sakurai's book is literally a graduate level text focusing heavily on advanced topics that eventually would help one transition to Quantum field theory (QFT) in general or Condensed matter physics or Atomic and molecular physics. Townsend's book does a brilliant job in finding the middle ground. He also covers path integrals which are the bread-and-butter of QFT. I personally enjoyed reading this book after I had a decent knowledge of QM already. But, I can easily see it being used as an introductory text.
 
-- <span style = "color:#3db18b">**Principles of Quamtum mechanics - Rammaruti Shankar**  </span> <br>This fat, hardbound (usually) red book covers everything you need in QM. From the basics of linear algebra needed to Born approximation needed to transition to QFT, he covers every single topic (Including path integrals).  Why is this in beginner books? Because, its the best reference out there for any topic you need.
+- <span style = "color:#3db18b">**Principles of Quamtum mechanics - Rammaruti Shankar**  </span> <br>This fat, hardbound (usually) red book covers everything you need in QM. From the basics of linear algebra needed to Born approximation needed to transition to QFT, he covers every single topic (Including path integrals).  Why is this in beginner books? It's the best reference out there for any topic you need.
 
 - <span style = "color:#3db18b">**A student's guide to Schrodinger's equation - Daniel Fleisch**</span> <br>This 150 page booklet is in no manner a substitution to a proper text like Griffiths. But, it does a wonderful job in summarizing the most important results. This is an excellent resource to get an gist of what you will be learning.
 
@@ -60,7 +60,7 @@ I already talked about the purpose of this book while talking about Townsend. It
 
 #### <span style="color:orange">Video lectures / MOOCs</span> 
 
-**MIT** : There are no better courses than these for QM (on the Internet and on the planet). The problem sets are not for the faint hearted. ***No matter for what purpose you are learning QM, I highly recommend reading the first 14 chapters of 8.04 from the OCW link.***
+**MIT** : There are no better courses than these for QM (on the Internet and on the planet). The problem sets are not for the faint hearted. ***No matter for what purpose you are learning QM, I highly recommend reading the first 14 chapters of 8.04 from the OCW link. These chapters are essentially crucial for foundational purposes.***
 
 - QM a first course : [8.04 MIT edX](https://www.edx.org/course/quantum-mechanics-a-first-course), [OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/) 
 - Mastering QM : [8.05 MIT edX](https://www.edx.org/course/mastering-quantum-mechanics), [OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/)
@@ -76,5 +76,9 @@ I already talked about the purpose of this book while talking about Townsend. It
 - [University of Vienna - Reinhold Bertlmann](https://homepage.univie.ac.at/reinhold.bertlmann/pdfs/T2_Skript_final.pdf) 
 
 - [University of Cambridge - Ben Simons](http://www.tcm.phy.cam.ac.uk/~bds10/aqp.html)
+
+- [Stanford University - J. Greensite](http://stanford.edu/~oas/SI/QM/papers/QMGreensite.pdf)
+
+- [Essential Graduate Physics - QM](https://sites.google.com/site/likharevegp/part-qm-quantum-mechanics/qm-merged-file)
 
   
