@@ -11,7 +11,7 @@ layout : docs
 ## <span style="color:orange">Undergraduate physics courses </span>
 
 - First year physics    $~~~$  *<u>#planned</u>*
-- [Classical mechanics]({{<ref"ug/cm">}}) $~~~$      *<u>#in-progress</u>*
+- [Classical mechanics]({{<ref"ug/cm">}}) $~~~$      *<u>#draft_ready-to-read</u>*
 - Analytical mechanics $~~~$      *<u>#planned</u>*
 - [Electrodynamics]({{<ref"ug/ed">}}) $~~~$     *<u>#ready-to-read</u>*
 - Special relativity $~~~$      *<u>#planned</u>*

@@ -25,7 +25,6 @@ Any course that you will ever take as a physicist, will assume this to be a prer
   In my eyes, Morin's book is **complete** when it comes to an introductory course in CM. It covers everything from the *basics of free-body-diagrams & circular motion*, *solutions of damped and driven oscillations*, *tons of problems based on conservation laws* to *everything about angular momentum*. It is a self-sufficient book. The only other lecture notes that I would recommend one to follow in parallel would be David Tong's notes (like always), which I have linked below.
   
 - <span style = "color:#3db18b"> **Classical Dynamics of Particles and Systems - Marion, Thornton  ** </span> <br>
-  
 This book is an absolute gem. Unfortunately I didn't hear about it till a year or two in my Bachelors'. Eventually, I used it as a reference occasionally when I have to brush up some of my topics. It's till date my "go to" book whenever I need a recall of some concepts. I personally find the mathematical rigor more sophisticated than Morin's book. This can be extremely beneficial if you need to skim over some topics that you already know about, but might have forgotten minute details; as a quick look into a mathematically precise form of an equation/law can be more powerful than a complete paragraph explaining it (This is if and only if you have studied the topic in detail before).
   
   If you are doing your "Theoretical Physics I" (TPI) course in Germany which is *Classical mechanics*, I would highly recommend this book to be simultaneously used with Morin, as the mathematical rigor will outshine Morin at places (The purpose of TPI is to be mathematically rigorous along with giving a good understanding of CM).
@@ -33,7 +32,6 @@ This book is an absolute gem. Unfortunately I didn't hear about it till a year o
   It's very unlikely anywhere outside Germany that your first course in CM covers Lagrangian and Hamiltonian mechanics (Can happen though), but if it does, this is the book you want to open. He covers Calculus of Variations in the most gentle way possible. It's a slow, steady and extremely effective approach. In my opinion, the whole book is amazing, but the parts on Calculus of variations, Lagrangian and Hamiltonian mechanics are especially inspired.
   
   The chapter on Special relativity is also very concise and offers a ton of intuition.
-  
 - <span style = "color:#3db18b">**--**  </span> <br>
 
 - <span style = "color:#3db18b">**--**</span> <br>
