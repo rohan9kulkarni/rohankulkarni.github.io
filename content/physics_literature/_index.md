@@ -1,6 +1,6 @@
 ---
 title :
-subtitle : '<center> <h3> Book reccomendations and collection of online resources for different topics </h3> </center>'
+subtitle : '<center> <h3> Book recommendations and collection of online resources for different topics </h3> </center>'
 summary : 
 share : false
 layout : docs 
