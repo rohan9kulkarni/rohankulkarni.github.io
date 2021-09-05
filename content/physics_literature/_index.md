@@ -11,12 +11,12 @@ layout : docs
 ## <span style="color:orange">Undergraduate physics courses </span>
 
 - First year physics    $~~~$  *<u>#planned</u>*
-- Classical mechanics $~~~$      *<u>#in-progress</u>*
+- [Classical mechanics]({{<ref"ug/cm">}}) $~~~$      *<u>#in-progress</u>*
 - Analytical mechanics $~~~$      *<u>#planned</u>*
 - [Electrodynamics]({{<ref"ug/ed">}}) $~~~$     *<u>#ready-to-read</u>*
 - Special relativity $~~~$      *<u>#planned</u>*
 - Vibrations and Waves $~~~$      *<u>#planned</u>*
-- [Quantum mechanics]({{<ref"ug/qm">}}) $~~~$      *<u>#draft-ready</u>*
+- [Quantum mechanics]({{<ref"ug/qm">}}) $~~~$      *<u>#draft_ready-to-read</u>*
 - Thermodynamics $~~~$      *<u>#planned</u>*
 - Statistical physics $~~~$      *<u>#in-progress</u>*
 - Solid state physics $~~~$      *<u>#planned</u>* 
@@ -26,9 +26,9 @@ layout : docs
 
 - Advanced Quantum theory $~~~$     *<u>#planned</u>*
 - [Quantum field theory]({{<ref"grad/qft">}})  $~~~$    *<u>#ready-to-read</u>*
-- [Cosmology]({{<ref"grad/cosmology">}})  $~~~$    *<u>#draft-ready</u>*
-- General relativity $~~~$     *<u>#in-progress</u>*
-- [Black holes]({{<ref"grad/bh">}}) $~~~$     *<u>#ready-to-read</u>*
+- [Cosmology]({{<ref"grad/cosmology">}})  $~~~$    *<u>#draft_ready-to-read</u>*
+- General relativity $~~~$     *<u>#in_progress</u>*
+- [Black holes]({{<ref"grad/bh">}}) $~~~$     *<u>#draft_ready-to-read</u>*
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
 
