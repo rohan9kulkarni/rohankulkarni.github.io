@@ -20,8 +20,7 @@ date_format = "Jan 2006"
 
 
 
-
-#Quantum computing
+# Quantum computing
 [[item]]
   organization = "University of California, Berkeley"
   organization_url = "https://www.edx.org/school/uc-berkeleyx"
@@ -31,10 +30,11 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-08-21"
   description = """ Syllabus :
+
   - How to understand the fundamental principles of quantum mechanics using the concepts of qubits (or quantum bits) and quantum gates
   - The basics of quantum algorithms such as the quantum Fourier transform, period finding, Shor's quantum algorithm for factoring integers, and the prospects for quantum algorithms for NP-complete problems
   - The ideas behind the experimental realization of quantum computers
-   """
+      """
 
 
 # Vibration and waves
@@ -48,16 +48,18 @@ date_format = "Jan 2006"
   date_end = "2020-07-31"
   description = """ Syllabus :
   - Simple, damped & driven harmonic motion, resonance
+
   - Coupled oscillators, normal modes and matrix formulation of equations of motion
+
   - Vibration of continuous systems leading to derivation of the wave equation and it's solutions
+
   - Various properties of sound and electromagnetic waves
-  - Polarization, waves at interfaces & in media
-  - Interference phenomena
 
-   """
+  - Polarization, waves at interfaces & in media and Interference phenomena
 
+    """
 
-#MIT CS
+# MIT CS
 [[item]]
   organization = "MIT - edX"
   organization_url = "https://www.edx.org/school/mitx"
@@ -67,14 +69,15 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = """  A series of two courses dealing with computer science fundamentals like various algorithms, algorithmic complexities, object oriented programming, data structures, stochastic programming, Monte Carlo simulations and machine learning fundamentals.<br>
+
 1. 6.001x - [Introduction to Computer Science & Programming using  Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)<br>
  [See certificate](https://courses.edx.org/certificates/04260f8f3772463ca9825ce221c2bb11)
 
 2. 6.002x - [Introduction to Computational thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) <br>
-  [See certificate](https://courses.edx.org/certificates/d4b4011fa5e84f9abbcad792d5bb8e9a)
+    [See certificate](https://courses.edx.org/certificates/d4b4011fa5e84f9abbcad792d5bb8e9a)
 
   """
-#MIT mastering qm
+# MIT mastering qm
 [[item]]
   organization = "MIT - edX"
   organization_url = "https://www.edx.org/school/mitx"
@@ -85,7 +88,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """  """
 
-#astro x-Series
+# astro x-Series
 [[item]]
   organization = "Australian National University (ANUx) - edX"
   organization_url = "https://www.edx.org"
@@ -96,15 +99,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ First year Astrophysics from Australian national university. 
   <br>
+
 1. Astro1x - [Greatest Unsolved Mysteries of the Universe](https://s3.amazonaws.com/verify.edx.org/downloads/ebb5809833db4659ae2a7c37a5eca882/Certificate.pdf)
 2. Astro2x - [Exoplanets](https://s3.amazonaws.com/verify.edx.org/downloads/0f0bd31014234c9c9c5287e5f1c04223/Certificate.pdf)
 3. Astro3x - [The Violent Universe](https://s3.amazonaws.com/verify.edx.org/downloads/f515099ad29244d186757e85a1a6aaae/Certificate.pdf)
 4. Astro4x - [Cosmology](https://s3.amazonaws.com/verify.edx.org/downloads/b35bff5eaf0b4474990d6102830281e5/Certificate.pdf)
-  """
+    """
 
 
 
-#coursera galaxies and cosmology
+# coursera galaxies and cosmology
 [[item]]
   organization = "Caltech - coursera"
   organization_url = "https://www.coursera.org"
