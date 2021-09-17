@@ -26,6 +26,10 @@ subtitle = ""
      tag = "*"
 
   [[content.filter_button]]
+     name = "Particle Dark Matter"
+     tag = "dm"
+
+  [[content.filter_button]]
      name = "General Relativity"
      tag = "gr"
 
@@ -73,4 +77,5 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
+
 +++
