@@ -87,10 +87,10 @@ Currently, I am a Masters student at the University of Heidelberg. I have been r
 
  I finished my Masters coursework in Heidelberg on the following subjects:
 - **Core** : *Quantum Field Theory I, Cosmology, General Relativity*
-- **Specialization courses** : Advanced Quantum Field Theory, Standard Model of Particle Physics, Relativistic Quantum Mechanics 
-- **Seminars and Block courses** : Dark matter theory, Black holes in Physics and Astrophysics
+- **Specialization courses** : *Advanced Quantum Field Theory, Standard Model of Particle Physics, Relativistic Quantum Mechanics* 
+- **Seminars and Block courses** : *Dark matter theory, Black holes in Physics and Astrophysics*
 
-I graduated with a BSc in Physics from the University of Leipzig. During my undergraduate years, I worked as a Teaching Assistant for 3 years for various subjects in Theoretical Physics, Mathematics, and Experimental Physics totalling over 300 hours of undergraduate level classroom teaching. My final bachelor’s thesis had the topic *Black holes, Singularity theorems and the Global Structure of Spacetime*.
+I graduated with a B.Sc in Physics from Leipzig University in Germany. During my undergraduate years, I worked several years as a Teaching Assistant in Theoretical Physics, Mathematics, and Experimental Physics; totalling over 300 hours of undergraduate level classroom teaching. My final bachelor’s thesis had the topic *Black holes, Singularity theorems and the Global Structure of Spacetime*.
 
 The main purpose of this website apart from *who I am and what I have done*, is outreach. The past 5 years of my life have been revolving around one thing - _Theoretical Physics_. While on this amazing journey, there were many such instances where I felt "*if only someone had told me that, I would have saved hours of work*" or "that one statement made me understand xyz". I want to pass on the wisdom and tools I gained on this journey to my colleagues and anyone trying to decipher the breathtaking world of physics. I plan to continuously keep updating the "notes" and "literature" tabs, one page at a time. Also, I am thinking of starting a regular blog about things like, my learning techniques, note taking algorithms, etc.
 
