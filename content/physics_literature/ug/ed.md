@@ -6,12 +6,10 @@ layout : docs
 date : 2021-02-12
 ---
 
-
 <!--
 ### <span style="color:orange"> General advice </span>
 Electrodynamics is notoriously famous for being hard for beginners. It has earned that reputation because, most of the people are not comfortable with the math being used to understand the wonderful world of Maxwell's equations (It is like attempting to do Newtonian mechanics without knowing the basic properties of vectors). In a typical first course, your goal will be to understand the meaning of Maxwell's equations. Remember, these equations are motivated from empirical evidence. Why is $\nabla \cdot \vec{B} = 0$ ? Because, we have never found a magnetic monopole in nature.  Why is $\nabla \cdot \vec{E}=\frac{\rho}{\epsilon_0}$? Because, electric charges/densities produce electric fields.
 -->
-
 
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
 <span>
@@ -23,7 +21,6 @@ Electrodynamics is notoriously famous for being hard for beginners. It has earne
 <!---<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b>- Gary Provost</b> <i>(100 Ways to Improve Your Writing, 1985)</i>
 </p></span>-->
 </div>
-
 
 ### <span style="color:orange">Beginner Books (Worth a linear read) </span>
 
