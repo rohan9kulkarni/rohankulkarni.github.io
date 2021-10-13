@@ -20,8 +20,10 @@ layout : docs
 
 - [Problem 1](/files/notes/tp5/prob1.pdf) : Statistical mechanics of Quantum harmonic oscillator
 - [Problem 2](/files/notes/tp5/prob2_directed_polymer_23dec2020.pdf) : Directed Polymer ($2^N$ microstate type)
+- [Exam Questions - Multiple years](/files/notes/tp5/tp5_exams.pdf) , [Solutions - (Handwritten - Messy)](/files/notes/tp5/tp5_exams_sols.pdf)
 
-<hr>
+<hr> 
+
 
 ## <span style="color:orange"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
 
