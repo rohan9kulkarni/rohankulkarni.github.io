@@ -4,9 +4,8 @@ subtitle : '<center> <h3> Book recommendations and collection of online resource
 summary :
 share : false
 layout : docs
+
 ---
-
-
 
 ## <span style="color:orange">Undergraduate physics courses </span>
 
