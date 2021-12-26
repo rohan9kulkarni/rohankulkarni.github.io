@@ -10,19 +10,13 @@ date : 2021-12-18
 
 ## <span style="color:orange">Freely available online sources </span>
 
-- [Linear algebra toolkit](math24.net)  - Very well organized, minimum theory maximum problems, ideal for practising problems.
-
-<!-- - [activecalculus.org](activecalculus.org) -->
-
-<!-- - [betterexplained.com](betterexplained.com) -->
+- [Linear algebra toolkit](math24.net)  - Very well organized, ideal for practising problems.
 
 ## <span style="color:orange">Videos</span>
 
-- **Top reccomendation** - [Open math waterloo](https://open.math.uwaterloo.ca/)
+- **Top recomendation** - [Open math waterloo](https://open.math.uwaterloo.ca/)
   - For Physicists : Linear algebra I and II
   - For Engineers : Applied linear algebra I and II
-
-
 - [3Blue1Brown's - Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Godlike animations and explanation. This was the beginning of something new and outstanding. Not a substitute for your regular classes, but nobody, and by nobody, I literally mean nobody can give you the visual insights like him.
 
 - <span style = "color:#3db18b"> **Khan academy** </span>

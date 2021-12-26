@@ -34,7 +34,7 @@ layout : docs
 
 - Mathematics for Physicists books (Both- Basic and Advanced) $~~~$     *<u>#planned</u>*
 - [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}}) $~~~$     *<u>#ready-to-read</u>*
-- [Linear algebra]({{ref"math/linear_algebra"}}) $~~~$     *<u>#read_to_read</u>*
+- [Linear algebra]({{<ref"math/linearalgebra">}}) $~~~$     *<u>#ready-to-read</u>*
 - Complex analysis $~~~$     *<u>#planned</u>*
 - Differential equations  $~~~$    *<u>#planned</u>*
 - Functional analysis (Advanced)  $~~~$    *<u>#planned</u>*
