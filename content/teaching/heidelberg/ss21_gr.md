@@ -90,8 +90,8 @@ date : 2021-04-02
 
     [Slides-Annotated](/files/teaching_md/ss21_gr/ex_sheet_4_annotated.pdf), [Slides-Unannotated](/files/teaching_md/ss21_gr/ex_sheet_4.pdf)
     <br><br>
-    
-7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)  
+
+7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)
 
     -  Solved exercise 5.2
     -  Solved exercise 5.4 (Bonus)
@@ -122,12 +122,14 @@ date : 2021-04-02
 11. *Tuesday, **22 June 2021***, (11:00 AM - 12:45 PM)
      [Solutions-Vito](/files/teaching_md/ss21_gr/9_Vito.pdf)
 
-        <br><br>
+      <br><br>
 
 12. *Tuesday, **29 June 2021***, (11:00 AM - 12:45 PM)
      [Solutions-Vito](/files/teaching_md/ss21_gr/10_Vito.pdf)
 
+     <br><br>
+
 13. *Tuesday, **6 July 2021***, (11:00 AM - 12:45 PM)
      [Solutions-Vito](/files/teaching_md/ss21_gr/11_Vito.pdf)
 
-        <br><br>
+      <br><br>

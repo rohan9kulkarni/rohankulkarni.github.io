@@ -8,22 +8,17 @@ date : 2021-12-18
 
 <hr> -->
 
-## <span style="color:orange">Freely available online sources </span>
+## <span style="color:orange"> Freely available online sources </span>
 
-- [Linear algebra toolkit](math24.net)  - Very well organized, ideal for practicing problems.
+- [Linear algebra toolkit](http://www.math.odu.edu/~bogacki/lat/)  - Very well organized, ideal for practicing problems.
 
 ## <span style="color:orange">Videos</span>
+- [Open math Waterloo](https://open.math.uwaterloo.ca/) (_Top reccomendation_)
+    - For Physicists : Linear algebra I and II
+    - For Engineers : Applied linear algebra I and II
+- [3Blue1Brown's - Linear Algebra](https://www.youtube.com/playlistlist=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br> Godlike animations and explanation. This was the beginning of something new and outstanding. Not a substitute for your regular classes, but nobody, and by nobody, I literally mean nobody can give you the visual insights like him.
+- [Khan academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
-- <span style = "color:#3db18b"> **Open math waterloo** </span> [[Link ](https://open.math.uwaterloo.ca/)] <br> Classic. Can't really go wrong with it. Small enough to not intimidate you, yet covers everything necessary. A lot of examples and well-thought explanations.
-
-- **Top recommendation** - [Open math waterloo](https://open.math.uwaterloo.ca/)  
-  
-  - For Physicists : Linear algebra I and II
-  - For Engineers : Applied linear algebra I and II
-
-- [3Blue1Brown's - Linear Algebra](https://www.youtube.com/playlist?    list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Godlike animations and explanation. This was the beginning of something new and outstanding. Not a substitute for your regular classes, but nobody, and by nobody, I literally mean nobody can give you the visual insights like him.
-
-- <span style = "color:#3db18b"> **Khan academy** </span> <br> [Khan academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 <hr>
 
