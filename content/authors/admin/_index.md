@@ -21,10 +21,10 @@ organizations:
 bio: Just a simple man who tries to make a difference.
 
 interests:
-- Dark matter
+- Particle Dark matter
+- Astroparticle/Particle Phenomenology
 - Early universe cosmology
 - Quantum gravity / String theory / Supersymmetry
-- Black hole mechanics
 
 # Education to show in About widget
 education:
