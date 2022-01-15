@@ -71,7 +71,7 @@ social:
 # link: files/cv.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
-email: ""
+email: "rohan9kulkarni@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 
