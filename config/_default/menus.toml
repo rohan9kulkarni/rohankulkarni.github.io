@@ -6,42 +6,50 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 5
+  weight = 1
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 10
+  weight = 2
 
 [[main]]
   name = "Certifications"
   url = "#accomplishments"
-  weight= 15
+  weight= 3
 
 [[main]]
   name = "Teaching"
   url = "teaching/"
-  weight = 20
-
-[[main]]
-  name = "Notes"
-  url = "notes/"
-  weight = 25
+  weight = 4
 
 [[main]]
   name = "Blog"
-  url = "blog/"
-  weight = 60
+  identifier = "blogposts"
+  weight = 5
 
 [[main]]
-  name = "Literature"
+  name = "Physics Notes"
+  url = "notes/"
+  parent = "blogposts"
+  weight = 2
+
+[[main]]
+  name = "Posts"
+  url = "blog/"
+  parent = "blogposts"
+  weight = 1
+
+[[main]]
+  name = "Physics Literature"
   url = "physics_literature"
-  weight = 55
+  parent = "blogposts"
+  weight = 3
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 65
+  weight = 8
 
 
 

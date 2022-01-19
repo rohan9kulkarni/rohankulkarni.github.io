@@ -93,9 +93,9 @@ date : 2021-04-02
 
 7. *Tuesday, **25 May 2021***, (11:00 AM - 12:45 PM)
 
-    -  Solved exercise 5.2
-    -  Solved exercise 5.4 (Bonus)
-    -  Solved exercise 5.5 (Bonus)
+    -  Solved exercise 5.2 (Geodesic equation and affine parameters)
+    -  Solved exercise 5.4 (Bonus - Covarient derivative of a metric)
+    -  Solved exercise 5.5 (Bonus - Parallel transport in Euclidean space)
 
     [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX5.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX5-annotated.pdf)
 
@@ -103,12 +103,15 @@ date : 2021-04-02
 
 8. *Tuesday, **1 June 2021***, (11:00 AM - 12:45 PM)
 
+    - Solved exercise 6.2 (Local inertial frame in a weak gravitaional field)
+    - Solved exercise 6.3 (Killing vectors and conserved quantities)
     [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX6.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX6-annotated.pdf)
 
     <br><br>
 
 9. *Tuesday, **8 June 2021***, (11:00 AM - 12:45 PM)
-
+    - Solved exercise 7.1 (Gravitaional deflection of light in GR)
+    - Solved exercise 7.2 (Gravitational deflection of light in Newtonian gravity)
     [Slides-Unannotated](/files/teaching_md/ss21_gr/GR_EX7.pdf), [Slides-annotated](/files/teaching_md/ss21_gr/GR_EX7-annotated.pdf)
 
     <br><br>
