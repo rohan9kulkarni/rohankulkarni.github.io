@@ -8,7 +8,7 @@ date : 2021-02-12
 
 **Disclaimer 1** :  Compared to other subjects, the number of good introductory textbooks in QFT are exponentially more. Everybody has a preference. Being a fairly advanced subject, different people from different backgrounds will have a unique taste when it comes to learn this beautiful subject. Firstly, Ill write down the **introductory** textbooks with which you just cannot go wrong.
 
-**Disclaimer 2** : QFT is not easy to self-study. The pre-requisites are more than any course I've ever taken. The mode expansions, the symmetries, the gauge invariance and the cartoonish Feynamn diagrams are not the faint hearted. You need a ridiculous motivation and persistence to keep up with the subject. I
+**Disclaimer 2** : QFT is not easy to self-study. The pre-requisites are more than any course I've ever taken. The mode expansions, the symmetries, the gauge invariance and the cartoonish Feynamn diagrams are not the faint hearted. You need a ridiculous motivation and persistence to keep up with the subject. 
 <hr>
 
 ## <span style="color:orange"> Books  </span>
@@ -39,10 +39,13 @@ Quantum field theory is misunderstood to be the theory that only combines specia
 
 ### <span style="color:orange"> Lecture notes - Generally complement well in parallel to a formal course </span>
 
-- https://www.thphys.uni-heidelberg.de/~hebecker/QFTI/Skript/main.pdf - Arthur Hebecker, Lecture notes for Heidelberg University
+- :star2: [Daniel Baumann's lecture notes](http://cosmology.amsterdam/qft/) <br>
+Like all his other lecture notes, every calculation is explicit. No beating around the bush, he gets the job done in concise yet extrememly precise way. Unfortunately only adequate upto an introductory course for QFT (But, absolutely self contatined for that first course)
 
-- https://www.thphys.uni-heidelberg.de/~weigand/QFT2-14/SkriptQFT2.pdf - Timo Weigand, Lecture notes for Heidelberg University
+- [Lecture notes for Heidelberg University - _Arthur Hebecker_](https://www.thphys.uni-heidelberg.de/~hebecker/QFTI/Skript/main.pdf)
 
-- https://www.staff.uni-mainz.de/jkopp/qft2-2016-material/lecture-notes.pdf - Joachim Kopp, Lecture notes for University of Mainz (Based completely on Peskin as far as I can tell. Being in introduction to QFT course, you can expect more explicit calculations)
+- [Lecture notes for Heidelberg University - _Time Weigand_](https://www.thphys.uni-heidelberg.de/~weigand/QFT2-14/SkriptQFT2.pdf)
 
-- https://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf  - David Tong, Lecture notes for Cambridge University
+- [Lecture notes for University of Mainz - *Joachim Kopp*](https://www.staff.uni-mainz.de/jkopp/qft2-2016-material/lecture-notes.pdf) (Based completely on Peskin as far as I can tell. Being in introduction to QFT course, you can expect more explicit calculations)
+
+- [Lecture notes for Cambridge University - *David Tong*](https://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf)
