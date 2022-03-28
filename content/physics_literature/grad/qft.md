@@ -49,3 +49,9 @@ Like all his other lecture notes, every calculation is explicit. No beating arou
 - [Lecture notes for University of Mainz - *Joachim Kopp*](https://www.staff.uni-mainz.de/jkopp/qft2-2016-material/lecture-notes.pdf) (Based completely on Peskin as far as I can tell. Being in introduction to QFT course, you can expect more explicit calculations)
 
 - [Lecture notes for Cambridge University - *David Tong*](https://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf)
+
+<hr>
+
+## <span style="color:orange"> Extras </span>
+- [Excellent video](https://www.youtube.com/watch?v=NZkX0uT8gtM) summarizing the renormalization of QED - It is very easy to lose sight of your goal while doing extremely lengthy calculations while renormalizing parameters in a theory. The video does a fantastic job of summarizing everything in less than 30 minutes.
+
