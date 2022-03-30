@@ -14,11 +14,12 @@ date : 2022-01-25
 ## <span style="color:orange"> Books  </span>
 The following are the books I believe to be very good for an introduction to the subject.
 
-- <span style = "color:#3db18b"> A general relativity workbook - Moore </span> <br>
-It's one of those books that "I wish I knew about when I learned GR". Its quite a thick book, but the details that he goes into are extraordinary. He actually has made it possible to self-study such a infamously hard subject. If it is your first time learning about GR, I highly recommend to follow the book - A good structure to follow is given in the preface. There is no way you will cover the entire book in one course, it really covers the subject in a very good detail. 
+- <span style = "color:#3db18b"> A general relativity workbook - Moore </span> <br> It's one of those books that "I wish I knew about when I learned GR". Its quite a thick book, but the details that he goes into are extraordinary. He actually has made it possible to self-study such a infamously hard subject. If it is your first time learning about GR, I highly recommend to follow the book - A good structure to follow is given in the preface. There is no way you will cover the entire book in one course, it really covers the subject in a very good detail.
+<br>
 
 - <span style="color:#3db18b"> Gravity - An Introduction to Einstein's General Relativity  </span>
-If I encounter a 
+If I encounter a random topic realated to my GR basics, this is my go to book. I feel the pace is amazing as a first course, but depending on your background, you could feel it to be too slow at times! Nevertheless, it has tons of solved examples, good problems, boxed "extras". All in all, my goto *book* for GR.
+<br>
 
 - <span style = "color:#3db18b"> Quantum Field Theory for the Gifted Amatuer - Lancaster and Blundell </span> <br> As the book says, it is for a "Gifted amatuer". Here "gifted" doesn't necessarily mean *super-intellegent* or a *genius*. It merely means that you have not just successfully completed your courses in thereotical physics, but also understood the material **very well**. A typical first course would be Chapters 1-20. Then Chapters 34-40. Chapter 22-26 build up the path integral approach, this would depend on your professors taste. (In order to understand all the computations from 34-40, you need to understand the path integral approach).
 
@@ -41,8 +42,7 @@ If I encounter a
 
 ### <span style="color:orange"> Lecture notes - Generally complement well in parallel to a formal course </span>
 
-- :star2: [Daniel Baumann's lecture notes](http://cosmology.amsterdam/qft/) <br>
-Like all his other lecture notes, every calculation is explicit. No beating around the bush, he gets the job done in concise yet extrememly precise way. Unfortunately only adequate upto an introductory course for QFT (But, absolutely self contatined for that first course)
+- :star2: [Daniel Baumann's lecture notes](http://cosmology.amsterdam/qft/) <br> Like all his other lecture notes, every calculation is explicit. No beating around the bush, he gets the job done in concise yet extrememly precise way. Unfortunately only adequate upto an introductory course for QFT (But, absolutely self contatined for that first course)
 
 - [Lecture notes for Heidelberg University - _Arthur Hebecker_](https://www.thphys.uni-heidelberg.de/~hebecker/QFTI/Skript/main.pdf)
 
