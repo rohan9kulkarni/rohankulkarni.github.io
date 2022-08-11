@@ -6,6 +6,11 @@ share : false
 layout : docs
 
 ---
+## <span style = "color:orange"> Helpful hints and tips </span>
+
+- [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}})
+- [Physics PhD applications 101 - Application procedure for PhD programs to Germany and Canada]({{<ref"phd">}})
+
 ## <span style = "color:orange"> IPSP FAQ </span>
 
 1. [IPSP application phase]({{<ref"ipsp/ipsp1_application_phase">}}) *<u>#draft-ready</u>*
@@ -13,11 +18,9 @@ layout : docs
 3. [IPSP - During the degree]() *<u>#planned</u>*
 4. [IPSP - General life in Leipzig and Germany]() *<u>#planned</u>*
 
-## <span style = "color:orange"> Helpful hints and tips </span>
-
-- [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}})
 - Exam preparation for IPSP B.Sc. at Leipzig University
   - [ _Theoretical Physics II_ : Classical Electrodynamics I]({{<ref"tp2_exam_prep">}})
+
 
 ## <span style = "color:orange"> Miscellaneous  </span>
 - [Super helpful Youtube channels]({{<ref"youtube_channels">}})
