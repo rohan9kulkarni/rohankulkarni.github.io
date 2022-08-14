@@ -1,10 +1,9 @@
 ---
-Title : PhD Physics Applications 101 (Canada and Germany)
+title : Ph.D. Physics Applications 101 (Canada and Germany)
 subtitle : 
 share : false
 layout : docs
-publishDate : 2022-08-10
-
+date : 2022-08-10
 ---
 
 Here is a brainstormed document of some main things to remember when applying for a Physics Ph.D. program. 
@@ -52,10 +51,10 @@ In Germany, too, you need an M.Sc. Physics before you can apply for a Ph.D. prog
 2. **Structured**: The other type of Ph.D. is a structured program where you apply formally using an application portal (You can find these, for example, on InspireHEP). Here, funding comes from a grant which is not necessarily your advisor's grant.
 
 
-## <span style = "color:orange"  > Contacting prospective supervisors ,/span>
+## <span style = "color:orange"  > Contacting prospective supervisors </span>
 - Contact your prospective professors at least a year in advance. Make a list of professors you would want to contact even before that. I use Notion to organize a significant portion of my life; here is an example, 
-![Table screenshot](notion_template.png)
 
+![Table screenshot](img/notion_template.png)
 	- I would highly recommend making a similar table for the shortlist of programs that you plan to apply to.
 
 - When you contact your prospective professors, make sure you do use your _institutional email address_. Here is a template of how you would want to contact them. 
