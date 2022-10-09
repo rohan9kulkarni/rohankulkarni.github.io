@@ -81,10 +81,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi there! So, after a long year of applications and interviews, I will be privileged
-to join the QHEAT group (Queen's High Energy and Astroparticle Theory) at Queen's University for my Ph.D. Starting September 2022, I will be pursuing my Ph.D. under the supervision of Prof. Joe Bramante. I am excited to embark on this new journey to explore deeper into the fascinating world of Astroparticle Physics. 
+Hi there! So, after a long year of applications and interviews, I am privileged to join the QHEAT group (Queen's High Energy and Astroparticle Theory) at Queen's University for my PhD. Starting September 2022, I will be pursuing my PhD under the supervision of Prof. Joe Bramante. I am excited to embark on this new journey to explore deeper into the fascinating world of Astroparticle Physics. 
 
-Currently, I am working towards the final stages of earning my M.Sc. Physics degree from Heidelberg University in Germany. For my M.Sc. thesis,  I am performing research at McGill University in Canada as a graduate research trainee under the supervision of Prof. Katelin Schutz. I am working on various projects in theoretical astroparticle physics. 
+I earned my M.Sc. Physics degree from Heidelberg University in Germany. For my master's thesis,  I performed research at McGill University in Canada as a graduate research trainee under the supervision of Prof. Katelin Schutz. My final thesis will be posted soon on the website!
 
 During my M.Sc. I completed the following courses :  
 
@@ -92,9 +91,10 @@ During my M.Sc. I completed the following courses :
 - **Specialization courses** : *Quantum Field Theory II, Standard Model of Particle Physics, Relativistic Quantum Mechanics*
 - **Seminars and Block courses** : *Dark Matter Theory, Black holes in Physics and Astrophysics*
 
-Before Heidelberg, I graduated with a B.Sc in Physics from Leipzig University in Germany. During my undergraduate years, I worked as a Teaching Assistant in Theoretical Physics, Mathematics, and Experimental Physics, totaling over 250 hours of undergraduate-level classroom teaching. My final bachelor’s thesis had the topic *Black holes, Singularity theorems and the Global Structure of Spacetime*.
 
-The primary purpose of this website, apart from *who I am and what I have done* is outreach. These past five years of my life revolve around one thing - _Theoretical Physics_. While on this incredible journey, there were numerous instances where I had the thought, "*if only someone had told me that, I would have saved hours of work*" or "*that one statement made me understand XYZ*." I want to pass on the wisdom and tools I gained on this journey to my colleagues and anyone trying to decipher the breathtaking world of physics. You can check the "notes" and "literature" tabs. I am also thinking of starting a regular blog about things like my learning techniques, note-taking algorithms, etc. So keep an eye out for that too. 
+Before Heidelberg, I graduated with a B.Sc in Physics from Leipzig University in Germany. During my undergraduate years, I worked as a teaching assistant in Theoretical Physics, Mathematics, and Experimental Physics, totalling over 250 hours of undergraduate-level classroom teaching. My final bachelor’s thesis had the topic *Black holes, Singularity theorems and the Global Structure of Spacetime*.
+
+The primary purpose of this website apart from *who I am and what I have done* is outreach. These past five-six years of my life revolved around one thing - _Theoretical Physics_. While on this incredible journey, there were numerous instances where I had the thought, "*if only someone had told me that, I would have saved hours of work*" or "*that one statement made me understand XYZ*." I want to pass on the wisdom and tools I gained on this journey to my colleagues and anyone trying to decipher the breathtaking world of physics. You can check the "notes" and "literature" tabs. I am also thinking of starting a regular blog about things like my learning techniques, note-taking algorithms, etc. So keep an eye out for that too. 
 
 I hope whoever found this website gains something valuable from it. If not, you just got acquainted with another friendly face :)
 
