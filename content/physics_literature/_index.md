@@ -1,46 +1,48 @@
 ---
-title :
-subtitle : '<center> <h3> Book recommendations and collection of online resources for different topics </h3> </center>'
+title : 'Handpicked recommendations ready to be served'
+subtitle :
 summary :
 share : false
 layout : docs
 
 ---
 
-## <span style="color:orange">Undergraduate physics courses </span>
+## <span style="color:orange">  Undergraduate Physics Courses </span>
 
+- :apple: [Classical Mechanics]({{<ref"ug/cm">}}) $~~~$ *<u>#draft</u>*
+- :magnet: [Electrodynamics]({{<ref"ug/ed">}})
+- :rocket: [Special Relativity]({{<ref"ug/sr">}})
+- :atom: [Quantum Mechanics]({{<ref"ug/qm">}})
+
+## <span style="color:orange">  Graduate physics courses </span>
+
+- :knot: [Quantum Field Theory]({{<ref"grad/qft">}})
+- :milky_way: [Cosmology]({{<ref"grad/cosmology">}})  
+- :hole: [Black holes]({{<ref"grad/bh">}})
+
+## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
+- [Calculus - Single, Multi-Variate and Vector]({{<ref"math/calculus">}})
+- [Linear Algebra]({{<ref"math/linearalgebra">}})
+
+## <span style="color:orange"> Graduate Mathematics "for Physicists"  </span>
+
+<hr/>
+
+#### :construction: Work in progress
 - First year physics $~~~~~~~~~$ *<u>#planned</u>*
-- [Classical mechanics]({{<ref"ug/cm">}}) $~~~~$ *<u>#draft_ready-to-read</u>*
-- Analytical mechanics $~~~$ *<u>#planned</u>*
-- [Electrodynamics]({{<ref"ug/ed">}}) $~~~~~~~~~~$ *<u>#ready-to-read</u>*
-- Special relativity $~~~~~~~~~~$ *<u>#planned</u>*
+- Analytical Mechanics $~~~$ *<u>#planned</u>*
 - Vibrations and Waves $~~$ *<u>#planned</u>*
-- [Quantum mechanics]({{<ref"ug/qm">}}) $~~~$      *<u>#draft_ready-to-read</u>*
 - Thermodynamics $~~~~~~~~$ *<u>#planned</u>*
 - Statistical physics $~~~~~~~$ *<u>#in-progress</u>*
 - Solid state physics $~~~~~~$ *<u>#planned</u>*
 - Astrophysics $~~~~~~~~~~~~~~$ *<u>#planned</u>*
-
-## <span style="color:orange"> Graduate physics courses </span>
-
-- Advanced quantum theory $~~~$ *<u>#planned</u>*
-- [Quantum field theory]({{<ref"grad/qft">}}) $~~~~~~~~~~~$ *<u>#ready-to-read</u>*
-- [Cosmology]({{<ref"grad/cosmology">}})  $~~~~~~~~~~~~~~~~~~~~~~~~~$ *<u>#draft_ready-to-read</u>*
-- General relativity $~~~~~~~~~~~~~~~~~$ *<u>#in_progress</u>*
-- [Black holes]({{<ref"grad/bh">}}) $~~~~~~~~~~~~~~~~~~~~~~~~$ *<u>#draft_ready-to-read</u>*
-
-## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
-
+- Graduate Quantum Mechanics $~~~$ *<u>#planned</u>*
+- General Relativity $~~~~~~~~~~~~~~~~~$ *<u>#in_progress</u>*
 - Mathematics for Physicists books (Both- Basic and Advanced) $~~~$     *<u>#planned</u>*
-- [Calculus - Single, multi-variate and vector]({{<ref"math/calculus">}}) $~~~$     *<u>#ready-to-read</u>*
-- [Linear algebra]({{<ref"math/linearalgebra">}}) $~~~$     *<u>#ready-to-read</u>*
 - Complex analysis $~~~$     *<u>#planned</u>*
 - Differential equations  $~~~$    *<u>#planned</u>*
 - Functional analysis (Advanced)  $~~~$    *<u>#planned</u>*
 - Differential geometry (Advanced) $~~~$      *<u>#planned</u>*
-
-## <span style="color:orange"> Graduate Mathematics "for Physicists" </span>
-
 - Mathematical Physics  $~~~$    *<u>#planned</u>*
 - Group theory  $~~~$    *<u>#planned</u>*
 - Gauge theory  $~~~$    *<u>#planned</u>*
