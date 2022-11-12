@@ -1,4 +1,4 @@
-p---
+---
 title : Special relativity literature
 subtitle :  _I run towards you at speed x. You walk towards me at speed y. Yet, you perceive my speed to be x..., Who am I?_<br> _I look like a vector, transform not-really like a vector, along with magnitude and direction, I also keep track of time..., Who am I?_
 share : true
