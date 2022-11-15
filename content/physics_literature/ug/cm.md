@@ -6,14 +6,21 @@ layout : docs
 date : 2021-08-24
 ---
 
-### <span style="color:orange"> General advice </span>
-
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>General advice</b></p>
+<p style='margin-left:1em;'>
 Classical mechanics is a field that every person in STEM has studied to a certain degree in their career. The reason - If you think about it, it is the point in time where philosophical arguments started to be converted into concrete physical laws; that could be expressed in the language of Math. The idea of "proof of concept" was set in stone during this period. It started a completely new era for humans as a race.  
 
-Any course you will ever take as a physicist will assume this to be a prerequisite. This is why you always see physics coursework starting with this topic. There is no argument to escape it if you want to be a physicist. 
+Any course you will ever take as a physicist will assume this to be a prerequisite. This is why you always see physics coursework starting with this topic. There is no argument to escape it if you want to be a physicist.
+</p>
+<!---<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b>- Gary Provost</b> <i>(100 Ways to Improve Your Writing, 1985)</i>
+</p></span>-->
+</div> 
 
-### <span style="color:orange">Best Reference Books </span>
-
+### <span style="color:orange">Reference Books </span>
+`
 - <span style = "color:#3db18b"> **Introduction to Classical Mechanics: With Problems and Solutions - David Morin** </span> <br>As the title suggests, Its an introductory book with problems and *solutions*.  As a first course and introductory read, I would suggest the following Chapters: 1 to 5, 7 to 9. This book has TONS and TONS of good problems, along with solutions. My strategy to attack such a book is, 
   
   - Read a section/chapter (Depending on how big it is, respectively)
@@ -61,8 +68,8 @@ This book is an absolute gem. Unfortunately, I didn't hear about it till a year 
 
 - [Feynman's lectures](https://www.feynmanlectures.caltech.edu/I_toc.html) 
 
-- http://www.damtp.cam.ac.uk/user/tong/relativity/stephen.pdf
+- [Other Cambridge lectures](http://www.damtp.cam.ac.uk/user/tong/relativity/stephen.pdf)
 
-- https://courses.physics.ucsd.edu/2019/Winter/physics110b/lectures.html
+- [USCD 110b](https://courses.physics.ucsd.edu/2019/Winter/physics110b/lectures.html)
 
   

@@ -35,7 +35,7 @@ layout : docs
   - Tutor for IPSP semester III ***(TP3, EP3, Math3)***
   - Lab supervisor for Experimental Physics I : ***Mechanics, Waves, and Thermodynamics***
 - #### <span style="color:#3db18b">Summer Semester 2017</span>
- - Tutor for IPSP semester II ***(TP2, EP2, Math2)***
+  - Tutor for IPSP semester II ***(TP2, EP2, Math2)***
 - #### <span style="color:#3db18b">Winter Semester 2016/17</span>
   - Tutor for IPSP semester I ***(TP1, EP1, Math1)***
 <!--[I'm an inline-style link with title](https://www.google.com "Google's Homepage")-->
