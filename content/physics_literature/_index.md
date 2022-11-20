@@ -16,7 +16,7 @@ layout : docs
 
 ## <span style="color:orange">  Graduate physics courses </span>
 
-- :knot: [Quantum Field Theory]({{<ref"grad/qft">}})
+- :loop: [Quantum Field Theory]({{<ref"grad/qft">}})
 - :milky_way: [Cosmology]({{<ref"grad/cosmology">}})  
 - :hole: [Black holes]({{<ref"grad/bh">}})
 
