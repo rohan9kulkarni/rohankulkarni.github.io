@@ -2,14 +2,15 @@
 title :    
 subtitle : <center> <h3> Help for fellow Physics comrades </h3> </center>
 summary : Hello
-share : false
+share : true
 layout : docs
 
 ---
 ## <span style = "color:orange"> Helpful hints and tips </span>
 
-- [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}})
 - [Physics PhD applications 101 - Application procedure for PhD programs to Germany and Canada]({{<ref"phd">}})
+- [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}})
+
 
 ## <span style = "color:orange"> IPSP FAQ </span>
 
