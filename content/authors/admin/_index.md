@@ -87,7 +87,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi there! So, after a long year of applications and interviews, I am privileged to join the QHEAT group (Queen's High Energy and Astroparticle Theory) at Queen's University for my PhD. Starting September 2022, I will be pursuing my PhD under the supervision of Prof. Joe Bramante. I am excited to embark on this new journey to explore deeper into the fascinating world of Astroparticle Physics. 
+Hi there! So, after a long year of applications and interviews, I have the pleasure of joining the QHEAT group (Queen's High Energy and Astroparticle Theory) at Queen's University (host to the Canadian Astroparticle Institute) for my PhD. Starting September 2022, I will be pursuing my PhD under the supervision of Prof. Joe Bramante. I am excited to embark on this new journey to explore deeper into the fascinating world of Astroparticle Physics. 
 
 I earned my M.Sc. Physics degree from Heidelberg University in Germany. For my master's thesis,  I performed research at McGill University in Canada as a graduate research trainee under the supervision of Prof. Katelin Schutz. My final thesis titled *Axion Basinschein : A search for gravitationally bound solar axions via stimulated decay into photons* will be posted soon on the website!
 
