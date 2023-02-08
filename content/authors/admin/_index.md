@@ -21,22 +21,25 @@ organizations:
 bio: Just a simple man who tries to make a difference.
 
 interests:
-- Particle Dark matter
-- Astroparticle/Particle Phenomenology
-- Early universe cosmology
+- Astroparticle Theory 
+- Particle Dark Matter
+- Early Universe Cosmology
 
 # Education to show in About widget
 education:
   courses:
-  - course: Graduate Research Trainee (GRT) for M.Sc. Thesis
+  - course : Ph.D. Physics
+    institution : Queen's University
+    year : Jan 2023 - Ongoing
+  - course: Graduate Research Trainee
     institution: McGill University, Canada
     year: Sept 2021 - Sept 2022
   - course: M.Sc. Physics
     institution: Heidelberg University, Germany
-    year: Oct 2020 - Sept 2022 (Expected)
+    year: Oct 2020 - Sept 2022 
   - course: B.Sc. Physics IPSP (International Physics Studies Program - IPSP)
     institution: Leipzig University, Germany
-    year: July 2019
+    year: Oct 2015 - July 2019
 
 
 #<!---
@@ -52,16 +55,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rohan.kulkarni@mail.mcgill.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link:
-- icon: google-scholar
-  icon_pack: ai
-  link:
-- icon: github
-  icon_pack: fab
-  link:
+  link: https://twitter.com/iamfeynstein
+- icon : instagram
+  icon_pack : fas
+  link : https://instagram.com/iamfeynstein?igshid=NTA5ZTk1NTc=
+#- icon: google-scholar
+#  icon_pack: ai
+#  link:
+#- icon: github
+#  icon_pack: fab
+#  link:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -83,14 +89,13 @@ user_groups:
 ---
 Hi there! So, after a long year of applications and interviews, I am privileged to join the QHEAT group (Queen's High Energy and Astroparticle Theory) at Queen's University for my PhD. Starting September 2022, I will be pursuing my PhD under the supervision of Prof. Joe Bramante. I am excited to embark on this new journey to explore deeper into the fascinating world of Astroparticle Physics. 
 
-I earned my M.Sc. Physics degree from Heidelberg University in Germany. For my master's thesis,  I performed research at McGill University in Canada as a graduate research trainee under the supervision of Prof. Katelin Schutz. My final thesis will be posted soon on the website!
+I earned my M.Sc. Physics degree from Heidelberg University in Germany. For my master's thesis,  I performed research at McGill University in Canada as a graduate research trainee under the supervision of Prof. Katelin Schutz. My final thesis titled *Axion Basinschein : A search for gravitationally bound solar axions via stimulated decay into photons* will be posted soon on the website!
 
-During my M.Sc. I completed the following courses :  
+<!---During my M.Sc. I completed the following courses (If anyone has any ) :  
 
 - **Core** : *Quantum Field Theory I, Cosmology, General Relativity*
 - **Specialization courses** : *Quantum Field Theory II, Standard Model of Particle Physics, Relativistic Quantum Mechanics*
-- **Seminars and Block courses** : *Dark Matter Theory, Black holes in Physics and Astrophysics*
-
+- **Seminars and Block courses** : *Dark Matter Theory, Black holes in Physics and Astrophysics* --->
 
 Before Heidelberg, I graduated with a B.Sc in Physics from Leipzig University in Germany. During my undergraduate years, I worked as a teaching assistant in Theoretical Physics, Mathematics, and Experimental Physics, totalling over 250 hours of undergraduate-level classroom teaching. My final bachelor’s thesis had the topic *Black holes, Singularity theorems and the Global Structure of Spacetime*.
 
