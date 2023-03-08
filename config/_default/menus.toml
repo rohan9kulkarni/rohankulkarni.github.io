@@ -24,24 +24,24 @@
   weight = 4
 
 [[main]]
-  name = "Blog"
+  name = "Posts"
   identifier = "blogposts"
   weight = 5
 
 [[main]]
-  name = "Physics Notes"
+  name = "Physics notes"
   url = "notes/"
   parent = "blogposts"
   weight = 2
 
 [[main]]
-  name = "Posts"
+  name = "Blog posts"
   url = "blog/"
   parent = "blogposts"
   weight = 1
 
 [[main]]
-  name = "Physics Literature"
+  name = "Physics literature reccomendations"
   url = "physics_literature"
   parent = "blogposts"
   weight = 3
