@@ -81,3 +81,9 @@ My most important advice is that **keywords** are much more powerful than an ela
 And that was it. I asked them how long it takes for the results to be out. They told me that it would be a couple of days.
 
 ### Other questions I collected from the internet and colleagues.
+- (Internet1) : What is the expected value of $x$ for an electron in vacuum? 
+	- $\left<x\right> = 0$ from symmetry
+- (Internet2) : What are spherical harmonics?
+- (Internet3) : What happens to an electron which is excited in an atom and what law is associated with it?
+	- It will decay using Fermi's golden rule.
+- 
