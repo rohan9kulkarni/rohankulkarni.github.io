@@ -14,7 +14,7 @@ layout : docs
 
 ## <span style = "color:orange"> IPSP FAQ </span>
 
-1. [IPSP application phase]({{<ref"ipsp/ipsp1_application_phase">}}) *<u>#ready-to-read!<u>*
+1. [IPSP application phase]({{<ref"ipsp/ipsp1_application_phase">}}) *<u>#ready-to-read!</u>*
 2. [IPSP preparation phase]({{<ref"ipsp/ipsp2_preparation_phase">}}) *<u>#ready-to-read!</u>*
 3. [IPSP - During the degree]() *<u>#planned-April-23</u>*
 4. [IPSP - General life in Leipzig and Germany]() *<u>#planned-April-23</u>*
