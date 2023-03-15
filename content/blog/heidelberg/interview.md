@@ -3,7 +3,7 @@ title : 'Heidelberg Physics Masters interview tips'
 subtitle : 
 share : true
 layout : docs
-date : 2023-03-13
+date : 2023-03-15
 ---
 
 ## <span style = "color:orange"> Application to Heidelberg </span>
@@ -32,7 +32,7 @@ One of the most common questions I receive is, "How do I prepare for the intervi
    - *Quantum mechanics*
    - *Statistical mechanics*
 2. If you know your gaps and loopholes, you can fill them conceptually by reading the chapters from David Tong's lecture notes / Feynman's lectures. Why the change of mind from Feynman to Tong? - In the past years, I have been reading Tong's lecture notes as an attempt to concretize my foundations even more, and to date, I have read at least 5 of his notes, front to back, and honestly, they have so much more depth than Feynman's lectures which was my previous recommendation for preparation - Which makes sense as Feynman's lectures were given to first-year students approximately 60 years ago - Don't get me wrong, I still occasionally reach out to Feynman lectures as they are always going to be an excellent resource if you need to brush up some of your concepts quickly. You can find all of them [here](https://www.damtp.cam.ac.uk/user/tong/teaching.html). Remember, you are preparing for an interview; you do not have time to go front to the back of his notes, pick up a set of notes and go through the **sections** you don't feel confident about. 
-3. A series of physics books by *Daniel Fleisch* is a nice companion during this time. Most **results** and *how they are derived* in these books will be "obvious facts" that the professors might expect you to know. They are small booklets summarizing the main results of each of the following subjects.
+3. A series of physics books by *Daniel Fleisch* is an excellent companion during this time. Most **results** and *how they are derived* in these books will be "obvious facts" that the professors might expect you to know. They are small booklets summarizing the main results of each of the following subjects.
    - *A student's guide to Maxwell equations (For Electrodynamics)* 
    - *A student's guide to Waves (For Vibrations and Waves)*
    - *A student's guide to Schrodinger equation (For Quantum mechanics)* 
@@ -41,7 +41,7 @@ One of the most common questions I receive is, "How do I prepare for the intervi
    - *Special relativity and Classical field theory* by Leonard Susskind (The first three chapters should be good enough for Special relativity)
 5. :star2: If you have a friend who is very well versed in all these subjects, ask them to test your basic understanding of these subjects (Not someone who is looking to show off their knowledge, but rather someone who is genuinely willing to help -  the first type of person will cause more harm than good)
 
-As you will see, the theme of the questions can vary a lot. It really is more about breadth than depth while you prepare.
+As you will see, the theme of the questions can vary a lot. It is more about breadth than depth while you prepare.
 
 ## <span style = "color:orange"> Interview Questions </span>
 
@@ -87,12 +87,12 @@ And that was it. I asked them how long it takes for the results to be out. They 
 - (Internet2): What are spherical harmonics?
 - (Internet3): What happens to an electron excited in an atom, and what law is associated with it? Ans. It will decay using Fermi's golden rule.
 - (Alice1): Why do we not fall through the ground? (A question to begin with that was followed up further with how to solve the radial equation hydrogen atom and applying the boundary condition that the probability goes to 0 at the origin, so we can't have electrons 'falling' into the nucleus)
-- (Alice2): General particle physics questions: distinguishing fermions and bosons, summarising the particles of the standard model and their commonly known properties like the mass,charge, and spin (I don't think they expected all properties of all the particles)
+- (Alice2): General particle physics questions: distinguishing fermions and bosons, summarising the particles of the standard model and their commonly known properties like the mass, charge, and spin (I don't think they expected all properties of all the particles)
 - (Bob1): Tell us about your bachelor thesis. If you didn't have one, explain some projects that you did. They asked questions about those projects.
 - (Bob2): Explain Maxwell's equations
-- (Charlie1) : Explain the quantum mechanical interpretation of an atom (H atom)
-- (Charlie2) : Explain the quantum harmonic oscillator, probability densities in a 1D potential well, Schrödinger equation in 1D
-- (Charlie3) : Brief about Bachelor thesis, simple questions on the instrumentation and general overview 
+- (Charlie1): Explain the quantum mechanical interpretation of an atom (H atom)
+- (Charlie2): Explain the quantum harmonic oscillator, probability densities in a 1D potential well, Schrödinger equation in 1D
+- (Charlie3): Brief about Bachelor thesis, simple questions on the instrumentation, and general overview 
 - (Charlie4) : (I do not remember the exact questions as it was a long time ago, but the theme was quantum mechanics and why and how it’s an improvement over the Bohrs model)
-- (Yara) : Discussed two topics in detail: Hydrogen atom (QM) and Modes of heat transfer. Then we started talking about Cosmology. This part was more of a discussion session and not a Q&A.
-- (Zack) : Mostly questioned on gravitation, keplers laws, etc.
+- (Yara): Discussed two topics in detail: Hydrogen atom (QM) and Modes of heat transfer. Then we started talking about Cosmology. This part was more of a discussion session and not a Q&A.
+- (Zack): Mostly questioned on gravitation, Kepler's laws, etc.
