@@ -1,5 +1,5 @@
 ---
-title : 'Heidelberg Physics Masters interview tips' 
+title : 'Interview tips for M.Sc. Physics application at Heidelberg University' 
 subtitle : 
 share : true
 layout : docs
