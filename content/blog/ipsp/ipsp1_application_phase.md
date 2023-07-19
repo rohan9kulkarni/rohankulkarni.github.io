@@ -4,6 +4,7 @@ subtitle :  _Paperwork, paperwork and paperwork_
 share : true
 layout : docs
 date : 2021-08-24
+toc : true
 ---
 
 <!-- ## General advice -->

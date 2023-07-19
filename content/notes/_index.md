@@ -1,12 +1,12 @@
 ---
-title :
-subtitle : <center>  <h3> Is this the lifeboat you were looking for?  </h3></center>
+title : 'Physics Ninja Chronicles'
+subtitle : 'Stealthily Slicing through Complexity, One Equation at a Time!'
 summary : Notes
 share : false
 layout : docs
 ---
 
-## <span style="color:orange"> Quantum field theory I (MSc course Heidelberg) </span>
+##  Quantum field theory I (MSc course Heidelberg) 
 
 - [Problem 6.2](/files/notes/heidelberg_qft/6_2.pdf) : Noether's theorem, Symmeteries, Conserved charges
 - [Problem 10.1](/files/notes/heidelberg_qft/10_1.pdf) : Yukawa potential
@@ -16,7 +16,7 @@ layout : docs
 
 <hr>
 
-## <span style="color:orange"> Statistical Mechanics (TP5 IPSP, Leipzig) </span>
+##  Statistical Mechanics (TP5 IPSP, Leipzig) 
 
 - [Problem 1](/files/notes/tp5/prob1.pdf) : Statistical mechanics of Quantum harmonic oscillator
 - [Problem 2](/files/notes/tp5/prob2_directed_polymer_23dec2020.pdf) : Directed Polymer ($2^N$ microstate type)
@@ -25,7 +25,7 @@ layout : docs
 <hr> 
 
 
-## <span style="color:orange"> Quantum Mechanics (TP4 IPSP, Leipzig) </span>
+##  Quantum Mechanics (TP4 IPSP, Leipzig) 
 
 - [Mock 2017 - Problem 1](/files/tp4/tp4_mock17_prob1.pdf) : Creation - Annhiliation operators (Detailed solution to part(a) added) <br>
   [Extra notes](/files/tp4/tp4_qho_summary.pdf)
@@ -36,12 +36,12 @@ layout : docs
 - [Mock 2017 - Problem 3](/files/tp4/tp4_mock17_prob3.pdf) : Spin <br>- Part (e) added. Part f and alternative solutions to (c) and (d) to be added 
 - [Schrodinger vs Heisenberg picture (With example)](/files/tp4/heisenberg_schrodinger_picture.pdf)
 
-## <span style="color:orange"> Old exams for self test for IPSP students </span>
+##  Old exams for self test for IPSP students 
 
 - [Self-test : Semester I exam](/files/extra_exams/sem1_mock_rohan.pdf) , [Syllabus](/files/extra_exams/sem1_mock_syllabus.pdf) 
 - [Self-test : Theoretical Physics II exam](/files/extra_exams/tp2_extramock_rohan.pdf)
 
-## <span style="color:orange"> Miscellaneous Notes </span>
+##  Miscellaneous Notes 
 
 - [Intuition behind Jacobians](/files/extra_exams/jacobians_rohan.pdf)
 - [A nice lagrangian problem with solution](/files/misc_notes/lagrangian_problem.pdf)

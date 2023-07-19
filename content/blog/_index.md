@@ -1,12 +1,12 @@
 ---
-title :  Blog posts
-subtitle : <center> <h3> Help for fellow Physics comrades </h3> </center>
-summary : Hello
+title :  'The Quantum Quill'
+subtitle : 'Guiding Physics Explorers on their Academic Journey'
+summary : 
 share : true
 layout : docs
-
+toc : true
 ---
-## <span style = "color:orange"> Helpful hints and tips </span>
+## Helpful hints and tips 
 
 - [Physics PhD applications 101 - Application procedure for PhD programs to Germany and Canada]({{<ref"phd">}}) :white_check_mark: :construction:
 
@@ -14,7 +14,7 @@ layout : docs
 - [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}}) :white_check_mark:
 
 
-## <span style = "color:orange"> IPSP FAQ </span>
+##  IPSP FAQ 
 
 1. [IPSP application phase]({{<ref"ipsp/ipsp1_application_phase">}}) :white_check_mark: 
 2. [IPSP preparation phase]({{<ref"ipsp/ipsp2_preparation_phase">}}) :white_check_mark:
@@ -25,7 +25,7 @@ layout : docs
   - [_Theoretical Physics II_ : Classical Electrodynamics I]({{<ref"tp2_exam_prep">}})  :heavy_check_mark:
 
 
-## <span style = "color:orange"> Miscellaneous  </span>
+##  Miscellaneous 
 - [Handy Youtube Channels]({{<ref"youtube_channels">}}) :white_check_mark: :recycle:
 
 <!--

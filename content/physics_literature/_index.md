@@ -1,10 +1,9 @@
 ---
-title : 'Handpicked recommendations ready to be served'
-subtitle :
+title : The Physics Bibliosphere
+subtitle : 'Your Passport to a Universe of Physics Knowledge'
 summary :
 share : false
 layout : docs
-
 ---
 
 ## <span style="color:orange">  Undergraduate Physics Courses </span>

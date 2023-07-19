@@ -4,9 +4,10 @@ subtitle :
 share : true
 layout : docs
 date : 2023-03-15
+toc: true
 ---
 
-## <span style = "color:orange"> Application to Heidelberg </span>
+## Application to Heidelberg 
 
 After several wonderful undergraduate years at Leipzig,  I applied to one of the best physics faculties on the planet and one of the most fairy-tale-like cities - Heidelberg. I had visited Heidelberg twice as a tourist and had fallen for the city.
 
@@ -22,7 +23,7 @@ Now, jumping to the interview. You know beforehand the professors who will inter
 
 One of the most common questions I receive is, "How do I prepare for the interview?". The questions asked to summarize what you learned during your Bachelor's.
 
-## <span style = "color:orange"> Pointers for preparation </span>
+## Pointers for preparation
 
 1. They would assume that you are well-versed in the following undergraduate subjects, 
    - *Classical mechanics (Including Lagrangian and Hamiltonian mechanics, aka Analytical mechanics)*
@@ -43,18 +44,18 @@ One of the most common questions I receive is, "How do I prepare for the intervi
 
 As you will see, the theme of the questions can vary a lot. It is more about breadth than depth while you prepare.
 
-## <span style = "color:orange"> Interview Questions </span>
+## Interview Questions 
 
 My most important advice is that **keywords** are much more powerful than an elaborate explanation during such an interview.
 
-### <span style = "color:#3db18b"> General questions </span>
+###  General questions 
 
 1. <span style = "color:#158FBF">Why are you applying to Heidelberg?</span>
    - There are 8-9 specializations at Heidelberg. Preferably talk about the one you are most interested in. Or, if there are a few faculty members you would like to work with, mention them. They want to see that you have a reason to apply, and both senses mentioned above should suffice.
 2. <span style = "color:#158FBF"> What did you do for your BSc Thesis/ Project? </span>
    - This is for people with a thesis, I am presuming during the BSc. The task here would be to summarize what you did as quickly as possible.
 
-### <span style = "color:#3db18b"> Physics questions </span>
+### Physics questions 
 
 (Answer them as concisely as possible using the keywords, I'll put the keywords in italics) - I am trying to recall exactly what I answered; I will write the answers **exactly** as I answered them. 
 

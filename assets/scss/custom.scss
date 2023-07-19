@@ -1,0 +1,55 @@
+html {
+	scroll-behavior: smooth;
+}
+
+// Center all h1 elements
+//h1 {
+//	text-align: center;
+//  }
+  
+/*.article-container h1 {
+    text-align: center; color:yellow;
+}*/
+
+
+
+.docs-content h1.title {
+    text-align: center;
+
+}
+
+.universal-wrapper h1 {
+    text-align: center; color:whitesmoke; font-weight: bold;
+}
+
+.page-subtitle {
+	text-align: center;
+	position: relative;
+	font-style: italic;
+  }
+  
+  .page-subtitle::after {
+	content: "";
+	display: block;
+	width: 100%;
+	height: 1px;
+	background-color: #ccc; /* Change the color or style of the ruler as needed */
+	position: absolute;
+	bottom: -10px; /* Adjust the positioning of the ruler below the subtitle */
+	left: 0;
+  }
+
+
+.article-container h1 {
+    text-align: center; color:whitesmoke;
+	font-weight: bold;
+}
+/* _index.md H2 to be orange  or actually anywhere H2 to be orange*/
+.article-style h2 {
+	color: orange;
+	font-weight: bold;
+  }
+
+.article-container h3 {
+	color:#3db18b; font-weight: bold;
+}

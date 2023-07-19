@@ -4,6 +4,7 @@ subtitle :  _Congratulations, you got in! Now what?_
 share : true
 layout : docs
 date : 2023-03-08
+toc : true
 ---
 
 If you have read part 1 of this blog, you know that everyone who meets the HEQ criteria in the eyes of Uni-assist gets accepted. **Contrary to most good physics programs worldwide, the hard part is not getting accepted to IPSP - it's survival**.  In my opinion, this is mainly due to three reasons (two of them connected) :

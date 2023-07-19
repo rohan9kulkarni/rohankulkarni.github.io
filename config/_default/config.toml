@@ -109,3 +109,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   googleAnalyticsID = "G-9TMZNHK1JN"
+  custom_css = ["css/custom.css"]
+
+
+tableOfContents = true

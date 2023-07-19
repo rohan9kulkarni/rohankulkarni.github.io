@@ -1,9 +1,9 @@
 ---
-title :  
-summary :
+title : 'Teaching Experience'
+subtitle : 'A short philosophy of teaching might be, love your subject and convey that love; all else is secondary. - J.D.Jackson'
 share : false
 layout : docs
-
+toc : true
 ---
 
 ## <span style="color:orange"> <center>**Heidelberg University**</center></span>

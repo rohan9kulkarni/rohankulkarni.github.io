@@ -24,27 +24,27 @@
   weight = 4
 
 [[main]]
-  name = "Posts"
+  name = "Blogsville"
   identifier = "blogposts"
   weight = 5
 
 [[main]]
-  name = "Physics notes"
+  name = "Physics Ninja Chronicles (Notes)"
   url = "notes/"
   parent = "blogposts"
-  weight = 2
+  weight = 3
 
 [[main]]
-  name = "Blog posts"
+  name = "The Quantum Quill (Blogs)"
   url = "blog/"
   parent = "blogposts"
   weight = 1
 
 [[main]]
-  name = "Physics literature reccomendations"
+  name = "The Physics Bibliosphere (Literature)"
   url = "physics_literature"
   parent = "blogposts"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "Contact"
