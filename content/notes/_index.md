@@ -17,7 +17,7 @@ toc: true
 - :memo: [Vector current of Anti-Fermions](/files/notes/sm/sm_vector_current_antifermions.pdf) :white_check_mark:
 - :memo: [Mandelstam variables in center-of-mass (CM) frame](/files/notes/sm/5_6_schwartz_madelstam.pdf) (Schwartz 5.6) :white_check_mark:
 
-##  Quantum field theory (MSc course Heidelberg) 
+##  Quantum field theory
 
 - :computer: [Noether's theorem, Symmeteries, Conserved charges](/files/notes/heidelberg_qft/6_2.pdf) :white_check_mark:
 - :computer: [Yukawa Potential](/files/notes/heidelberg_qft/10_1.pdf)
