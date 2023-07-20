@@ -6,9 +6,9 @@ share : true
 layout : docs
 toc : true
 ---
-## Helpful hints and tips 
+## GradSchool application corner
 
-- [Physics PhD applications 101 - Application procedure for PhD programs to Germany and Canada]({{<ref"phd">}}) :white_check_mark: :construction:
+- [Physics PhD applications 101 - Application procedure for PhD programs to Germany and Canada]({{<ref"phd">}}) :white_check_mark:
 
 
 - [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}}) :white_check_mark:
@@ -21,14 +21,30 @@ toc : true
 3. [IPSP - During the degree]() :round_pushpin:
 4. [IPSP - General life in Leipzig and Germany]() :soon:
 
-- Exam preparation for IPSP B.Sc. at Leipzig University
-  - [_Theoretical Physics II_ : Classical Electrodynamics I]({{<ref"tp2_exam_prep">}})  :heavy_check_mark:
+- Exam preparation for B.Sc. Physics IPSP course for the course [Theoretical Physics II : _Classical Electrodynamics I_]({{<ref"tp2_exam_prep">}})  at Leipzig University :heavy_check_mark:
 
 
-##  Miscellaneous 
-- [Handy Youtube Channels]({{<ref"youtube_channels">}}) :white_check_mark: :recycle:
+##  Misc
+- [Handy Youtube Channels]({{<ref"youtube_channels">}}) :recycle:
 
 <!--
-2. _Theoretical Physics III_ :  Classical Mechanics II, Classical Electrodynamics II (With Special relativity and Relativistic electrodynamics)
-3. Theoretical Physics IV : Quantum Mechanics
+1. _Theoretical Physics III_ :  Classical Mechanics II, Classical Electrodynamics II (With Special relativity and Relativistic electrodynamics)
+2. Theoretical Physics IV : Quantum Mechanics
 -->
+<!--
+<hr>
+:white_check_mark: : Completed (will be updated as necessary),:heavy_check_mark: : Completed (won't be updating)
+,:round_pushpin: : Currently working on it,:white_check_mark:, will never be :heavy_check_mark:
+-->
+
+<hr>
+
+<div style="text-align: right;">
+    <div style="display: inline-block; text-align: right;">
+        Completed (will be updated as necessary) : :white_check_mark: <br />
+        Completed (won't be updating) : :heavy_check_mark: <br />
+        Always :white_check_mark:, will never be :heavy_check_mark: : :recycle: <br/>
+        Currently working on it : :round_pushpin: <br /> 
+    </div>
+</div>
+<hr>

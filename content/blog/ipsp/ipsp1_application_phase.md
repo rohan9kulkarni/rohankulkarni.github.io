@@ -13,7 +13,7 @@ toc : true
 
 Warning: I graduated from IPSP in 2019 and was a TA until March 2020. Afaik, nothing has changed "drastically" yet since I left Leipzig. If I get any updates, I will try to point them out every time I update this page.  
 
-### <span style = "color:orange"> Q1) I come from "xyz" country, What are my chances of getting in IPSP? </span>
+## Q1) I come from "xyz" country, What are my chances of getting in IPSP? 
 
 The admission process has not changed a lot afaik. The official webpage is [here](https://www.physgeo.uni-leipzig.de/en/studying/courses-of-study/bachelor-international-physics-studies-program-ipsp/course-of-study-bachelor-international-physics-studies-program-ipsp/).
 
@@ -28,7 +28,7 @@ Note: Sometimes, your high-school certificate is not enough. In this case, you n
 - Successfully fulfilling the criteria required by Uni-assist in some particular examination. (Indian students
 - Et cetera
 
-### <span style = "color:orange"> Q2) What is this Studienkolleg? </span>
+## Q2) What is this Studienkolleg? 
 
 As mentioned above, sometimes your High school certificate is not enough to meet HEQ. Depending on your country of high school, you could do a few extra qualifications to meet the requirements of HEQ. The main thing about Studienkolleg is that, by successfully completing Studienkolleg, you will obtain this HEQ regardless of the country of your high-school qualification (As long as your grade and your school leaving certificate qualify you for studies in Germany). You can think of this as an "academic bridge" from your country to Germany.  You can read more about Studienkolleg and their application process at this website and webpage, respectively, [Studienkollegs in Deutschland](https://www.studienkollegs.de/The%20application%20process.html).
 
@@ -36,7 +36,7 @@ In this scenario, you come from your high-school country to Germany. Finish Stud
 
 *Note*: The one benefit of Studienkolleg is that, because you finish your Studienkolleg in German, you can apply to any BSc Physics programs in Germany as long as you develop your German language skills at a particular standard in that year. Also, knowing fluent German will make your life much easier overall.
 
-### <span style = "color:orange"> Q3) What about for Indian students applying to IPSP? You should know it as you went through the same procedure. </span>
+###  Q3) What about for Indian students applying to IPSP? You should know it as you went through the same procedure.
 
  Being Indian, I get this question quite often from my fellow citizens. I can answer them specifically here.  
 

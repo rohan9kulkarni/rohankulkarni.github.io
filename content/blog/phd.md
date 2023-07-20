@@ -55,7 +55,7 @@ In Germany, too, you need an M.Sc. Physics before you can apply for a Ph.D. prog
 ##  Contacting prospective supervisors 
 - Contact your prospective professors at least a year in advance. Make a list of professors you would want to contact even before that. I use Notion to organize a significant portion of my life; here is an example, 
 
-![Table screenshot](img/notion_template.png)
+![Table screenshot](/img/notion_template.png)
 	- I would highly recommend making a similar table for the shortlist of programs that you plan to apply to.
 
 - When you contact your prospective professors, make sure you do use your _institutional email address_. Here is a template of how you would want to contact them. 
