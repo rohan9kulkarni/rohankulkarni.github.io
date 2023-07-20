@@ -29,14 +29,14 @@ interests:
 education:
   courses:
   - course : Ph.D. Physics
-    institution : Queen's University
+    institution : Queen's University, Canada
     year : Jan 2023 - Ongoing
-  - course: Graduate Research Trainee
-    institution: McGill University, Canada
-    year: Sept 2021 - Sept 2022
   - course: M.Sc. Physics
     institution: Heidelberg University, Germany
-    year: Oct 2020 - Sept 2022 
+    year: Oct 2020 - Sept 2022
+  - course: Graduate Research Trainee
+    institution: McGill University, Canada
+    year: Sept 2021 - Sept 2022 
   - course: B.Sc. Physics IPSP (International Physics Studies Program - IPSP)
     institution: Leipzig University, Germany
     year: Oct 2015 - July 2019

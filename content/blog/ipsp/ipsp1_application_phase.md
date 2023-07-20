@@ -36,7 +36,7 @@ In this scenario, you come from your high-school country to Germany. Finish Stud
 
 *Note*: The one benefit of Studienkolleg is that, because you finish your Studienkolleg in German, you can apply to any BSc Physics programs in Germany as long as you develop your German language skills at a particular standard in that year. Also, knowing fluent German will make your life much easier overall.
 
-###  Q3) What about for Indian students applying to IPSP? You should know it as you went through the same procedure.
+##  Q3) What about for Indian students applying to IPSP? You should know it as you went through the same procedure.
 
  Being Indian, I get this question quite often from my fellow citizens. I can answer them specifically here.  
 
