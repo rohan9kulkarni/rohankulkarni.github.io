@@ -21,21 +21,26 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[content.filter_button]]
-     name = "All"
-     tag = "*"
+   [[content.filter_button]]
+      name = "All"
+      tag = "*"
 
-  [[content.filter_button]]
-     name = "Particle Dark Matter"
-     tag = "dm"
+   [[content.filter_button]]
+      name = "Astroparticle"
+      tag = "astroparticle"
 
-  [[content.filter_button]]
-     name = "General Relativity"
-     tag = "gr"
+   [[content.filter_button]]
+      name = "General Relativity"
+      tag = "gr"
 
-  [[content.filter_button]]
-     name = "Quantum Mechanics"
-     tag = "qm"
+   [[content.filter_button]]
+      name = "Quantum Mechanics"
+      tag = "qm"
+
+   [[content.filter_button]]
+      name = "Thesis"
+      tag = "thesis"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
