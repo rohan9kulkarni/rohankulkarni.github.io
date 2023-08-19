@@ -1,12 +1,16 @@
 ---
-title: Causal structure of spacetime (Slides)
+title: Causal structure of spacetime 
 summary: Talk for a M.Sc. Physics seminar in Leipzig
 tags:
 - gr
-date: "2016-04-27T00:00:00Z"
+date: "2018-04-30"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://1drv.ms/b/s!AszTT3d0fg0ghqYB1XX1FL4AqRQJFQ?e=wctRcK"
-external_link : "https://rohankulkarni.me/project/causal_structure/causal_structure.pdf"
+
 ---
 
+[Causal Structure (Report) - Link to PDF](/files/projects/causal_structure_report.pdf) <br>
+[Causal Structure (Report) - Link to PDF](/files/projects/causal_structure.pdf)
+
+
+The report is the transcript of the talk that was given at ITP, Leipzig for the Hauptseminar on quantum ﬁeld theory and gravity in Summer Semester 2018 (SoSe 2018). The main goal of the talk was to introduce the notions of causal structure needed to build up singularity theorems and many more modern general relativity topics.

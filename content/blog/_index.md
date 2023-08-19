@@ -9,8 +9,6 @@ toc : true
 ## GradSchool application corner
 
 - [Physics PhD applications 101 - Application procedure for PhD programs to Germany and Canada]({{<ref"phd">}}) :white_check_mark:
-
-
 - [Interview for M.Sc. Physics at Heidelberg University]({{<ref"heidelberg/interview">}}) :white_check_mark:
 
 

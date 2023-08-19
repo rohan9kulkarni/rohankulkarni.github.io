@@ -3,7 +3,7 @@ title : 'Ph.D. Physics Applications 101 (Canada and Germany)'
 subtitle : ''
 share : false
 layout : docs
-date : 2022-08-10
+date : 2023-07-21
 toc : true
 ---
 
@@ -13,9 +13,8 @@ Here is a brainstormed document of some main things to remember when applying fo
 I applied mainly to Canadian and German institutions (with a few exceptions). I was looking for more HEP-th positions, particularly in Astroparticle Theory or somewhere on the overlap of formal theory and particle physics. I was also open-minded to adjacent fields. Most of the information I am putting here is from my personal experience during the application period. 
 
 ###  Things to keep in mind before you start the search 
-- The market seems heavily saturated since COVID hit. Many people have delayed graduation for various reasons - to attend conferences, to finish another experiment, to finish some collaboration, etc. The market seems to be slowly opening up now, and I think for 2023 applications, it should be much better than it was for this round.
-	- Why is this relevant? For many places, especially in theory, Professors generally tend to have a finite number of graduate students. 
-
+- The market seems heavily saturated since COVID hit. Many people have delayed graduation for various reasons - to attend conferences, to finish another experiment, to finish some collaboration, etc. The market seems to be slowly opening up now, and I think for 2023 applications, it should be much better than it was for this round. 
+  - Why is this relevant? For many places, especially in theory, Professors generally tend to have a finite number of graduate students. 
 - A straight-up fact: Some fields have more positions available than others. Experimental positions in any field tend to have more openings than their counterpart (It does make sense, to be honest, you need more people in a lab to do multiple tasks). Mainly, condensed matter seems to be doing very well and has many positions available. Astrophysics seems to have reasonably open positions from what I saw (I was surprised to see quite a few openings during my search). 
 	- The point is, if you are looking for something particular position or a position in a field where openings are rare, your search will be much more exhausting than colleagues. As an example of my search, I had approximately a dozen professors I was very excited to apply to in Canada (I feel I was very, very lucky that I got one of my top 3 choices - I mean it, luck does play a very significant role)
 
@@ -36,7 +35,7 @@ Most well-known Canadian Universities have a Ph.D. program that requires a Maste
 2. **Students who have not secured a Ph.D. advisor**: There are other places where I am almost sure that there exists a possibility that you could get in without having secured a supervisor. I repeat, **there exists a possibility** does not mean you should apply without securing a supervisor. It just means that a possibility exists. Your best bet is to contact professors in advance and try to secure an advisor.
 	- UofT, Waterloo, Alberta  (I am pretty sure about the possibility of one getting accepted without having secured a Ph.D. advisor, still double check, please)
 
-- "What about the scenario that the Ph.D. advisor is interested in me but has not promised me a Ph.D. position? He has told me to apply." In this scenario, use your judgment. I would apply in most of these scenarios as I am sure my application would receive their attention. I also know that applying to Ph.D. programs in Canada costs a good amount of money and can be financially straining. In case of no financial strain, I highly encourage you to apply. 
+Note : "What about the scenario that the Ph.D. advisor is interested in me but has not promised me a Ph.D. position? He has told me to apply." In this scenario, use your judgment. I would apply in most of these scenarios as I am sure my application would receive their attention. I also know that applying to Ph.D. programs in Canada costs a good amount of money and can be financially straining. In case of no financial strain, I highly encourage you to apply. 
 
 ###  Ph.D. programs in Germany 
 	
@@ -56,9 +55,11 @@ In Germany, too, you need an M.Sc. Physics before you can apply for a Ph.D. prog
 - Contact your prospective professors at least a year in advance. Make a list of professors you would want to contact even before that. I use Notion to organize a significant portion of my life; here is an example, 
 
 ![Table screenshot](/img/notion_template.png)
-	- I would highly recommend making a similar table for the shortlist of programs that you plan to apply to.
+I would highly recommend making a similar table for the shortlist of programs that you plan to apply to.
 
-- When you contact your prospective professors, make sure you do use your _institutional email address_. Here is a template of how you would want to contact them. 
+<hr>
+
+When you contact your prospective professors, make sure you do use your _institutional email address_. Here is a template of how you would want to contact them. 
 
 
 	
@@ -72,7 +73,7 @@ In Germany, too, you need an M.Sc. Physics before you can apply for a Ph.D. prog
 Keep in mind that this is just a template. Please alter it according to your needs. Remove points from the first paragraph that you don't feel are relevant at this point. Remember, this is the first contact with your prospective supervisor. Keep it as brief and up-to-the-point as possible. 
 
 ## Preparing documents for the application 
-This step should be started approximately a month **before** you start contacting your prospective supervisors. Here are the documents you will need for most of your applications. I am listing them in descending order of **importance**. The starred documents are the ones you also need when contacting prospective advisors.
+This step should be started approximately a month **before** you start contacting your prospective supervisors. Here are the documents you will need for most of your applications. I am listing them in descending order of **importance**.
 
 ### LOR 
 Your letters of recommendation hold much more value than ever imagined. Make sure you have at least two professors who are familiar with your work and one with whom you took a class and were noticed by the professor. By noticing, I do not mean that you necessarily aced their class. You were attentive in their lectures by answering questions, asking good questions, attending office hours, etc. The professor should remember you as a student who was at least diligent and hard working.
