@@ -16,8 +16,9 @@ toc : true
 
 1. [IPSP application phase]({{<ref"ipsp/ipsp1_application_phase">}}) :white_check_mark: 
 2. [IPSP preparation phase]({{<ref"ipsp/ipsp2_preparation_phase">}}) :white_check_mark:
-3. [IPSP - During the degree]() :round_pushpin:
+3. :new: [IPSP - During the degree]({{<ref"ipsp/ipsp3_ipsp_phase">}}) :white_check_mark: 
 4. [IPSP - General life in Leipzig and Germany]() :soon:
+5. [IPSP - What after IPSP?]() :soon:
 
 - Exam preparation for B.Sc. Physics IPSP course for the course [Theoretical Physics II : _Classical Electrodynamics I_]({{<ref"tp2_exam_prep">}})  at Leipzig University :heavy_check_mark:
 
