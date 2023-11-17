@@ -60,7 +60,7 @@ My most important advice is that **keywords** are much more potent than an elabo
 1. ***<span style = "color:#158FBF">How would you solve quantum mechanical Hydrogen atom?</span>***
    - Take the *3D Schrodinger equation*, use *separation of variables* and then you will get a *radial* and an *angular* equation.
 2. ***<span style = "color:#158FBF">What would be the next step?</span>***
-   - For the radial equation, we make a typical *ansatz*; for the *radial* equation, we have the spherical harmonics as the solution.
+   - For the radial equation, we make a typical *ansatz*; for the *angular* equation, we have the spherical harmonics as the solution.
      (Yeah, I just said that we make a typical ansatz. If they had asked me what it exactly is, I would have said it. Answering quickly and pointing them in the right direction is better than taking time for a perfect answer. As I said, keywords can do magic).
 3. ***<span style = "color:#158FBF">What are the boundary conditions?</span>***
    - For the radial equation, the *wavefunction should go to zero* at the center. This ensures it doesn't *blow up* for $r\to 0$. Also, it *should go to zero* at $r\to \infty $ because, for anything else, it physically doesn't make sense. (Just like a finite charge, it makes sense for the electric field to be $\vec{E}=0$ for $r\to\infty$. If this is not the case, a finite charge will affect particles on the other end of the universe).
@@ -69,13 +69,16 @@ My most important advice is that **keywords** are much more potent than an elabo
 5. ***<span style = "color:#158FBF">How are the $l$ discretized?</span>***
    - <u>*Me*</u> : Umm, $l(l\pm1)$ <br>
      <u>*Interviewer*</u> : Seems like you don't care about $\hbar$? (The question was asked with a cheerful tone) <br>
-     <u>*Me*</u>: Eh, it 1. (Cheeky smile audible in my voice) <br>
+     <u>*Me*</u>: Eh, it's 1. (Cheeky smile audible in my voice) <br>
      *<u>Interviewer</u>* : Haha, I guessed so. Good, let's move on to a different topic.
 6. ***<span style = "color:#158FBF">How would you define temperature for any system?</span>***
    - <u>*Me*</u> : Uh, any system?   <br>
      <u>*Interviewer*</u>: Yeah, that is one of the physical quantities that can always be defined for any system. <br>
      <u>*Me*</u> : (Sudden response while being worried) "*Maxwell Boltzmann distribution*" ?! (At the same time, the interviewer was hinting by saying think "mean energy") <br>
      *<u>Interviewer</u>* : Super.
+     
+      > Coming back to this answer, this is not really complete. But I should have asked do they mean a classical or a quantum system. Maxwell Boltzmann is one of the more classic solutions but definitely it is not a complete one. Maxwell Boltzmann distribution is the correct answer if the question was "How would you define the temperature for any system similar to a classical gas in equilibrium (A lot of physics scenarios are idealized by this indeed and probably they just wanted to see if I know distrubtions and atleast the basic keywords in statmech - Hence the super.) 
+   
 7. ***<span style = "color:#158FBF">How would you define temperature in general?</span>***
    - It's the *vibrational energy* of the molecules or the particles.
 
