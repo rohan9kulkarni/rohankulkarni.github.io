@@ -10,7 +10,7 @@ date : 2021-02-12
 
 ### Introduction to Cosmology - Barbera Ryden 
 
-![Alt text](image.png)
+![](../../../static/files/book_covers/cosmo_ryden.jpg)
 
 I came across this book after I was done with my Cosmology coursework. I had seen the book mentioned a few times, but I stuck with Dodelson. This is a better first read if you are new to the subject. All important topics are covered extensively. An excellent linear read! Complements Baumann's lecture notes well.
 
