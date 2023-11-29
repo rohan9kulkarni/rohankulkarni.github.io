@@ -9,6 +9,9 @@ date : 2021-02-12
 ##  Books 
 
 ### Introduction to Cosmology - Barbera Ryden 
+
+![Alt text](image.png)
+
 I came across this book after I was done with my Cosmology coursework. I had seen the book mentioned a few times, but I stuck with Dodelson. This is a better first read if you are new to the subject. All important topics are covered extensively. An excellent linear read! Complements Baumann's lecture notes well.
 
 ### Modern Cosmology - S. Dodelson
