@@ -10,11 +10,14 @@ date : 2021-02-12
 
 ### Introduction to Cosmology - Barbera Ryden 
 
-![](../../../static/files/book_covers/cosmo_ryden.jpg)
+![cosmo_ryden](https://s2.loli.net/2023/11/29/Han86ybgoiDJE4x.png)  
 
 I came across this book after I was done with my Cosmology coursework. I had seen the book mentioned a few times, but I stuck with Dodelson. This is a better first read if you are new to the subject. All important topics are covered extensively. An excellent linear read! Complements Baumann's lecture notes well.
 
 ### Modern Cosmology - S. Dodelson
+
+
+
 Expert in the field. His comments, even the smallest ones, are precious. Any topic you don't understand, you can come to this book. The Boltzmann equations (3 and 4) and Inflation (chapter 6) sections are worth a read.
 
 <hr>
