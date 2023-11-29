@@ -16,7 +16,7 @@ I came across this book after I was done with my Cosmology coursework. I had see
 
 ### Modern Cosmology - S. Dodelson
 
-<img alt="cosmo_dodelson" src="https://s2.loli.net/2023/11/29/D32oWIsrgzyfaEm.png" witdh="250"/>  
+<img alt="cosmo_dodelson" src="https://s2.loli.net/2023/11/29/D32oWIsrgzyfaEm.png" width="250"/>  
 
 Expert in the field. His comments, even the smallest ones, are precious. Any topic you don't understand, you can come to this book. The Boltzmann equations (3 and 4) and Inflation (chapter 6) sections are worth a read.
 
