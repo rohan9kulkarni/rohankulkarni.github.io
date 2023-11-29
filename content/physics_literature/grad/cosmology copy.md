@@ -1,18 +1,19 @@
 ---
-title : Cosmology literature
+title : Dark Matter
 subtitle :  _Most of time, everything is homogeneous and isotropic, until it's not..._
 share : true
 layout : docs
 date : 2021-02-12
 ---
 
-##  Books 
+> What is Dark matter? 
 
-### Introduction to Cosmology - Barbera Ryden 
+## <span style="color:orange"> Books </span>
+
+- <span style = "color:#3db18b"> Introduction to Cosmology - Barbera Ryden </span><br>
 I came across this book after I was done with my Cosmology coursework. I had seen the book mentioned a few times, but I stuck with Dodelson. This is a better first read if you are new to the subject. All important topics are covered extensively. An excellent linear read! Complements Baumann's lecture notes well.
 
-### Modern Cosmology - S. Dodelson
-Expert in the field. His comments, even the smallest ones, are precious. Any topic you don't understand, you can come to this book. The Boltzmann equations (3 and 4) and Inflation (chapter 6) sections are worth a read.
+- <span style = "color:#3db18b"> Modern Cosmology - S. Dodelson</span> <br>Expert in the field. His comments, even the smallest ones, are precious. Any topic you don't understand, you can come to this book. The Boltzmann equations (3 and 4) and Inflation (chapter 6) sections are worth a read.
 
 <hr>
 
