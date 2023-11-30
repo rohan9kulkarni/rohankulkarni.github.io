@@ -18,8 +18,7 @@ layout : docs
 - :loop: [Quantum Field Theory]({{<ref"grad/qft">}})
 - :milky_way: [Cosmology]({{<ref"grad/cosmology">}})  
 - :hole: [Black holes]({{<ref"grad/bh">}})
-- :flashlight:[Dark Matter]({{<ref"grad/dm">}})
-
+- :flashlight: [Dark Matter]({{<ref"grad/dm">}})
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
 - [Calculus - Single, Multi-Variate and Vector]({{<ref"math/calculus">}})
