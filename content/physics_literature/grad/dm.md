@@ -25,6 +25,7 @@ The prereqisites in order to understand every single thing that is happening in 
 
 
 
+<hr>
 
 ## REFERENCES 
 
@@ -45,16 +46,18 @@ These fourty page lecture notes might be the exact gataway you need to enter the
 
 [Lecture notes](https://arxiv.org/abs/1603.03797)
 
-## :star: Yet another introduction to Dark Matter Physics by Martin Bauer and Tilman Plehn
+### :star: Yet another introduction to Dark Matter Physics by Martin Bauer and Tilman Plehn
+Prerequisites : Moderate/ Maximal
+
 
 
 
 <hr>
 
-
 ## MISC
 
 ### Dark Matter course webpage at Aachen by Felix Karlhoefer 
+Prerequisites : Minimal
 Really nice problem sets. (Notes seem really nice too, handwritten though, mostly outline/summary of what was taught in class) [Link to course webpage](https://web.physik.rwth-aachen.de/user/kahlhoefer/teaching.html)
 
 ### 
