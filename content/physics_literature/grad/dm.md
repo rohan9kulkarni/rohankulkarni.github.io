@@ -5,7 +5,7 @@ share : true
 layout : docs
 date : 2023-11-29
 ---
-<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<div class="warning" style='padding:2em; background-color:#E9D8FD; color:#69337A'>
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>General Advice</b></p>
@@ -27,7 +27,7 @@ The prereqisites in order to understand every single thing that is happening in 
 
 
 ## References 
-### :star2: PSI Dark Matter by David Morrissey 
+1. ### :star2: PSI Dark Matter by David Morrissey 
 
 Prerequisite : Moderate
 
@@ -37,7 +37,7 @@ These lecture notes are from 2013 which does reflect the a bit of WIMP bias at t
 
 *Comment :  Some of the videos on PIRSA are not playing due to various errors, try using some plugin that grabs the video and downloads it. The lectures are in 480p or 720p at max, so the quality isn't the best but definitely watchable.*
 
-## :star: Lecture notes on DM physics by Mariangela Lisanti
+2. ### :star: Lecture notes on DM physics by Mariangela Lisanti
 Prerequisites : Minimal
 
 These fourty page lecture notes might be the exact gataway you need to enter the chaotic yet breathtaking world of DM. All the main topics covered in Morrissey's notes are covered here too. The topics are introduced and explained in an extremely lucid way. The small in-text exercises are rewarding. These fourty pages are pretty much lay the foundationas of DM physics today. 
