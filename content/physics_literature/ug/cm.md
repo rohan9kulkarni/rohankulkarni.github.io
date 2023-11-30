@@ -21,17 +21,18 @@ Any course you will ever take as a physicist will assume this to be a prerequisi
 
 ## Reference Books
 
-**Introduction to Classical Mechanics: With Problems and Solutions - David Morin** </span> <br> As the title suggests, It's an introductory book with problems and *solutions*.  As a first course and introductory read, I would recommend the following Chapters: 1 to 5 and 7 to 9. This book has TONS and TONS of good problems, along with solutions. My strategy to attack such a book is, 
-  
+### Introduction to Classical Mechanics: With Problems and Solutions - David Morin
+
+As the title suggests, It's an introductory book with problems and *solutions*.  As a first course and introductory read, I would recommend the following Chapters: 1 to 5 and 7 to 9. This book has TONS and TONS of good problems, along with solutions. My strategy to attack such a book is,   
   - Read a section/chapter (Depending on how big it is, respectively)
   - Reread the examples till the point you are sure that you can solve them yourself
     - If you cannot understand some steps, *most likely* you didn't understand a particular concept enough. Reread the respective paragraphs or sections corresponding to that issue
   - Solve 3-5 problems of various difficulties without looking even a single step from the solutions
   - Look at another 2-3 problems of medium-high difficulty, create a solution plan in your head and check if it matches the steps of the solution
   
-  In my eyes, Morin's book is **complete** regarding an introductory course in CM. It covers everything from the *basics of free-body diagrams & circular motion*, *solutions of damped and driven oscillations*, *tons of problems based on conservation laws* to *everything about angular momentum*. It is a self-sufficient book. The only other lecture notes I would recommend one to follow in parallel would be David Tong's notes (like always), which I have linked below.
+  In my eyes, Morin's book is **complete** for an introductory course in CM. It covers everything from the *basics of free-body diagrams & circular motion*, *solutions of damped and driven oscillations*, *tons of problems based on conservation laws* to *everything about angular momentum*. It is a self-sufficient book. The only other lecture notes I would recommend one to follow in parallel would be David Tong's notes (like always), which I have linked below.
   
-- <span style = "color:#3db18b"> **Classical Dynamics of Particles and Systems - Marion, Thornton** </span> <br>
+### Classical Dynamics of Particles and Systems - Marion, Thornton
 This book is an absolute gem. Unfortunately, I didn't hear about it till a year or two into my bachelor'. Eventually, I occasionally used it to reference when I had to brush up on some of my topics. It's, to date, my "go-to" book whenever I need a recall some concepts. I find the mathematical rigor more sophisticated than in Morin's book. This can be highly beneficial if you need to skim over some topics that you already know about but might have forgotten minute details, as a quick look into a mathematically precise form of an equation/law can be more powerful than a complete paragraph explaining it (This is if and only if you have studied the topic in detail before).
   
   Suppose you are doing your "Theoretical Physics I" (TPI) course in Germany. Which is *Classical mechanics*; I would highly recommend this book to be simultaneously used with Morin, as the mathematical rigor will outshine Morin at places (The purpose of TPI is to be mathematically rigorous and give a good understanding of CM).
@@ -41,28 +42,20 @@ This book is an absolute gem. Unfortunately, I didn't hear about it till a year 
   The chapter on Special relativity is also very concise and offers a ton of intuition.
 
 
-### <span style="color:orange"> Advanced reference books </span>
+##  Advanced reference books 
 
-- <span style = "color:#3db18b"> **Classical Mechanics - Goldstein** </span><br>
-- <span  style = "color:#3db18b"> **Mechanics - Landau & Lifshitz** </span>
+### Classical Mechanics - Goldstein
+### Mechanics - Landau & Lifshitz 
 
 
-### <span style="color:orange">Freely available online sources </span>
+## Lecture notes
+- [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) 
+- [Feynman's lectures](https://www.feynmanlectures.caltech.edu/I_toc.html) 
+- [Other Cambridge lectures](http://www.damtp.cam.ac.uk/user/tong/relativity/stephen.pdf)
+- [USCD 110b](https://courses.physics.ucsd.edu/2019/Winter/physics110b/lectures.html)
 
-#### <span style="color:orange">Video lectures / MOOCs</span> 
 
+## Video lectures / MOOCs 
 - [MIT : 8.01 X-series on edX ](https://www.edx.org/xseries/mitx-introductory-mechanics), [MIT : 8.01 on OCW](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/) 
   - [Notes for MIT's 8.01](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/readings/)
 
-
-#### <span style="color:orange">Lecture notes - Generally complement well in parallel to a formal course</span>
-
-- [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) 
-
-- [Feynman's lectures](https://www.feynmanlectures.caltech.edu/I_toc.html) 
-
-- [Other Cambridge lectures](http://www.damtp.cam.ac.uk/user/tong/relativity/stephen.pdf)
-
-- [USCD 110b](https://courses.physics.ucsd.edu/2019/Winter/physics110b/lectures.html)
-
-  
