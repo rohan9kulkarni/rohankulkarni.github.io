@@ -50,9 +50,14 @@ These fourty page lecture notes might be the exact gataway you need to enter the
 
 <hr>
 
-## <span style="color:orange">Freely available online sources</span>
 
-### <span style="color:orange"> Lecture notes - Generally complement well in parallel to a formal course </span>
+## Misc
+
+### Dark Matter course webpage at Aachen by Felix Karlhoefer 
+Really nice problem sets. (Notes seem really nice too, handwritten though, mostly outline/summary of what was taught in class) [Link to course webpage](https://web.physik.rwth-aachen.de/user/kahlhoefer/teaching.html)
+
+### 
+
 
 
 
