@@ -6,7 +6,7 @@ layout : docs
 date : 2021-08-24
 ---
 
-<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<div class="warning" style='padding:2em; background-color:#E9D8FD; color:#69337A'>
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>General advice</b></p>
@@ -19,7 +19,7 @@ Any course you will ever take as a physicist will assume this to be a prerequisi
 </p></span>-->
 </div> 
 
-## Reference Books
+## REFERENCE BOOKS
 
 ### Introduction to Classical Mechanics: With Problems and Solutions - David Morin
 
@@ -42,14 +42,14 @@ This book is an absolute gem. Unfortunately, I didn't hear about it till a year 
   The chapter on Special relativity is also very concise and offers a ton of intuition.
 
 
-##  Advanced reference books 
+##  ADVANCED REFERENCE BOOKS
 
 ### Classical Mechanics - Goldstein
 ### Mechanics - Landau & Lifshitz 
 
 
-## Lecture notes
-- [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) 
+## LECTURE NOTES
+- :star2: [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) - Definitely attempt the problems. You will be really surpirsed how tricky some of the problems are.
 - [Feynman's lectures](https://www.feynmanlectures.caltech.edu/I_toc.html) 
 - [Other Cambridge lectures](http://www.damtp.cam.ac.uk/user/tong/relativity/stephen.pdf)
 - [USCD 110b](https://courses.physics.ucsd.edu/2019/Winter/physics110b/lectures.html)

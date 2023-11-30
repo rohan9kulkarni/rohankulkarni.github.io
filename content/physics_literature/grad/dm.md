@@ -26,8 +26,9 @@ The prereqisites in order to understand every single thing that is happening in 
 
 
 
-## References 
-1. ### :star2: PSI Dark Matter by David Morrissey 
+## REFERENCES 
+
+### :star2: PSI Dark Matter by David Morrissey 
 
 Prerequisite : Moderate
 
@@ -37,7 +38,7 @@ These lecture notes are from 2013 which does reflect the a bit of WIMP bias at t
 
 *Comment :  Some of the videos on PIRSA are not playing due to various errors, try using some plugin that grabs the video and downloads it. The lectures are in 480p or 720p at max, so the quality isn't the best but definitely watchable.*
 
-2. ### :star: Lecture notes on DM physics by Mariangela Lisanti
+### :star: Lecture notes on DM physics by Mariangela Lisanti
 Prerequisites : Minimal
 
 These fourty page lecture notes might be the exact gataway you need to enter the chaotic yet breathtaking world of DM. All the main topics covered in Morrissey's notes are covered here too. The topics are introduced and explained in an extremely lucid way. The small in-text exercises are rewarding. These fourty pages are pretty much lay the foundationas of DM physics today. 
@@ -51,7 +52,7 @@ These fourty page lecture notes might be the exact gataway you need to enter the
 <hr>
 
 
-## Misc
+## MISC
 
 ### Dark Matter course webpage at Aachen by Felix Karlhoefer 
 Really nice problem sets. (Notes seem really nice too, handwritten though, mostly outline/summary of what was taught in class) [Link to course webpage](https://web.physik.rwth-aachen.de/user/kahlhoefer/teaching.html)
