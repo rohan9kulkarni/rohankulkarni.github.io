@@ -19,9 +19,9 @@ Any course you will ever take as a physicist will assume this to be a prerequisi
 </p></span>-->
 </div> 
 
-### <span style="color:orange">Reference Books </span>
+## Reference Books
 
-- <span style = "color:#3db18b"> **Introduction to Classical Mechanics: With Problems and Solutions - David Morin** </span> <br> As the title suggests, It's an introductory book with problems and *solutions*.  As a first course and introductory read, I would recommend the following Chapters: 1 to 5 and 7 to 9. This book has TONS and TONS of good problems, along with solutions. My strategy to attack such a book is, 
+**Introduction to Classical Mechanics: With Problems and Solutions - David Morin** </span> <br> As the title suggests, It's an introductory book with problems and *solutions*.  As a first course and introductory read, I would recommend the following Chapters: 1 to 5 and 7 to 9. This book has TONS and TONS of good problems, along with solutions. My strategy to attack such a book is, 
   
   - Read a section/chapter (Depending on how big it is, respectively)
   - Reread the examples till the point you are sure that you can solve them yourself

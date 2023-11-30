@@ -34,7 +34,7 @@ Expert in the field. His comments, even the smallest ones, are precious. Any top
 
 - [Piatella's lecture notes](https://arxiv.org/pdf/1803.00070.pdf)
 - <span style = "color:#3db18b"> University of Helsinki : </span>
-    - [Cosmology I](https://www.mv.helsinki.fi/home/hkurkisu/Cosm_I.pdf)
+  - [Cosmology I](https://www.mv.helsinki.fi/home/hkurkisu/Cosm_I.pdf)
     - [Cosmology II](https://www.mv.helsinki.fi/home/hkurkisu/Cosm_II.pdf)
     - [Cosmological Perturbation theory I](https://www.mv.helsinki.fi/home/hkurkisu/CosPer.pdf)
     - [Cosmological Perturbation theory II](https://www.mv.helsinki.fi/home/hkurkisu/CosPer2.pdf)

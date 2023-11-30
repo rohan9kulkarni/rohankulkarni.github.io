@@ -8,7 +8,7 @@ layout : docs
 
 ## <span style="color:orange">  Undergraduate Physics Courses </span>
 
-- :apple: [Classical Mechanics]({{<ref"ug/cm">}}) $~~~$ *<u>#draft</u>*
+- :apple: [Classical Mechanics]({{<ref"ug/cm">}}) 
 - :magnet: [Electrodynamics]({{<ref"ug/ed">}})
 - :rocket: [Special Relativity]({{<ref"ug/sr">}})
 - :atom: [Quantum Mechanics]({{<ref"ug/qm">}})
@@ -18,6 +18,8 @@ layout : docs
 - :loop: [Quantum Field Theory]({{<ref"grad/qft">}})
 - :milky_way: [Cosmology]({{<ref"grad/cosmology">}})  
 - :hole: [Black holes]({{<ref"grad/bh">}})
+- :flashlight: [Dark Matter]({{ref"grad/dm"}})
+
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
 - [Calculus - Single, Multi-Variate and Vector]({{<ref"math/calculus">}})
