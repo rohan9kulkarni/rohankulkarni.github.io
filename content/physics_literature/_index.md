@@ -5,20 +5,20 @@ summary :
 share : false
 layout : docs
 ---
-
-## <span style="color:orange">  Undergraduate Physics Courses </span>
+<!-- $~~~$ *<u>#draft</u>* -->
+##   Undergraduate Physics Courses 
 
 - :apple: [Classical Mechanics]({{<ref"ug/cm">}}) 
 - :magnet: [Electrodynamics]({{<ref"ug/ed">}})
 - :rocket: [Special Relativity]({{<ref"ug/sr">}})
 - :atom: [Quantum Mechanics]({{<ref"ug/qm">}})
 
-## <span style="color:orange">  Graduate physics courses </span>
+##   Graduate physics courses 
 
 - :loop: [Quantum Field Theory]({{<ref"grad/qft">}})
 - :milky_way: [Cosmology]({{<ref"grad/cosmology">}})  
 - :hole: [Black holes]({{<ref"grad/bh">}})
-- :flashlight: [Dark Matter]({{<ref"grad/dm">}})
+- :flashlight:[Dark Matter]({{<ref"grad/dm">}})
 
 
 ## <span style="color:orange"> Undergraduate Mathematics "for Physicists" </span>
