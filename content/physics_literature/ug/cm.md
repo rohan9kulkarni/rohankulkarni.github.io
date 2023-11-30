@@ -19,6 +19,8 @@ Any course you will ever take as a physicist will assume this to be a prerequisi
 </p></span>-->
 </div> 
 
+<hr>
+
 ## REFERENCE BOOKS
 
 ### :star2: Introduction to Classical Mechanics: With Problems and Solutions - David Morin
@@ -47,6 +49,7 @@ This book is an absolute gem. Unfortunately, I didn't hear about it till a year 
   
   The chapter on Special relativity is also very concise and offers a ton of intuition.
 
+<hr>
 
 ##  ADVANCED REFERENCE BOOKS
 
@@ -59,6 +62,7 @@ This book is an absolute gem. Unfortunately, I didn't hear about it till a year 
 <img alt="cm_landau" src="https://s2.loli.net/2023/11/30/mWYDwZPx1pf7ru4.png" width="250" />  
 
 
+<hr>
 
 ## LECTURE NOTES
 - :star: [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) - Definitely attempt the problems. You will be really surpirsed how tricky some of the problems are.
