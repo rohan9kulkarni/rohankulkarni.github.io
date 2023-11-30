@@ -21,7 +21,9 @@ Any course you will ever take as a physicist will assume this to be a prerequisi
 
 ## REFERENCE BOOKS
 
-### Introduction to Classical Mechanics: With Problems and Solutions - David Morin
+### :star2: Introduction to Classical Mechanics: With Problems and Solutions - David Morin
+
+<img alt="cm_morin" src="https://s2.loli.net/2023/11/30/v1WgJEklOZdDaMc.png" width="250" />  
 
 As the title suggests, It's an introductory book with problems and *solutions*.  As a first course and introductory read, I would recommend the following Chapters: 1 to 5 and 7 to 9. This book has TONS and TONS of good problems, along with solutions. My strategy to attack such a book is,   
   - Read a section/chapter (Depending on how big it is, respectively)
@@ -33,6 +35,10 @@ As the title suggests, It's an introductory book with problems and *solutions*. 
   In my eyes, Morin's book is **complete** for an introductory course in CM. It covers everything from the *basics of free-body diagrams & circular motion*, *solutions of damped and driven oscillations*, *tons of problems based on conservation laws* to *everything about angular momentum*. It is a self-sufficient book. The only other lecture notes I would recommend one to follow in parallel would be David Tong's notes (like always), which I have linked below.
   
 ### Classical Dynamics of Particles and Systems - Marion, Thornton
+
+<img alt="cm_thornton" src="https://s2.loli.net/2023/11/30/SU5abM8sTtexF69.png" width="250" />  
+
+
 This book is an absolute gem. Unfortunately, I didn't hear about it till a year or two into my bachelor'. Eventually, I occasionally used it to reference when I had to brush up on some of my topics. It's, to date, my "go-to" book whenever I need a recall some concepts. I find the mathematical rigor more sophisticated than in Morin's book. This can be highly beneficial if you need to skim over some topics that you already know about but might have forgotten minute details, as a quick look into a mathematically precise form of an equation/law can be more powerful than a complete paragraph explaining it (This is if and only if you have studied the topic in detail before).
   
   Suppose you are doing your "Theoretical Physics I" (TPI) course in Germany. Which is *Classical mechanics*; I would highly recommend this book to be simultaneously used with Morin, as the mathematical rigor will outshine Morin at places (The purpose of TPI is to be mathematically rigorous and give a good understanding of CM).
@@ -45,11 +51,17 @@ This book is an absolute gem. Unfortunately, I didn't hear about it till a year 
 ##  ADVANCED REFERENCE BOOKS
 
 ### Classical Mechanics - Goldstein
+
+<img alt="cm_goldstein" src="https://s2.loli.net/2023/11/30/rnKy6hmxw1O5AWC.png" width="250" />  
+
 ### Mechanics - Landau & Lifshitz 
+
+<img alt="cm_landau" src="https://s2.loli.net/2023/11/30/mWYDwZPx1pf7ru4.png" width="250" />  
+
 
 
 ## LECTURE NOTES
-- :star2: [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) - Definitely attempt the problems. You will be really surpirsed how tricky some of the problems are.
+- :star: [David tong's lecture notes ](http://www.damtp.cam.ac.uk/user/tong/relativity.html) - Definitely attempt the problems. You will be really surpirsed how tricky some of the problems are.
 - [Feynman's lectures](https://www.feynmanlectures.caltech.edu/I_toc.html) 
 - [Other Cambridge lectures](http://www.damtp.cam.ac.uk/user/tong/relativity/stephen.pdf)
 - [USCD 110b](https://courses.physics.ucsd.edu/2019/Winter/physics110b/lectures.html)
