@@ -31,33 +31,29 @@ The prereqisites in order to understand every single thing that is happening in 
 
 ### :star2: PSI Dark Matter by David Morrissey 
 
-Prerequisite : Moderate
+Prerequisite : Moderate, Links: [Course Webpage](https://particletheory.triumf.ca/dmorrissey/Teaching/PI-DM-2013/) , [Video Lectures](https://pirsa.org/C13012)
 
 These lecture notes are from 2013 which does reflect the a bit of WIMP bias at times (not necessarily due to the author, from what I hear, most of the people working in the field had it.). Anywho, don't let that comment take you away from how fantastic these lecture notes are (so are his video lectures given at the Perimeter Institute). He really takes his time to make you understand the crucial ideas behind dark matter freeze out, variety of dark matter models, non-thermal dark matter production, direct and indirect dark matter detection. These are tools that you will encounter basically any dark matter project. More interesting topics like Dark Matter capture in Stars (one of my areas of reasearch), Axions (my Master's thesis was on attempting to constrain axions further), Collider searches is also covered. He does also have some really nice set of assignments that you could attempt to concretize your understanding.  
-
-[Course Webpage](https://particletheory.triumf.ca/dmorrissey/Teaching/PI-DM-2013/) , [Video Lectures](https://pirsa.org/C13012)
 
 *Comment :  Some of the videos on PIRSA are not playing due to various errors, try using some plugin that grabs the video and downloads it. The lectures are in 480p or 720p at max, so the quality isn't the best but definitely watchable.*
 
 ### :star: Lecture notes on DM physics by Mariangela Lisanti
-Prerequisites : Minimal
+Prerequisites : Minimal, Links: [Lecture notes](https://arxiv.org/abs/1603.03797)
 
 These fourty page lecture notes might be the exact gataway you need to enter the chaotic yet breathtaking world of DM. All the main topics covered in Morrissey's notes are covered here too. The topics are introduced and explained in an extremely lucid way. The small in-text exercises are rewarding. These fourty pages are pretty much lay the foundationas of DM physics today. 
 
-[Lecture notes](https://arxiv.org/abs/1603.03797)
 
 ### :star: Yet another introduction to Dark Matter Physics by Martin Bauer and Tilman Plehn
-Prerequisites : Moderate/ Maximal
-
-
-
+Prerequisites : Moderate/ Maximal, Links : [Lecture notes](https://arxiv.org/abs/1705.01987)
 
 <hr>
 
 ## MISC
 
 ### Dark Matter course webpage at Aachen by Felix Karlhoefer 
-Prerequisites : Minimal
+
+Prerequisites : Minimal, Link: [Course webpage](https://web.physik.rwth-aachen.de/user/kahlhoefer/teaching.html)
+
 Really nice problem sets. (Notes seem really nice too, handwritten though, mostly outline/summary of what was taught in class) [Link to course webpage](https://web.physik.rwth-aachen.de/user/kahlhoefer/teaching.html)
 
 ### 
