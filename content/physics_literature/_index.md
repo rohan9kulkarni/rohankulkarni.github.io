@@ -11,7 +11,7 @@ layout : docs
 - :apple: [Classical Mechanics]({{<ref"ug/cm">}}) 
 - :magnet: [Electrodynamics]({{<ref"ug/ed">}})
 - :rocket: [Special Relativity]({{<ref"ug/sr">}})
-- :atom: [Quantum Mechanics]({{<ref"ug/qm">}})
+- :atom_symbol: [Quantum Mechanics]({{<ref"ug/qm">}})
 
 ##   Graduate physics courses 
 

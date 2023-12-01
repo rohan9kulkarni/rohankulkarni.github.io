@@ -27,9 +27,11 @@ The prereqisites in order to understand every single thing that is happening in 
 
 
 <hr>
+<center>
 
 ## REFERENCES 
 
+</center>
 <hr>
 
 ### :star2: PSI Dark Matter by David Morrissey 
@@ -52,9 +54,11 @@ Prerequisites : Moderate/ Maximal <br>
 Links : [Lecture notes](https://arxiv.org/abs/1705.01987)
 
 <hr>
+<center>
 
 ## MISC
 
+</center>
 <hr>
 
 ### Dark Matter course webpage at Aachen by Felix Karlhoefer 
