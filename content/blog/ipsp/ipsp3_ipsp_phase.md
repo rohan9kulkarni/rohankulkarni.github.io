@@ -30,7 +30,7 @@ Each course will have assignments (homework) that you need to hand in on a **we
 
 ### The first hurdle you face will be Theoretical Physics I (or, as it is called in IPSP, "TP1")
 
-You have never taken anything similar to such a course before. (My dataset for such a conclusion might be limited as the coursework slightly changes yearly. I make this comment based on the three iterations of this course. I have been a TA for two iterations and attended one iteration as a student). The upcoming advice applies to most first-year courses, not just this one, but TP1 is the one most people struggle with.
+You have never taken anything similar to such a course before. (My dataset for such a conclusion might be limited as the coursework slightly changes yearly. I make this comment based on the three iterations of this course. I have been a TA for two iterations and attended one iteration as a student). The upcoming advice applies to most first-year courses, not just this one, but TP1 is the one most people struggle with. This small section is just a headsup to pay extra attention and give more time to this subject as it might take some time to settle down with the concepts taught in this one. 
 
 ### Hmm, this sounds like a lot… What should I do?
 
