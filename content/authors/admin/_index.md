@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just a simple man who tries to make a difference.
+bio: Just a simple man trying to make a difference.
 
 interests:
 - High Energy Theory  
@@ -58,10 +58,10 @@ social:
   link: 'mailto:rohan.kulkarni@queensu.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/iamfeynstein
+  link: https://x.com/gaugegroupie?s=09
 - icon : instagram
   icon_pack : fas
-  link : https://instagram.com/iamfeynstein?igshid=NTA5ZTk1NTc=
+  link : https://instagram.com/gaugegroupie?igshid=OGQ5ZDc2ODk2ZA==
 #- icon: google-scholar
 #  icon_pack: ai
 #  link:
