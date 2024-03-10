@@ -3,7 +3,7 @@ title : IPSP Part 3 - I am here!! Let's make the best out of it.
 subtitle :  _And it begins..._
 share : true
 layout : docs
-date : 2023-07-18
+date : 2024-05-03
 toc : true
 ---
 
@@ -18,7 +18,6 @@ Every semester, you will be taking three mandatory modules,
 - Mathematics for Physicists
 
 And one elective. A total of 30 ECTS per semester is supposed to be your ideal workload.
-
 
 ## Do #1: The weekly assignments, SOLVE PROBLEMS
 

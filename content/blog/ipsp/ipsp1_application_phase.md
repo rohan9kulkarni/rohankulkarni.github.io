@@ -11,7 +11,7 @@ toc : true
 
 
 
-Warning: I graduated from IPSP in 2019 and was a TA until March 2020. Afaik, nothing has changed "drastically" yet since I left Leipzig. If I get any updates, I will try to point them out every time I update this page.  
+Warning: I graduated from IPSP in 2019 and was a TA until March 2020. Afaik, nothing has changed "drastically" since I left Leipzig. If I get any updates, I will try to point them out every time I update this page.  
 
 ## Q1) I come from "xyz" country, What are my chances of getting in IPSP? 
 
@@ -25,8 +25,8 @@ Note: Sometimes, your high-school certificate is not enough. In this case, you n
 
 - A year of *studienkolleg* (German skills required)
 - A year of university-level education *in your home country*. Physics and Math should be included in that year of education. It means, ideally, a year of BSc Physics in your home country. Engineering could also work if you have the relevant subjects.
-- Successfully fulfilling the criteria required by Uni-assist in some particular examination. (Indian students
-- Et cetera
+- Successfully fulfilling the criteria required by Uni-assist in some particular examination. (For example, Indian students can secure a seat by "passing" the JEE-Advanced exam)
+- Etc
 
 ## Q2) What is this Studienkolleg? 
 
@@ -36,9 +36,7 @@ In this scenario, you come from your high-school country to Germany. Finish Stud
 
 *Note*: The one benefit of Studienkolleg is that, because you finish your Studienkolleg in German, you can apply to any BSc Physics programs in Germany as long as you develop your German language skills at a particular standard in that year. Also, knowing fluent German will make your life much easier overall.
 
-##  Q3) What about for Indian students applying to IPSP? You should know it as you went through the same procedure.
-
- Being Indian, I get this question quite often from my fellow citizens. I can answer them specifically here.  
+##  Q3) What about for Indian students applying to IPSP? (I get this question quite often with for obvious reasons).
 
 This is the exact procedure,
 
