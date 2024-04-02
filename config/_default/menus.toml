@@ -13,10 +13,10 @@
   url = "#projects"
   weight = 2
 
-[[main]]
-  name = "Certifications"
-  url = "#accomplishments"
-  weight= 3
+# [[main]]
+#   name = "Certifications"
+#   url = "#accomplishments"
+#   weight= 3
 
 [[main]]
   name = "Teaching"
@@ -27,6 +27,7 @@
   name = "Blogsville"
   identifier = "blogposts"
   weight = 5
+  url = "blog/"
 
 [[main]]
   name = "Physics Ninja Chronicles (Notes)"
@@ -41,7 +42,7 @@
   weight = 1
 
 [[main]]
-  name = "The Physics Bibliosphere (Literature)"
+  name = "The Physics Bibliosphere (Literature recommendation)"
   url = "physics_literature"
   parent = "blogposts"
   weight = 2
