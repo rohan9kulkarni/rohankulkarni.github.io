@@ -4,7 +4,10 @@ subtitle : 'Your Passport to a Universe of Physics Knowledge'
 summary :
 share : false
 layout : docs
+date : 2024-04-02
 ---
+On this page, you'll find curated recommendations and reviews for physics literature, including books, articles, and other resources relevant to the field. Explore insightful summaries, reviews, and suggestions to enhance your understanding and enjoyment of physics-related literature. Whether you're a student, researcher, or enthusiast, discover valuable reading material to expand your knowledge and delve deeper into the world of physics.
+
 <!-- $~~~$ *<u>#draft</u>* -->
 ##   Undergraduate Physics Courses 
 

@@ -1,12 +1,12 @@
 ---
-title : 'Physics Ninja Chronicles'
-subtitle : 'Stealthily Slicing through Complexity, One Equation at a Time!'
+title : 'Physics Notes Repository'
+subtitle : ''
 summary : Notes
 share : false
 layout : docs
 toc: true
 ---
-:construction: Disclaimer : I am currently in the process of updating the page and adding a lot more. If the webpage is down or buggy for a day or two, I apologize for the inconvinience. Instead of uploading solutions coursewise, I will be uploading a much larger array of well documented problems+solutions and notes (if any).
+:construction: Disclaimer : I am (still, delayed by a lot) currently in the process of updating the page and adding a lot more. If the webpage is down or buggy for a day or two, I apologize for the inconvinience. Instead of uploading solutions coursewise, I will be uploading a much larger array of well documented problems+solutions and notes (if any).
 
 
 ## Standard Model of Particle Physics 
@@ -15,7 +15,7 @@ toc: true
 - :memo: [Higgs Z-boson production at electron-positron collider](/files/notes/sm/sm_higgs_z_production.pdf) :white_check_mark:
 - :memo: [Parity transformation of Fermion bilinears](/files/notes/sm/sm_fermion_transformation.pdf) :white_check_mark:
 - :memo: [Vector current of Anti-Fermions](/files/notes/sm/sm_vector_current_antifermions.pdf) :white_check_mark:
-- :memo: [Mandelstam variables in center-of-mass (CM) frame](/files/notes/sm/5_6_schwartz_madelstam.pdf) (Schwartz 5.6) :white_check_mark:
+- :computer: [Mandelstam variables in center-of-mass (CM) frame](/files/notes/sm/5_6_schwartz_madelstam.pdf) (Schwartz 5.6) :white_check_mark:
 
 ##  Quantum field theory
 

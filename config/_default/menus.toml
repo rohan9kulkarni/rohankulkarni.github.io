@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Blogsville"
+  url = "blog/"
   identifier = "blogposts"
   weight = 5
-  url = "blog/"
-
+  
 [[main]]
-  name = "Physics Ninja Chronicles (Notes)"
+  name = "Physics Notes Repository"
   url = "notes/"
   parent = "blogposts"
   weight = 3
@@ -42,7 +42,7 @@
   weight = 1
 
 [[main]]
-  name = "The Physics Bibliosphere (Literature recommendation)"
+  name = "Physics Bibliosphere"
   url = "physics_literature"
   parent = "blogposts"
   weight = 2
