@@ -59,12 +59,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rohan.kulkarni@queensu.ca'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  link: https://x.com/gaugegroupie?s=09
-- icon : instagram
-  icon_pack : fas
-  link : https://instagram.com/gaugegroupie?igshid=OGQ5ZDc2ODk2ZA==
+  link: https://www.instagram.com/gaugegroupie/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link:

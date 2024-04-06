@@ -112,7 +112,7 @@ phone = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/gaugegroupie/"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Send me a message on Keybase if you prefer a chat over mail :)", link = "https://keybase.io/feynstein"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,6 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
+instagram = "gaugegroupie"
 twitter = ""
 #keybase = "feynstein"
 
