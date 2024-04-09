@@ -7,7 +7,7 @@ tags:
 date: "2023-07-20"
 
 # Optional external URL for project (replaces project detail page).
-external_link : 
+external_link : https://zenodo.org/records/10950576
 
 #image:
 #  caption: Photo by Toa Heftiba on Unsplash
