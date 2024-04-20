@@ -1,5 +1,5 @@
 ---
-title : 'Physics Notes Repository'
+title : Physics Notes Repository
 subtitle : ''
 summary : Notes
 share : false

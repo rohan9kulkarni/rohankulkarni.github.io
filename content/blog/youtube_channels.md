@@ -1,5 +1,5 @@
 ---
-title : 'Scientific youtube channels'
+title : Scientific youtube channels
 subtitle :
 share : true
 layout : docs

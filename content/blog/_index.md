@@ -1,5 +1,5 @@
 ---
-title :  'The Quantum Quill'
+title :  The Quantum Quill
 subtitle : 'Guiding Physics Explorers on their Academic Journey'
 summary : 
 share : true

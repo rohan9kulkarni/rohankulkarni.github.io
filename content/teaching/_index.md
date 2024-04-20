@@ -1,5 +1,5 @@
 ---
-title : 'Teaching Experience'
+title : Teaching Experience
 subtitle : 'A short philosophy of teaching might be, love your subject and convey that love; all else is secondary. - J.D.Jackson'
 share : false
 layout : docs
@@ -13,7 +13,7 @@ toc : true
 <hr></center>
 
 - #### <span style="color:#3db18b"> Summer Semester 2024 (Ongoing) </span>
-  - Obertutor (Head Tutor) for M.Sc. Physics specialization course on <u>*Advanced Quantum Field Theory (QFT II)*</u> - [Homepage QFTII (In construction)]({{ref"heidelberg/ss24_qftii"}})
+  - Obertutor (Head Tutor) for M.Sc. Physics specialization course on <u>*Advanced Quantum Field Theory (QFT II)*</u> - [Homepage QFTII (In construction)]({{<ref"heidelberg/sose24_qftii">}})
 
 - #### <span style="color:#3db18b"> Summer Semester 2021 </span>
   - Tutor for M.Sc. Physics core course on <u>*General Relativity*</u> - [Homepage GR]({{<ref"heidelberg/ss21_gr_inactive">}})
