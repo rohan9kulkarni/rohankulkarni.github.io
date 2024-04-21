@@ -1,5 +1,5 @@
 ---
-title : 'Semester III tutorial for winter semester 2019/20'
+title : Semester III tutorial for winter semester 2019/20
 share : true
 layout : docs
 date : 2020-02-20

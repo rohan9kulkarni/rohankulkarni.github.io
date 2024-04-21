@@ -1,5 +1,5 @@
 ---
-title : 'Ph.D. Physics Applications 101 (Canada and Germany)'
+title : Ph.D. Physics Applications 101 (Canada and Germany)
 subtitle : ''
 share : false
 layout : docs
