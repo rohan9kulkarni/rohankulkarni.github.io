@@ -1,5 +1,5 @@
 ---
-title : Theoretical Physics II: Electrodynamics exam preparation
+title : Theoretical Physics II - Electrodynamics exam preparation
 subtitle : '<span style = "color:#3db19b"  > <i>This is a guide for people who are preparing for the TP2 exam (with Dr. Kreisel) at the IPSP program, University of Leipzig. All the hints and suggestions are based on the premise that, If I had to prepare for this examination, I would have followed the following steps. </i></span> '
 share : true
 layout : docs
