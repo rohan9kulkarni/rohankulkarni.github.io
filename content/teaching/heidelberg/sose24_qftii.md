@@ -41,7 +41,7 @@ date : 2024-04-20
    - What is renormalization? (The idea of dressed particles)
    - Connection between renormalization and the spectral density function
 
-    [Notes](https://drive.google.com/file/d/1vSBIO09uXfTIGl8vvQs7OgRXJcWOcrwb/view?usp=sharing)
+    [Notes](https://drive.google.com/file/d/1vSBIO09uXfTIGl8vvQs7OgRXJcWOcrwb/view?usp=sharing)<br>
     [Supplementary material](https://drive.google.com/file/d/1vVTOQOM-ELDTf9YdZJdLmIJTmjSRctAj/view?usp=sharing) (A detailed worked out version of first 6-7 pages of Chapter 7 of Peskin & Schroeder)
 <br>
 
