@@ -1,6 +1,6 @@
 ---
-title : 'Advanced Quantum Field Theory (QFTII)'
-subtitle : "Summer Semester 2024"
+title : Advanced Quantum Field Theory (QFTII)
+subtitle : Summer Semester 2024, Heidelberg University
 share : true
 layout : docs
 date : 2024-04-20
