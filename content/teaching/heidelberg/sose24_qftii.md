@@ -40,10 +40,13 @@ date : 2024-04-20
    - A brief discussion of good literature.
    - What is renormalization? (The idea of dressed particles)
    - Connection between renormalization and the spectral density function
-   - Renormalizing $\lambda \phi^4$ (If time permits, mostly will be continued next week)
 
-  <br>
+    [Notes](https://drive.google.com/file/d/1vSBIO09uXfTIGl8vvQs7OgRXJcWOcrwb/view?usp=sharing)
+    [Supplementary material](https://drive.google.com/file/d/1vVTOQOM-ELDTf9YdZJdLmIJTmjSRctAj/view?usp=sharing) (A detailed worked out version of first 6-7 pages of Chapter 7 of Peskin & Schroeder)
+<br>
 
 3. *Thursday, **2 May 2024***, (2:15 PM - 4:00 PM)<br>
-
+-  Buildup for renormalizing $\lambda \phi^4$ 
+-  Systemics of renormalization
+-  Renormalizing $\lambda \phi^4$ 
 
