@@ -16,7 +16,7 @@ date : 2024-04-20
 
 #### <span style="color:salmon"> Personal recommendations </span> -->
 
-## <span style="color:orange">**Additional Tutorials** </span>
+## <span style="color:orange">**Plenary tutorials** </span>
 
 <!-- #### <span style="color:salmon"> Handouts </span>
 
@@ -46,7 +46,14 @@ date : 2024-04-20
 <br>
 
 3. *Thursday, **2 May 2024***, (2:15 PM - 4:00 PM)<br>
--  Buildup for renormalizing $\lambda \phi^4$ 
--  Systemics of renormalization
--  Renormalizing $\lambda \phi^4$ 
+   -  Buildup for renormalizing $\lambda \phi^4$ 
+   -  Systemics of renormalization (Skipped for now!)
+   -  Renormalizing $\lambda \phi^4$ 
+[Notes](https://drive.google.com/file/d/1oK_-WnFbYnQvGr28PPT7gjsElOh_dzzI/view?usp=sharing)
 
+<br>
+
+4. *Thursday, **16 May 2024***, (2:15 PM - 4:00 PM)<br>
+   - How interactions change the propagator in perturbation theory (1PI diagrams)
+   - Role of counterterms (Renormalization conditions)
+   - Vertex function
