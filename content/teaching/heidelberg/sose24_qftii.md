@@ -49,7 +49,8 @@ date : 2024-04-20
    -  Buildup for renormalizing $\lambda \phi^4$ 
    -  Systemics of renormalization (Skipped for now!)
    -  Renormalizing $\lambda \phi^4$ 
-[Notes](https://drive.google.com/file/d/1oK_-WnFbYnQvGr28PPT7gjsElOh_dzzI/view?usp=sharing)
+    
+    [Notes](https://drive.google.com/file/d/1oK_-WnFbYnQvGr28PPT7gjsElOh_dzzI/view?usp=sharing)
 
 <br>
 
