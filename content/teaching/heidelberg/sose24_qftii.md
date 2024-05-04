@@ -57,3 +57,10 @@ date : 2024-04-20
    - How interactions change the propagator in perturbation theory (1PI diagrams)
    - Role of counterterms (Renormalization conditions)
    - Vertex function
+
+<br>
+
+5. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)<br>
+   - A summary of renormalized QED
+
+(Ideally, this is the last tutorial on renormalization)
