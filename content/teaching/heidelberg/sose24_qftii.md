@@ -64,4 +64,19 @@ date : 2024-04-20
 5. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)<br>
    - A summary of renormalized QED
 
-(Ideally, this is the last tutorial on renormalization)
+Ideally, this is the last tutorial on renormalization. Tentative plan for the remaining tutorials (not necessarily in the order as written down):
+
+- A primer on Lie Groups
+- A deep dive into Faddeev Popov quantization 
+    - Faddeev Popov quantization for U(1)
+    - Faddeev Popov quantization for Non-Abelian gauge theories
+
+
+6. *Thursday, **6 June 2024***, (2:15 PM - 4:00 PM) <br> 
+7. *Thursday, **13 June 2024***, (2:15 PM - 4:00 PM)<br>
+8. *Thursday, **20 June 2024***, (2:15 PM - 4:00 PM) <br>
+9. *Thursday, **27 June 2024***, (2:15 PM - 4:00 PM)<br>
+10. *Thursday, **4 July 2024***, (2:15 PM - 4:00 PM)<br>
+11. *Thursday, **11 July 2024***, (2:15 PM - 4:00 PM)<br>
+12. ? *Thursday, **18 July 2024***, (2:15 PM - 4:00 PM)<br>
+13. ?  *Thursday, **25 July 2024***, (2:15 PM - 4:00 PM)<br>
