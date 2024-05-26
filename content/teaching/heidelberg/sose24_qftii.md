@@ -64,4 +64,7 @@ date : 2024-04-20
 5. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)<br>
    - A summary of renormalized QED
 
+   [Notes - Part 1](https://drive.google.com/file/d/1LmYkDtnwyloZ_rfB6PcKJRenMA1wjsw-/view?usp=sharing), [Notes - Part 2](https://drive.google.com/open?id=1LnizwT0niqWCjsdiB3-enn6TWf7lvQ-z&usp=drive_fs), [Notes - Supplementary part 2](https://drive.google.com/file/d/1Ljv8PBIAMlncP7aH7vWMBbrRJe5wHo9X/view?usp=sharing)
+
+
 (Ideally, this is the last tutorial on renormalization)
