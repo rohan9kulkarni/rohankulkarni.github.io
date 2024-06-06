@@ -37,7 +37,6 @@ date : 2024-04-20
 <br>
 
 2. *Thursday, **25 April 2024***,  (2:15 PM - 4:00 PM)<br>
-   - A brief discussion of good literature.
    - What is renormalization? (The idea of dressed particles)
    - Connection between renormalization and the spectral density function
 
@@ -45,7 +44,7 @@ date : 2024-04-20
     [Supplementary material](https://drive.google.com/file/d/1vVTOQOM-ELDTf9YdZJdLmIJTmjSRctAj/view?usp=sharing) (A detailed worked out version of first 6-7 pages of Chapter 7 of Peskin & Schroeder)
 <br>
 
-3. *Thursday, **2 May 2024***, (2:15 PM - 4:00 PM)<br>
+1. *Thursday, **2 May 2024***, (2:15 PM - 4:00 PM)<br>
    -  Buildup for renormalizing $\lambda \phi^4$ 
    -  Systemics of renormalization (Skipped for now!)
    -  Renormalizing $\lambda \phi^4$ 
@@ -59,12 +58,19 @@ date : 2024-04-20
    - Role of counterterms (Renormalization conditions)
    - Vertex function
 
+   Notes -  Chapter 33 of QFT for the Gifted Amatuer
 <br>
 
 5. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)<br>
    - A summary of renormalized QED
 
    [Notes - Part 1](https://drive.google.com/file/d/1LmYkDtnwyloZ_rfB6PcKJRenMA1wjsw-/view?usp=sharing), [Notes - Part 2](https://drive.google.com/open?id=1LnizwT0niqWCjsdiB3-enn6TWf7lvQ-z&usp=drive_fs), [Notes - Supplementary part 2](https://drive.google.com/file/d/1Ljv8PBIAMlncP7aH7vWMBbrRJe5wHo9X/view?usp=sharing)
+<br>
+
+6. *Thursday, **07 May 2024***, (2:15 PM - 4:00 PM)<br>
+   - Faddeev Popov gauge fixing technique for QED (Abelian theory)
+   
+   [Notes](https://drive.google.com/file/d/1GYodpjTlbQwfhpDL98QNDyZWIGOgF6Wt/view?usp=sharing)
 
 
 (Ideally, this is the last tutorial on renormalization)
