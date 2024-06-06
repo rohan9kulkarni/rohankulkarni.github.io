@@ -53,7 +53,7 @@ date : 2024-04-20
 
 <br>
 
-4. *Thursday, **16 May 2024***, (2:15 PM - 4:00 PM)<br>
+4. *Thursday, **16 May 2024***, (2:15 PM - 4:00 PM)
    - How interactions change the propagator in perturbation theory (1PI diagrams)
    - Role of counterterms (Renormalization conditions)
    - Vertex function
@@ -61,16 +61,16 @@ date : 2024-04-20
    Notes -  Chapter 33 of QFT for the Gifted Amatuer
 <br>
 
-5. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)<br>
+1. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)
    - A summary of renormalized QED
 
    [Notes - Part 1](https://drive.google.com/file/d/1LmYkDtnwyloZ_rfB6PcKJRenMA1wjsw-/view?usp=sharing), [Notes - Part 2](https://drive.google.com/open?id=1LnizwT0niqWCjsdiB3-enn6TWf7lvQ-z&usp=drive_fs), [Notes - Supplementary part 2](https://drive.google.com/file/d/1Ljv8PBIAMlncP7aH7vWMBbrRJe5wHo9X/view?usp=sharing)
 <br>
 
-6. *Thursday, **07 May 2024***, (2:15 PM - 4:00 PM)<br>
+1. *Thursday, **07 June 2024***, (2:15 PM - 4:00 PM)<br>
    - Faddeev Popov gauge fixing technique for QED (Abelian theory)
    
    [Notes](https://drive.google.com/file/d/1GYodpjTlbQwfhpDL98QNDyZWIGOgF6Wt/view?usp=sharing)
 
+Tutorial 6 is the last tutorial until any further notice! 
 
-(Ideally, this is the last tutorial on renormalization)
