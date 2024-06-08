@@ -37,7 +37,6 @@ date : 2024-04-20
 <br>
 
 2. *Thursday, **25 April 2024***,  (2:15 PM - 4:00 PM)<br>
-   - A brief discussion of good literature.
    - What is renormalization? (The idea of dressed particles)
    - Connection between renormalization and the spectral density function
 
@@ -45,7 +44,7 @@ date : 2024-04-20
     [Supplementary material](https://drive.google.com/file/d/1vVTOQOM-ELDTf9YdZJdLmIJTmjSRctAj/view?usp=sharing) (A detailed worked out version of first 6-7 pages of Chapter 7 of Peskin & Schroeder)
 <br>
 
-3. *Thursday, **2 May 2024***, (2:15 PM - 4:00 PM)<br>
+1. *Thursday, **2 May 2024***, (2:15 PM - 4:00 PM)<br>
    -  Buildup for renormalizing $\lambda \phi^4$ 
    -  Systemics of renormalization (Skipped for now!)
    -  Renormalizing $\lambda \phi^4$ 
@@ -54,29 +53,24 @@ date : 2024-04-20
 
 <br>
 
-4. *Thursday, **16 May 2024***, (2:15 PM - 4:00 PM)<br>
+4. *Thursday, **16 May 2024***, (2:15 PM - 4:00 PM)
    - How interactions change the propagator in perturbation theory (1PI diagrams)
    - Role of counterterms (Renormalization conditions)
    - Vertex function
 
+   Notes -  Chapter 33 of QFT for the Gifted Amatuer
 <br>
 
-5. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)<br>
+1. *Thursday, **23 May 2024***, (2:15 PM - 4:00 PM)
    - A summary of renormalized QED
 
-Ideally, this is the last tutorial on renormalization. Tentative plan for the remaining tutorials (not necessarily in the order as written down):
+   [Notes - Part 1](https://drive.google.com/file/d/1LmYkDtnwyloZ_rfB6PcKJRenMA1wjsw-/view?usp=sharing), [Notes - Part 2](https://drive.google.com/open?id=1LnizwT0niqWCjsdiB3-enn6TWf7lvQ-z&usp=drive_fs), [Notes - Supplementary part 2](https://drive.google.com/file/d/1Ljv8PBIAMlncP7aH7vWMBbrRJe5wHo9X/view?usp=sharing)
+<br>
 
-- A primer on Lie Groups
-- A deep dive into Faddeev Popov quantization 
-    - Faddeev Popov quantization for U(1)
-    - Faddeev Popov quantization for Non-Abelian gauge theories
+1. *Thursday, **07 June 2024***, (2:15 PM - 4:00 PM)<br>
+   - Faddeev Popov gauge fixing technique for QED (Abelian theory)
+   
+   [Notes](https://drive.google.com/file/d/1GYodpjTlbQwfhpDL98QNDyZWIGOgF6Wt/view?usp=sharing)
 
+Tutorial 6 is the last tutorial until any further notice! 
 
-6. *Thursday, **6 June 2024***, (2:15 PM - 4:00 PM) <br> 
-7. *Thursday, **13 June 2024***, (2:15 PM - 4:00 PM)<br>
-8. *Thursday, **20 June 2024***, (2:15 PM - 4:00 PM) <br>
-9. *Thursday, **27 June 2024***, (2:15 PM - 4:00 PM)<br>
-10. *Thursday, **4 July 2024***, (2:15 PM - 4:00 PM)<br>
-11. *Thursday, **11 July 2024***, (2:15 PM - 4:00 PM)<br>
-12. ? *Thursday, **18 July 2024***, (2:15 PM - 4:00 PM)<br>
-13. ?  *Thursday, **25 July 2024***, (2:15 PM - 4:00 PM)<br>
