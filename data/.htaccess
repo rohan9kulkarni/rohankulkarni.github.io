@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/blog
+RewriteRule ^(.*)$ https://thequantumquill.notion.sites/$1 [R=301,L]
