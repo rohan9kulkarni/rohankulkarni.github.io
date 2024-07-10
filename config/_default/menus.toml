@@ -37,7 +37,7 @@
 
 [[main]]
   name = "The Quantum Quill (Blogs)"
-  url = "blog/"
+  url = "https://thequantumquill.notion.sites"
   parent = "blogposts"
   weight = 1
 
