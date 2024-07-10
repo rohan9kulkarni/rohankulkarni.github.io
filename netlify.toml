@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+    
+[[redirects]]
+  from = "/blog/*"
+  to = "https://thequantumquill.notion.sites/:splat"
+  status = 301
+  force = true
