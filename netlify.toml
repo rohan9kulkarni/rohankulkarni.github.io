@@ -27,6 +27,6 @@
     
 [[redirects]]
   from = "/blog/*"
-  to = "https://thequantumquill.notion.sites/:splat"
+  to = "https://thequantumquill.notion.site/:splat"
   status = 301
   force = true
